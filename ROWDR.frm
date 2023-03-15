@@ -13,7 +13,7 @@ Begin VB.Form Form1
       Caption         =   "ROLL!"
       CausesValidation=   0   'False
       BeginProperty Font 
-         Name            =   "Monospac821 BT"
+         Name            =   "Times New Roman"
          Size            =   24
          Charset         =   0
          Weight          =   700
@@ -84,7 +84,7 @@ Private Sub Command1_Click()
     ElseIf (Label1.Caption = 11) Then
         Text1.Text = "3d10 harmless lumps as big as walnuts cover the caster’s body"
     ElseIf (Label1.Caption = 12) Then
-        Text1.Text = "3d10 quarts of olive oil pour from caster’s ears"    
+        Text1.Text = "3d10 quarts of olive oil pour from caster’s ears"
     ElseIf (Label1.Caption = 13) Then
         Text1.Text = "4d6 non-functioning eyes appear on the caster’s face and head"
     ElseIf (Label1.Caption = 14) Then
@@ -94,13 +94,13 @@ Private Sub Command1_Click()
     ElseIf (Label1.Caption = 16) Then
         Text1.Text = "A basement’s been installed in caster’s home while he’s been away"
     ElseIf (Label1.Caption = 17) Then
-        Text1.Text = "A close friend of the caster is an assassin hired to kill him" 
+        Text1.Text = "A close friend of the caster is an assassin hired to kill him"
     ElseIf (Label1.Caption = 18) Then
-        Text1.Text = "A distant but powerful army declares war on the caster"         
+        Text1.Text = "A distant but powerful army declares war on the caster"
     ElseIf (Label1.Caption = 19) Then
-        Text1.Text = "A drop of the caster’s blood can purify 1d4 gallons of water"         
+        Text1.Text = "A drop of the caster’s blood can purify 1d4 gallons of water"
     ElseIf (Label1.Caption = 20) Then
-        Text1.Text = "A family of skunks has taken up residence in the caster’s home"         
+        Text1.Text = "A family of skunks has taken up residence in the caster’s home"
     ElseIf (Label1.Caption = 21) Then
         Text1.Text = "A fast-growing oak sprouts beneath the caster’s home"
     ElseIf (Label1.Caption = 22) Then
@@ -142,13 +142,13 @@ Private Sub Command1_Click()
     ElseIf (Label1.Caption = 40) Then
         Text1.Text = "A strong net falls from the sky and entangles the caster"
     ElseIf (Label1.Caption = 41) Then
-        Text1.Text = "A swirl of rainbows accompanies any spell cast by caster"        
+        Text1.Text = "A swirl of rainbows accompanies any spell cast by caster"
     ElseIf (Label1.Caption = 42) Then
         Text1.Text = "A tornado picks caster up and deposits him atop the nearest house"
     ElseIf (Label1.Caption = 43) Then
         Text1.Text = "After a horrifying tragedy, caster squanders the world’s goodwill"
     ElseIf (Label1.Caption = 44) Then
-        Text1.Text = "After each spell, a lighted cigar appears in caster’s mouth"        
+        Text1.Text = "After each spell, a lighted cigar appears in caster’s mouth"
     ElseIf (Label1.Caption = 45) Then
         Text1.Text = "After each spell, a pebble falls from each of caster’s ears"
     ElseIf (Label1.Caption = 46) Then
@@ -160,9 +160,9 @@ Private Sub Command1_Click()
     ElseIf (Label1.Caption = 49) Then
         Text1.Text = "After each spell, caster appears to be decomposing"
     ElseIf (Label1.Caption = 50) Then
-        Text1.Text = "After each spell, caster appears to be made of pure ice"        
+        Text1.Text = "After each spell, caster appears to be made of pure ice"
     ElseIf (Label1.Caption = 51) Then
-        Text1.Text = "After each spell, caster appears to be utterly insane"         
+        Text1.Text = "After each spell, caster appears to be utterly insane"
     ElseIf (Label1.Caption = 52) Then
         Text1.Text = "After each spell, caster applauds himself"
     ElseIf (Label1.Caption = 53) Then
