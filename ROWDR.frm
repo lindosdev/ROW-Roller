@@ -289,6 +289,18 @@ Private Sub Command1_Click()
         Text1.Text = "After each spell, caster vanishes very briefly vanishes"
     ElseIf (Label1.Caption = 114) Then
         Text1.Text = "After each spell, caster’s clothes age 1d100 years"
+    ElseIf (Label1.Caption = 115) Then
+        Text1.Text = "After each spell, caster’s clothes billow with green smoke"
+    ElseIf (Label1.Caption = 116) Then
+        Text1.Text = "After each spell, caster’s eyes briefly double in size"
+    ElseIf (Label1.Caption = 117) Then
+        Text1.Text = "After each spell, caster’s face looks 50 years older"
+    ElseIf (Label1.Caption = 118) Then
+        Text1.Text = "After each spell, caster’s feet are covered with ash"
+    ElseIf (Label1.Caption = 119) Then
+        Text1.Text = "After each spell, caster’s hair grows two inches"
+    ElseIf (Label1.Caption = 120) Then
+        Text1.Text = "After each spell, caster’s hands display classic stigmata"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
