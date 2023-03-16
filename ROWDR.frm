@@ -420,6 +420,24 @@ Private Sub Command1_Click()
         Text1.Text = "Any arrow striking the caster inflicts equal damage on its archer"
     ElseIf (Label1.Caption = 170) Then
         Text1.Text = "Any attack-based spell cast by caster is 10% likely to affect him"
+    ElseIf (Label1.Caption = 171) Then
+        Text1.Text = "Any attack-based spell cast by caster is delayed 1d4 rounds"
+    ElseIf (Label1.Caption = 172) Then
+        Text1.Text = "Any attempt to change shape locks the caster into that new shape"
+    ElseIf (Label1.Caption = 173) Then
+        Text1.Text = "Any attempt to change shape makes the caster forget his true form"
+    ElseIf (Label1.Caption = 174) Then
+        Text1.Text = "Any attempt to change shape will age the caster 1d10 years"
+    ElseIf (Label1.Caption = 175) Then
+        Text1.Text = "Any attempt to change shape will be only partially successful"
+    ElseIf (Label1.Caption = 176) Then
+        Text1.Text = "Any attempt to change shape will cause the caster to take root"
+    ElseIf (Label1.Caption = 177) Then
+        Text1.Text = "Any attempt to change shape will leave his feet unchanged"
+    ElseIf (Label1.Caption = 178) Then
+        Text1.Text = "Any attempt to change shape will make the caster bald forever"
+    ElseIf (Label1.Caption = 179) Then
+        Text1.Text = "Any attempt to change shape will render the caster genderless"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
