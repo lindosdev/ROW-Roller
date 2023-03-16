@@ -667,6 +667,26 @@ Private Sub Command1_Click()
         Text1.Text = "Anyone who looks deep into caster’s mouth risks insanity"
     ElseIf (Label1.Caption = 290) Then
         Text1.Text = "Anything caster drinks is 50% likely to fall from his mouth"
+    ElseIf (Label1.Caption = 291) Then
+        Text1.Text = "Anything written by caster appears as gibberish to everyone else"
+    ElseIf (Label1.Caption = 292) Then
+        Text1.Text = "Artifacts react unpredictably when caster attempts to use them"
+    ElseIf (Label1.Caption = 293) Then
+        Text1.Text = "Before each spell, caster must address someone who isn’t there"
+    ElseIf (Label1.Caption = 294) Then
+        Text1.Text = "Before each spell, caster must anoint his head with water"
+    ElseIf (Label1.Caption = 295) Then
+        Text1.Text = "Before each spell, caster must bark like a dog for 2d6 seconds"
+    ElseIf (Label1.Caption = 296) Then
+        Text1.Text = "Before each spell, caster must bite a gold coin"
+    ElseIf (Label1.Caption = 297) Then
+        Text1.Text = "Before each spell, caster must blaspheme some god of chaos"
+    ElseIf (Label1.Caption = 298) Then
+        Text1.Text = "Before each spell, caster must claim that his shoes are too tight"
+    ElseIf (Label1.Caption = 299) Then
+        Text1.Text = "Before each spell, caster must claim to be invincible"
+    ElseIf (Label1.Caption = 300) Then
+        Text1.Text = "Before each spell, caster must clear his throat loudly"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
