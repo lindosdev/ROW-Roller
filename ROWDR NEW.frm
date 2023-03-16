@@ -585,6 +585,28 @@ Private Sub Command1_Click()
         Text1.Text = "Any magical scrolls now carried by caster turn to steel"
     ElseIf (Label1.Caption = 249) Then
         Text1.Text = "Any metal object carried by caster is 90% transparent"
+    ElseIf (Label1.Caption = 250) Then
+        Text1.Text = "Any metal object carried by caster seems 10x its normal weight"
+    ElseIf (Label1.Caption = 251) Then
+        Text1.Text = "Any metal that caster is carrying turns to liquid like mercury"
+    ElseIf (Label1.Caption = 252) Then
+        Text1.Text = "Any missile fired at caster is 10% likely to explode when it hits"
+    ElseIf (Label1.Caption = 253) Then
+        Text1.Text = "Any missile fired at caster is at a -3 penalty to hit him"
+    ElseIf (Label1.Caption = 254) Then
+        Text1.Text = "Any missile fired by caster is 10% likely to vanish in flight"
+    ElseIf (Label1.Caption = 255) Then
+        Text1.Text = "Any missile shot by caster is destroyed by lightning mid-flight"
+    ElseIf (Label1.Caption = 256) Then
+        Text1.Text = "Any missile striking caster is 10% likely to be just an illusion"
+    ElseIf (Label1.Caption = 257) Then
+        Text1.Text = "Any mountain more than one mile from caster is invisible to him"
+    ElseIf (Label1.Caption = 258) Then
+        Text1.Text = "Any ranged spell used by caster seems to issue from his eyes"
+    ElseIf (Label1.Caption = 259) Then
+        Text1.Text = "Any ranged spell used by caster seems to issue from someone else"
+    ElseIf (Label1.Caption = 260) Then
+        Text1.Text = "Any rope currently carried by caster doubles in length"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
