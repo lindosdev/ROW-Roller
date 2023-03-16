@@ -607,6 +607,26 @@ Private Sub Command1_Click()
         Text1.Text = "Any ranged spell used by caster seems to issue from someone else"
     ElseIf (Label1.Caption = 260) Then
         Text1.Text = "Any rope currently carried by caster doubles in length"
+    ElseIf (Label1.Caption = 261) Then
+        Text1.Text = "Any rope currently carried by caster turns to braided gold wire"
+    ElseIf (Label1.Caption = 262) Then
+        Text1.Text = "Any rope that caster is now carrying becomes frictionless"
+    ElseIf (Label1.Caption = 263) Then
+        Text1.Text = "Any rope that caster is now carrying is soaked with lamp oil"
+    ElseIf (Label1.Caption = 264) Then
+        Text1.Text = "Any shield held by caster appears to be made of Swiss cheese"
+    ElseIf (Label1.Caption = 265) Then
+        Text1.Text = "Any shield held by caster appears to weigh 100 pounds"
+    ElseIf (Label1.Caption = 266) Then
+        Text1.Text = "Any shield held by caster gains a +1 bonus while he holds it"
+    ElseIf (Label1.Caption = 267) Then
+        Text1.Text = "Any shield held by caster is ethereal in the presence of weapons"
+    ElseIf (Label1.Caption = 268) Then
+        Text1.Text = "Any shield held by caster is impervious to magical fire"
+    ElseIf (Label1.Caption = 269) Then
+        Text1.Text = "Any spells cast by caster are accompanied by twinkling lights"
+    ElseIf (Label1.Caption = 270) Then
+        Text1.Text = "Any spells cast by caster upon himself have an undesirable effect"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
