@@ -323,7 +323,24 @@ Private Sub Command1_Click()
         Text1.Text = "After each spell, light shines from caster’s mouth for 1d6 rounds"
     ElseIf (Label1.Caption = 131) Then
         Text1.Text = "After each spell, small lumps of ice fall from caster’s nostrils"
-
+    ElseIf (Label1.Caption = 132) Then
+        Text1.Text = "After each spell, smoke hangs in the air about the caster"
+    ElseIf (Label1.Caption = 133) Then
+        Text1.Text = "After each spell, stones near the caster glisten with slime"
+    ElseIf (Label1.Caption = 134) Then
+        Text1.Text = "After each spell, sunlight is painful to caster for 1d4 rounds"
+    ElseIf (Label1.Caption = 135) Then
+        Text1.Text = "Alcohol has no effect upon the caster, but cheese is intoxicating"
+    ElseIf (Label1.Caption = 136) Then
+        Text1.Text = "All holy symbols within 100 yards bear the caster’s image"
+    ElseIf (Label1.Caption = 137) Then
+        Text1.Text = "All of caster’s clothing is colored safety orange"    
+    ElseIf (Label1.Caption = 138) Then
+        Text1.Text = "All of caster’s clothing is permanently moist"
+    ElseIf (Label1.Caption = 139) Then
+        Text1.Text = "All of caster’s enemies with 100 yards vanish until dawn"
+    ElseIf (Label1.Caption = 140) Then
+        Text1.Text = "All of caster’s fingers are as long as his middle finger"
 
     Else
         Text1.Text = "Roll result not yet programmed"
