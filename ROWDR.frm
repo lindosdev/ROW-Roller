@@ -1,10 +1,10 @@
 '    Rod of Wonder Dice Roller
 
 '    Copyright (c)  2023 by Gary J. Teixeira Jr.
-'    Permission is granted to copy. distribute and/or modify this document
+'    Permission is granted to copy. distribute and/or modify this program
 '    under the terms of the Attribution-NonCommercial 4.0 International License
 
-'    This book is distributed in the hope that it will be useful,
+'    This program is distributed in the hope that it will be useful,
 '    but WITHOUT ANY WARRANTY; without even the implied warranty of
 '    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
@@ -398,6 +398,28 @@ Private Sub Command1_Click()
         Text1.Text = "Alternating pages of caster’s spellbook are indestructible"
     ElseIf (Label1.Caption = 160) Then
         Text1.Text = "An accurate illusion of caster copies his movements one mile away"
+    ElseIf (Label1.Caption = 161) Then
+        Text1.Text = "An illusory statue of the caster stands at this spot for one year"
+    ElseIf (Label1.Caption = 162) Then
+        Text1.Text = "An image of caster’s beating heart hovers in the nearest doorway"
+    ElseIf (Label1.Caption = 163) Then
+        Text1.Text = "An image of the caster’s head hovers over his actual head"
+    ElseIf (Label1.Caption = 163) Then
+        Text1.Text = "An image of the caster’s head hovers over his actual head"
+    ElseIf (Label1.Caption = 164) Then
+        Text1.Text = "An image the of caster’s beating heart hovers over his head"
+    ElseIf (Label1.Caption = 165) Then
+        Text1.Text = "Any Abjurations currently affecting the caster are Dispelled"
+    ElseIf (Label1.Caption = 166) Then
+        Text1.Text = "Any armor that the caster is wearing right now shrinks by 80%"
+    ElseIf (Label1.Caption = 167) Then
+        Text1.Text = "Any armor that the caster is wearing right now vanishes forever"
+    ElseIf (Label1.Caption = 168) Then
+        Text1.Text = "Any arrow striking the caster disintegrates in 1d4 rounds"
+    ElseIf (Label1.Caption = 169) Then
+        Text1.Text = "Any arrow striking the caster inflicts equal damage on its archer"
+    ElseIf (Label1.Caption = 170) Then
+        Text1.Text = "Any attack-based spell cast by caster is 10% likely to affect him"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
