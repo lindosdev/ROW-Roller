@@ -377,7 +377,27 @@ Private Sub Command1_Click()
     ElseIf (Label1.Caption = 149) Then
         Text1.Text = "All trees within 100 yards form into a tight circle around caster"
     ElseIf (Label1.Caption = 150) Then
-        Text1.Text = "ll undead within 1d4 miles blame the caster for their undeath"
+        Text1.Text = "All undead within 1d4 miles blame the caster for their undeath"
+    ElseIf (Label1.Caption = 151) Then
+        Text1.Text = "All undead within 1d4 miles race to the caster’s current location"
+    ElseIf (Label1.Caption = 152) Then
+        Text1.Text = "All vegetation now within 10 miles is highly toxic to caster"
+    ElseIf (Label1.Caption = 153) Then
+        Text1.Text = "All vegetation now within 100 yards is invisible to caster"
+    ElseIf (Label1.Caption = 154) Then
+        Text1.Text = "All who meet caster are 50% likely to think he smells like manure"
+    ElseIf (Label1.Caption = 155) Then
+        Text1.Text = "All who meet caster are 60% likely to think he’s a lycanthrope"
+    ElseIf (Label1.Caption = 156) Then
+        Text1.Text = "All who meet caster are 60% likely to think he’s undead"
+    ElseIf (Label1.Caption = 157) Then
+        Text1.Text = "All within 10 yards of caster are sprayed with viscous ectoplasm"
+    ElseIf (Label1.Caption = 158) Then
+        Text1.Text = "All within 10 yards of caster attack him for 1d4 rounds"
+    ElseIf (Label1.Caption = 159) Then
+        Text1.Text = "Alternating pages of caster’s spellbook are indestructible"
+    ElseIf (Label1.Caption = 160) Then
+        Text1.Text = "An accurate illusion of caster copies his movements one mile away"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
