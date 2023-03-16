@@ -1,3 +1,20 @@
+'    Rod of Wonder Dice Roller
+
+'    Copyright (c)  2023 by Gary J. Teixeira Jr.
+'    Permission is granted to copy. distribute and/or modify this document
+'    under the terms of the Attribution-NonCommercial 4.0 International License
+
+'    This book is distributed in the hope that it will be useful,
+'    but WITHOUT ANY WARRANTY; without even the implied warranty of
+'    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+'    You may contact the developer at: ambientmine@protonmail.com
+
+
+' Change ° to degrees
+' Change % to percent
+
+
 VERSION 5.00
 Begin VB.Form Form1 
    Caption         =   "Rod Of Wonder Dice Roller"
