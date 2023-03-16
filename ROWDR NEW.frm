@@ -647,6 +647,26 @@ Private Sub Command1_Click()
         Text1.Text = "Anyone drinking a potion near caster looks like him until sunset"
     ElseIf (Label1.Caption = 280) Then
         Text1.Text = "Anyone drinking a potion shrinks by 50% for its duration"
+    ElseIf (Label1.Caption = 281) Then
+        Text1.Text = "Anyone in caster’s presence can’t employ Direction Sense"
+    ElseIf (Label1.Caption = 282) Then
+        Text1.Text = "Anyone in caster’s presence thinks that he represents True North"
+    ElseIf (Label1.Caption = 283) Then
+        Text1.Text = "Anyone related to caster by blood is invisible to him"
+    ElseIf (Label1.Caption = 284) Then
+        Text1.Text = "Anyone slain by caster becomes invisible upon death"
+    ElseIf (Label1.Caption = 285) Then
+        Text1.Text = "Anyone trying to pick caster’s pocket shrinks by 50%"
+    ElseIf (Label1.Caption = 286) Then
+        Text1.Text = "Anyone trying to scry the caster’s whereabouts sees this location"
+    ElseIf (Label1.Caption = 287) Then
+        Text1.Text = "Anyone voluntarily struck by caster’s magic resents him for it"
+    ElseIf (Label1.Caption = 288) Then
+        Text1.Text = "Anyone who knows caster’s name gives him an offensive nickname"
+    ElseIf (Label1.Caption = 289) Then
+        Text1.Text = "Anyone who looks deep into caster’s mouth risks insanity"
+    ElseIf (Label1.Caption = 290) Then
+        Text1.Text = "Anything caster drinks is 50% likely to fall from his mouth"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
