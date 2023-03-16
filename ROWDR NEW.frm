@@ -465,6 +465,26 @@ Private Sub Command1_Click()
         Text1.Text = "Any attempt to change shape will turn the caster into a rabbit"
     ElseIf (Label1.Caption = 190) Then
         Text1.Text = "Any attempt to change shape will turn the caster into a shrubbery"
+    ElseIf (Label1.Caption = 191) Then
+        Text1.Text = "Any attempt to change shape will turn the caster into a snowman"
+    ElseIf (Label1.Caption = 192) Then
+        Text1.Text = "Any attempt to change shape will turn the caster into a toddler"
+    ElseIf (Label1.Caption = 193) Then
+        Text1.Text = "Any attempt to change shape will turn the caster into a troll"
+    ElseIf (Label1.Caption = 194) Then
+        Text1.Text = "Any attempt to change shape will turn the caster into a wax dummy"
+    ElseIf (Label1.Caption = 195) Then
+        Text1.Text = "Any attempt to read caster’s mind reveals a homicidal maniac"
+    ElseIf (Label1.Caption = 196) Then
+        Text1.Text = "Any attempt to read caster’s mind reveals an absolute void"
+    ElseIf (Label1.Caption = 197) Then
+        Text1.Text = "Any attempt to use rope inspires the caster to hang himself"
+    ElseIf (Label1.Caption = 198) Then
+        Text1.Text = "Any attempt to use rope leaves caster hopelessly entangled"
+    ElseIf (Label1.Caption = 199) Then
+        Text1.Text = "Any attempt to use rope leaves hideous welts on the caster’s body"
+    ElseIf (Label1.Caption = 200) Then
+        Text1.Text = "Any blade that has drawn the caster’s blood is invisible to him"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
