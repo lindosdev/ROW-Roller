@@ -575,6 +575,14 @@ Private Sub Command1_Click()
         Text1.Text = "Any magic items owned by caster are non-functional for 1d10 days"
     ElseIf (Label1.Caption = 244) Then
         Text1.Text = "Any magical scrolls now carried by caster are fireproof"
+    ElseIf (Label1.Caption = 245) Then
+        Text1.Text = "Any magical scrolls now carried by caster are forgeries"
+    ElseIf (Label1.Caption = 246) Then
+        Text1.Text = "Any magical scrolls now carried by caster are subtly tainted"
+    ElseIf (Label1.Caption = 247) Then
+        Text1.Text = "Any magical scrolls now carried by caster discharge spontaneously"
+    ElseIf (Label1.Caption = 248) Then
+        Text1.Text = "Any magical scrolls now carried by caster turn to steel"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
