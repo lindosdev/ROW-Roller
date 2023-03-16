@@ -583,6 +583,8 @@ Private Sub Command1_Click()
         Text1.Text = "Any magical scrolls now carried by caster discharge spontaneously"
     ElseIf (Label1.Caption = 248) Then
         Text1.Text = "Any magical scrolls now carried by caster turn to steel"
+    ElseIf (Label1.Caption = 249) Then
+        Text1.Text = "Any metal object carried by caster is 90% transparent"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
