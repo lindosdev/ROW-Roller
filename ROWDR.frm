@@ -360,6 +360,24 @@ Private Sub Command1_Click()
         Text1.Text = "All of caster’s fingers are as long as his middle finger"
     ElseIf (Label1.Caption = 141) Then
         Text1.Text = "All of caster’s fingers are clear like glass"
+    ElseIf (Label1.Caption = 142) Then
+        Text1.Text = "All of caster’s fingers double in thickness"
+    ElseIf (Label1.Caption = 143) Then
+        Text1.Text = "All of caster’s fingers migrate to one hand"
+    ElseIf (Label1.Caption = 144) Then
+        Text1.Text = "All of caster’s monetary wealth appears atop the nearest mountain"
+    ElseIf (Label1.Caption = 145) Then
+        Text1.Text = "All of caster’s monetary wealth is revealed to be counterfeit"
+    ElseIf (Label1.Caption = 146) Then
+        Text1.Text = "All of caster’s possessions age 1d1000 years"
+    ElseIf (Label1.Caption = 147) Then
+        Text1.Text = "All of caster’s possessions are thrown 4d6 hours into the future"
+    ElseIf (Label1.Caption = 148) Then
+        Text1.Text = "All of caster’s possessions have been seized by the government"
+    ElseIf (Label1.Caption = 149) Then
+        Text1.Text = "All trees within 100 yards form into a tight circle around caster"
+    ElseIf (Label1.Caption = 150) Then
+        Text1.Text = "ll undead within 1d4 miles blame the caster for their undeath"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
