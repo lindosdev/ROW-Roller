@@ -687,6 +687,26 @@ Private Sub Command1_Click()
         Text1.Text = "Before each spell, caster must claim to be invincible"
     ElseIf (Label1.Caption = 300) Then
         Text1.Text = "Before each spell, caster must clear his throat loudly"
+    ElseIf (Label1.Caption = 301) Then
+        Text1.Text = "Before each spell, caster must confess an embarrassing secret"
+    ElseIf (Label1.Caption = 301) Then
+        Text1.Text = "Before each spell, caster must confess an embarrassing secret"
+    ElseIf (Label1.Caption = 302) Then
+        Text1.Text = "Before each spell, caster must confess that he’s a charlatan"
+    ElseIf (Label1.Caption = 303) Then
+        Text1.Text = "Before each spell, caster must crack his knuckles"
+    ElseIf (Label1.Caption = 304) Then
+        Text1.Text = "Before each spell, caster must drop a gold coin to the ground"
+    ElseIf (Label1.Caption = 305) Then
+        Text1.Text = "Before each spell, caster must give himself permission to cast it"
+    ElseIf (Label1.Caption = 306) Then
+        Text1.Text = "Before each spell, caster must hold his breath for 1d10 seconds"
+    ElseIf (Label1.Caption = 307) Then
+        Text1.Text = "Before each spell, caster must ingest a pinch of dust"
+    ElseIf (Label1.Caption = 308) Then
+        Text1.Text = "Before each spell, caster must insult a close friend"
+    ElseIf (Label1.Caption = 309) Then
+        Text1.Text = "Before each spell, caster must invoke some monstrous entity"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
