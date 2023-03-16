@@ -341,9 +341,9 @@ Private Sub Command1_Click()
         Text1.Text = "All of caster’s enemies with 100 yards vanish until dawn"
     ElseIf (Label1.Caption = 140) Then
         Text1.Text = "All of caster’s fingers are as long as his middle finger"
-
+    ElseIf (Label1.Caption = 141) Then
+        Text1.Text = "All of caster’s fingers are clear like glass"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
 End Sub
-
