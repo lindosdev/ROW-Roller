@@ -627,6 +627,26 @@ Private Sub Command1_Click()
         Text1.Text = "Any spells cast by caster are accompanied by twinkling lights"
     ElseIf (Label1.Caption = 270) Then
         Text1.Text = "Any spells cast by caster upon himself have an undesirable effect"
+    ElseIf (Label1.Caption = 271) Then
+        Text1.Text = "Any spells cast by caster upon himself lapse after one round"
+    ElseIf (Label1.Caption = 272) Then
+        Text1.Text = "Any spells cast by caster within the last hour are negated"
+    ElseIf (Label1.Caption = 273) Then
+        Text1.Text = "Any spells caster now has memorized will fail when he casts them"
+    ElseIf (Label1.Caption = 274) Then
+        Text1.Text = "Any undead in the area attack the caster but ignore everyone else"
+    ElseIf (Label1.Caption = 275) Then
+        Text1.Text = "Any undead in the area flee from the caster for 2d10 rounds"
+    ElseIf (Label1.Caption = 276) Then
+        Text1.Text = "Any wood within 25 yards flies toward the caster for 1d10 rounds"
+    ElseIf (Label1.Caption = 277) Then
+        Text1.Text = "Any writing implement used by caster breaks, runs dry, etc."
+    ElseIf (Label1.Caption = 278) Then
+        Text1.Text = "Anyone attempting to rob caster must tell him about it beforehand"
+    ElseIf (Label1.Caption = 279) Then
+        Text1.Text = "Anyone drinking a potion near caster looks like him until sunset"
+    ElseIf (Label1.Caption = 280) Then
+        Text1.Text = "Anyone drinking a potion shrinks by 50% for its duration"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
