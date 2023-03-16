@@ -301,6 +301,30 @@ Private Sub Command1_Click()
         Text1.Text = "After each spell, caster’s hair grows two inches"
     ElseIf (Label1.Caption = 120) Then
         Text1.Text = "After each spell, caster’s hands display classic stigmata"
+    ElseIf (Label1.Caption = 121) Then
+        Text1.Text = "After each spell, caster’s hands steam wildly"
+    ElseIf (Label1.Caption = 122) Then
+        Text1.Text = "After each spell, caster’s head turns 360° at the neck, unharmed"
+    ElseIf (Label1.Caption = 123) Then
+        Text1.Text = "After each spell, caster’s head turns invisible for 1d4 rounds"
+    ElseIf (Label1.Caption = 124) Then
+        Text1.Text = "After each spell, caster’s heart pounds audibly"
+    ElseIf (Label1.Caption = 125) Then
+        Text1.Text = "After each spell, caster’s left arm turns to stone for one hour"
+    ElseIf (Label1.Caption = 126) Then
+        Text1.Text = "After each spell, caster’s spellbook throbs with deep red light"
+    ElseIf (Label1.Caption = 127) Then
+        Text1.Text = "After each spell, caster’s Strength is halved for one hour"
+    ElseIf (Label1.Caption = 128) Then
+        Text1.Text = "After each spell, gravity briefly doubles for the caster"
+    ElseIf (Label1.Caption = 129) Then
+        Text1.Text = "After each spell, he giggles for 1d4-1 rounds"
+    ElseIf (Label1.Caption = 130) Then
+        Text1.Text = "After each spell, light shines from caster’s mouth for 1d6 rounds"
+    ElseIf (Label1.Caption = 131) Then
+        Text1.Text = "After each spell, small lumps of ice fall from caster’s nostrils"
+
+
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
