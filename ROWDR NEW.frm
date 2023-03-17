@@ -13,7 +13,8 @@
 
 ' Change ° to degrees
 ' Change % to percent
-
+' Test Double Quotes (")
+' Fix About Box
 
 VERSION 5.00
 Begin VB.Form Form1 
@@ -732,9 +733,23 @@ Private Sub Command1_Click()
     ElseIf (Label1.Caption = 321) Then
         Text1.Text = "Before each spell, caster must remove one article of clothing"
     ElseIf (Label1.Caption = 322) Then
-        Text1.Text = "Before each spell, caster must say \"Magic is my business.\""
+        Text1.Text = "Before each spell, caster must say ""Magic is my business."""
     ElseIf (Label1.Caption = 323) Then
-        Text1.Text = "Before each spell, caster must say \"My God, it’s full of stars.\""
+        Text1.Text = "Before each spell, caster must say ""My God, it’s full of stars."""
+    ElseIf (Label1.Caption = 324) Then
+        Text1.Text = "Before each spell, caster must say ""The prophecy is fulfilled."""
+    ElseIf (Label1.Caption = 325) Then
+        Text1.Text = "Before each spell, caster must say ""This probably won’t work."""
+    ElseIf (Label1.Caption = 326) Then
+        Text1.Text = "Before each spell, caster must shed at least 1d4 tears"
+    ElseIf (Label1.Caption = 327) Then
+        Text1.Text = "Before each spell, caster must shout a different prime number"
+    ElseIf (Label1.Caption = 328) Then
+        Text1.Text = "Before each spell, caster must snap a twig or the like"
+    ElseIf (Label1.Caption = 329) Then
+        Text1.Text = "Before each spell, caster must speak a new and original rhyme"
+    ElseIf (Label1.Caption = 330) Then
+        Text1.Text = "Before each spell, caster must speak a new and relevant pun"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
