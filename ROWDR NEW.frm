@@ -968,6 +968,34 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can breathe underwater, but he always smells like a fish"
     ElseIf (Label1.Caption = 439) Then
         Text1.Text = "Caster can carry any weight of books but only in his bare hands"
+    ElseIf (Label1.Caption = 440) Then
+        Text1.Text = "Caster can cause one creature near him to turn to iron"
+    ElseIf (Label1.Caption = 441) Then
+        Text1.Text = "Caster can cause one nearby person to age 1d10 years"
+    ElseIf (Label1.Caption = 442) Then
+        Text1.Text = "Caster can change the size of his ears at will"
+    ElseIf (Label1.Caption = 443) Then
+        Text1.Text = "Caster can conjure apples out of thin air, one at a time"
+    ElseIf (Label1.Caption = 444) Then
+        Text1.Text = "Caster can control any undead skeletons now within 100 yards"
+    ElseIf (Label1.Caption = 445) Then
+        Text1.Text = "Caster can detach either of his hands at will"
+    ElseIf (Label1.Caption = 446) Then
+        Text1.Text = "Caster can detach his head easily but dies if he does so"
+    ElseIf (Label1.Caption = 447) Then
+        Text1.Text = "Caster can detect non-magical fire within 500 yards"
+    ElseIf (Label1.Caption = 448) Then
+        Text1.Text = "Caster can detect the nearest potable water at will"
+    ElseIf (Label1.Caption = 449) Then
+        Text1.Text = "Caster can detect the presence of elementals within 100 yards"
+    ElseIf (Label1.Caption = 450) Then
+        Text1.Text = "Caster can detect True East at will"
+    ElseIf (Label1.Caption = 451) Then
+        Text1.Text = "Caster can discern a person’s age by touching him"
+    ElseIf (Label1.Caption = 452) Then
+        Text1.Text = "Caster can discern a tree’s age by touching it"
+    ElseIf (Label1.Caption = 453) Then
+        Text1.Text = "Caster can discern whether people are really unconscious"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
