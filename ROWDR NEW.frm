@@ -996,6 +996,20 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can discern a tree’s age by touching it"
     ElseIf (Label1.Caption = 453) Then
         Text1.Text = "Caster can discern whether people are really unconscious"
+    ElseIf (Label1.Caption = 454) Then
+        Text1.Text = "Caster can discern which spells a magic user has memorized"
+    ElseIf (Label1.Caption = 455) Then
+        Text1.Text = "Caster can disgorge a pound of sawdust once per day"
+    ElseIf (Label1.Caption = 456) Then
+        Text1.Text = "Caster can double his spells’ range if he’s carrying no metal"
+    ElseIf (Label1.Caption = 457) Then
+        Text1.Text = "Caster can double his weight for up to 1d4 rounds per day"
+    ElseIf (Label1.Caption = 458) Then
+        Text1.Text = "Caster can drink only from a golden bowl worth 100 gold pieces"
+    ElseIf (Label1.Caption = 459) Then
+        Text1.Text = "Caster can easily walk on ice while barefoot"
+    ElseIf (Label1.Caption = 460) Then
+        Text1.Text = "Caster can echolocate like a dolphin while naked and underwater"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
