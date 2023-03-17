@@ -707,6 +707,34 @@ Private Sub Command1_Click()
         Text1.Text = "Before each spell, caster must insult a close friend"
     ElseIf (Label1.Caption = 309) Then
         Text1.Text = "Before each spell, caster must invoke some monstrous entity"
+    ElseIf (Label1.Caption = 310) Then
+        Text1.Text = "Before each spell, caster must issue what sounds like a prophecy"
+    ElseIf (Label1.Caption = 311) Then
+        Text1.Text = "Before each spell, caster must light a small candle"
+    ElseIf (Label1.Caption = 312) Then
+        Text1.Text = "Before each spell, caster must make a new and improbable vow"
+    ElseIf (Label1.Caption = 313) Then
+        Text1.Text = "Before each spell, caster must make an embarrassing admission"
+    ElseIf (Label1.Caption = 314) Then
+        Text1.Text = "Before each spell, caster must pat himself on the head"
+    ElseIf (Label1.Caption = 315) Then
+        Text1.Text = "Before each spell, caster must pluck 1d6 hairs from his head"
+    ElseIf (Label1.Caption = 316) Then
+        Text1.Text = "Before each spell, caster must predict that he’ll die by sunset"
+    ElseIf (Label1.Caption = 317) Then
+        Text1.Text = "Before each spell, caster must prick his finger with a rusty pin"
+    ElseIf (Label1.Caption = 318) Then
+        Text1.Text = "Before each spell, caster must profess a thirst for human blood"
+    ElseIf (Label1.Caption = 319) Then
+        Text1.Text = "Before each spell, caster must profess love for someone nearby"
+    ElseIf (Label1.Caption = 320) Then
+        Text1.Text = "Before each spell, caster must promise to change his name"
+    ElseIf (Label1.Caption = 321) Then
+        Text1.Text = "Before each spell, caster must remove one article of clothing"
+    ElseIf (Label1.Caption = 322) Then
+        Text1.Text = "Before each spell, caster must say \"Magic is my business.\""
+    ElseIf (Label1.Caption = 323) Then
+        Text1.Text = "Before each spell, caster must say \"My God, it’s full of stars.\""
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
