@@ -782,6 +782,34 @@ Private Sub Command1_Click()
         Text1.Text = "Caster acquires proficiency in some weapon that will never exist"
     ElseIf (Label1.Caption = 346) Then
         Text1.Text = "Caster addresses everyone he knows by his own name"
+    ElseIf (Label1.Caption = 347) Then
+        Text1.Text = "Caster adopts a habit of nightly self-flagellation"
+    ElseIf (Label1.Caption = 348) Then
+        Text1.Text = "Caster adopts a universally obscene gesture as his trademark"
+    ElseIf (Label1.Caption = 349) Then
+        Text1.Text = "Caster adopts bizarre rituals concerning the preparation of food"
+    ElseIf (Label1.Caption = 350) Then
+        Text1.Text = "Caster adopts fastidious standards of hygiene"
+    ElseIf (Label1.Caption = 351) Then
+        Text1.Text = "Caster adopts some unlikely animal as a kind of spirit totem"
+    ElseIf (Label1.Caption = 352) Then
+        Text1.Text = "Caster adopts some unlikely object as a kind of holy symbol"
+    ElseIf (Label1.Caption = 353) Then
+        Text1.Text = "Caster adopts the next religion he encounters for the first time"
+    ElseIf (Label1.Caption = 354) Then
+        Text1.Text = "Caster ages 1d10 years per hour until sunset tonight"
+    ElseIf (Label1.Caption = 355) Then
+        Text1.Text = "Caster ages 1d10 years/round for 2 turns, then reverts to normal"
+    ElseIf (Label1.Caption = 356) Then
+        Text1.Text = "Caster ages backwards 2d4 years over that many rounds"
+    ElseIf (Label1.Caption = 357) Then
+        Text1.Text = "Caster ages normally but forever retains his current appearance"
+    ElseIf (Label1.Caption = 358) Then
+        Text1.Text = "Caster ages one year per day spent on open water"
+    ElseIf (Label1.Caption = 359) Then
+        Text1.Text = "Caster ages one year per mile that he travels away from this spot"
+    ElseIf (Label1.Caption = 360) Then
+        Text1.Text = "Caster always appears healthy and wealthy"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
