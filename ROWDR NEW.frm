@@ -810,6 +810,34 @@ Private Sub Command1_Click()
         Text1.Text = "Caster ages one year per mile that he travels away from this spot"
     ElseIf (Label1.Caption = 360) Then
         Text1.Text = "Caster always appears healthy and wealthy"
+    ElseIf (Label1.Caption = 361) Then
+        Text1.Text = "Caster always appears sickly and destitute"
+    ElseIf (Label1.Caption = 362) Then
+        Text1.Text = "Caster always feels as if the temperature is what it is right now"
+    ElseIf (Label1.Caption = 363) Then
+        Text1.Text = "Caster always pays 10% more than the asking price"
+    ElseIf (Label1.Caption = 364) Then
+        Text1.Text = "Caster always sees his surroundings as misty and fog-shrouded"
+    ElseIf (Label1.Caption = 365) Then
+        Text1.Text = "Caster always thinks it’s fifty degrees colder than it really is"
+    ElseIf (Label1.Caption = 366) Then
+        Text1.Text = "Caster always thinks that there’s one more step in the staircase"
+    ElseIf (Label1.Caption = 367) Then
+        Text1.Text = "Caster and everyone else forgets and can’t discern his age"
+    ElseIf (Label1.Caption = 368) Then
+        Text1.Text = "Caster and nearest intelligent weapon exchange personalities"
+    ElseIf (Label1.Caption = 369) Then
+        Text1.Text = "Caster and one nearby ally teleport to the caster’s home"
+    ElseIf (Label1.Caption = 370) Then
+        Text1.Text = "Caster annoys everyone by insisting that he’s ambidextrous"
+    ElseIf (Label1.Caption = 371) Then
+        Text1.Text = "Caster appears increasingly decrepit as the day wears on"
+    ElseIf (Label1.Caption = 372) Then
+        Text1.Text = "Caster appears to be a bare skeleton from the waist down"
+    ElseIf (Label1.Caption = 373) Then
+        Text1.Text = "Caster appears to be a bare skeleton from the waist up"
+    ElseIf (Label1.Caption = 374) Then
+        Text1.Text = "Caster appears to be at full health, no matter how badly injured"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
