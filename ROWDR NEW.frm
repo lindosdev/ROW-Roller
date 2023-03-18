@@ -1098,6 +1098,34 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can see through his eyelids for up to 1d6 rounds at a time"
     ElseIf (Label1.Caption = 504) Then
         Text1.Text = "Caster can see through stone if he has a pebble in his mouth"
+    ElseIf (Label1.Caption = 505) Then
+        Text1.Text = "Caster can see underwater clearly while naked and wielding an axe"
+    ElseIf (Label1.Caption = 506) Then
+        Text1.Text = "Caster can seem to be infected with a particular disease at will"
+    ElseIf (Label1.Caption = 507) Then
+        Text1.Text = "Caster can seen in total darkness for 1d4 days"
+    ElseIf (Label1.Caption = 508) Then
+        Text1.Text = "Caster can sense intelligent weapons within 10 yards"
+    ElseIf (Label1.Caption = 509) Then
+        Text1.Text = "Caster can sense people who’ve been affected by Chaos Bursts"
+    ElseIf (Label1.Caption = 510) Then
+        Text1.Text = "Caster can speak but can’t engage in actual conversations"
+    ElseIf (Label1.Caption = 511) Then
+        Text1.Text = "Caster can speak in a whisper to anyone in his line of sight"
+    ElseIf (Label1.Caption = 512) Then
+        Text1.Text = "Caster can speak in any of 2d4 voices at will"
+    ElseIf (Label1.Caption = 513) Then
+        Text1.Text = "Caster can speak with ants but can only ask yes/no questions"
+    ElseIf (Label1.Caption = 514) Then
+        Text1.Text = "Caster can speak with carrion birds, but he smells like a corpse"
+    ElseIf (Label1.Caption = 515) Then
+        Text1.Text = "Caster can speak with carrion birds, but he’s permanently bald"
+    ElseIf (Label1.Caption = 516) Then
+        Text1.Text = "Caster can speak with domestic fowl, but he crows at sunrise"
+    ElseIf (Label1.Caption = 517) Then
+        Text1.Text = "Caster can speak with domestic fowl, but they tend to lie to him"
+    ElseIf (Label1.Caption = 518) Then
+        Text1.Text = "Caster can speak with honeybees while dancing like one of them"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
