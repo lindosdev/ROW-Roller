@@ -1126,6 +1126,16 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can speak with domestic fowl, but they tend to lie to him"
     ElseIf (Label1.Caption = 518) Then
         Text1.Text = "Caster can speak with honeybees while dancing like one of them"
+    ElseIf (Label1.Caption = 519) Then
+        Text1.Text = "Caster can speak with oysters while holding a pearl in his mouth"
+    ElseIf (Label1.Caption = 520) Then
+        Text1.Text = "Caster can speak with small fish, but only while underwater"
+    ElseIf (Label1.Caption = 521) Then
+        Text1.Text = "Caster can spot the strongest member of any group of five or more"
+    ElseIf (Label1.Caption = 522) Then
+        Text1.Text = "Caster can stretch his left arm 2X the length of his body"
+    ElseIf (Label1.Caption = 523) Then
+        Text1.Text = "Caster can subsist on bark for up to 1d4 days at a time"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
