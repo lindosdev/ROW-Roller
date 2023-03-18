@@ -13,8 +13,7 @@
 
 ' Change ° to degrees
 ' Change % to percent
-' Test Double Quotes (")
-' Fix About Box
+
 
 VERSION 5.00
 Begin VB.Form Form1 
@@ -78,12 +77,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-    '// Initializes the random-number generator, otherwise each time you run your
-    '// program, the sequence of numbers will be the same
-    Option Explicit
-    DefLng A-Z
-    Randomize 
-    Label1.Caption = & Format(RandomNumBetween(1, 10000))
+    Label1.Caption = Int(Rnd * 10000)
     If (Label1.Caption = 1) Then
         Text1.Text = "1d10 of caster’s fingers turn to stone"
     ElseIf (Label1.Caption = 2) Then
@@ -1136,12 +1130,43 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can stretch his left arm 2X the length of his body"
     ElseIf (Label1.Caption = 523) Then
         Text1.Text = "Caster can subsist on bark for up to 1d4 days at a time"
+    ElseIf (Label1.Caption = 524) Then
+        Text1.Text = "Caster can Summon 1d10 rabbits, once per level per week"
+    ElseIf (Label1.Caption = 525) Then
+        Text1.Text = "Caster can Summon a powerful entity to answer one question"
+    ElseIf (Label1.Caption = 526) Then
+        Text1.Text = "Caster can Summon a powerful entity who will then try to kill him"
+    ElseIf (Label1.Caption = 527) Then
+        Text1.Text = "Caster can Summon but not control a powerful, malevolent entity"
+    ElseIf (Label1.Caption = 528) Then
+        Text1.Text = "Caster can Summon up to 1d10 pigeons per month"
+    ElseIf (Label1.Caption = 529) Then
+        Text1.Text = "Caster can survive at the bottom of the sea for 1d4 minutes"
+    ElseIf (Label1.Caption = 530) Then
+        Text1.Text = "Caster can survive in the depths of space, if he can get there"
+    ElseIf (Label1.Caption = 531) Then
+        Text1.Text = "Caster can survive one fall of up to twenty miles"
+    ElseIf (Label1.Caption = 532) Then
+        Text1.Text = "Caster can taste foods simply by touching them"
+    ElseIf (Label1.Caption = 533) Then
+        Text1.Text = "Caster can teleport 10 feet straight up, once per day"
+    ElseIf (Label1.Caption = 534) Then
+        Text1.Text = "Caster can teleport 10 times at will but loses a finger each time"
+    ElseIf (Label1.Caption = 535) Then
+        Text1.Text = "Caster can teleport at will but ages 1d100 years each time"
+    ElseIf (Label1.Caption = 536) Then
+        Text1.Text = "Caster can teleport at will but arrives unconscious for one hour"
+    ElseIf (Label1.Caption = 537) Then
+        Text1.Text = "Caster can teleport at will but can’t pick the destination"
+    ElseIf (Label1.Caption = 537) Then
+        Text1.Text = "Caster can teleport at will but can’t pick the destination"
+    ElseIf (Label1.Caption = 538) Then
+        Text1.Text = "Caster can teleport at will but doesn’t arrive for 1d12 months"
+    ElseIf (Label1.Caption = 539) Then
+        Text1.Text = "Caster can teleport at will but is 10% likely to arrive dead"
+    ElseIf (Label1.Caption = 540) Then
+        Text1.Text = "Caster can teleport at will but is paralyzed from the neck down"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
 End Sub
-Private Function RandomNumBetween(ByVal LowerLimit As Long, ByVal UpperLimit As Long) As Long
-  ' This function returns a pseudo-random number between
-  ' the specified limits (inclusive).
-  RandomNumBetween = Rnd * (UpperLimit - LowerLimit) + LowerLimit
-End Function
