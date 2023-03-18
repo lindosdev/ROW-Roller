@@ -13,7 +13,8 @@
 
 ' Change ° to degrees
 ' Change % to percent
-
+' Test Double Quotes (")
+' Fix About Box
 
 VERSION 5.00
 Begin VB.Form Form1 
@@ -77,7 +78,12 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-    Label1.Caption = Int(Rnd * 10000)
+    '// Initializes the random-number generator, otherwise each time you run your
+    '// program, the sequence of numbers will be the same
+    Option Explicit
+    DefLng A-Z
+    Randomize 
+    Label1.Caption = & Format(RandomNumBetween(1, 10000))
     If (Label1.Caption = 1) Then
         Text1.Text = "1d10 of caster’s fingers turn to stone"
     ElseIf (Label1.Caption = 2) Then
@@ -1166,7 +1172,32 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can teleport at will but is 10% likely to arrive dead"
     ElseIf (Label1.Caption = 540) Then
         Text1.Text = "Caster can teleport at will but is paralyzed from the neck down"
+    ElseIf (Label1.Caption = 541) Then
+        Text1.Text = "Caster can teleport at will but loses 1d100 hit points each time"
+    ElseIf (Label1.Caption = 542) Then
+        Text1.Text = "Caster can teleport at will but only while naked and unencumbered"
+    ElseIf (Label1.Caption = 543) Then
+        Text1.Text = "Caster can teleport at will but shrinks by 50% per mile traveled"
+    ElseIf (Label1.Caption = 544) Then
+        Text1.Text = "Caster can teleport at will to this exact spot 2d6 times"
+    ElseIf (Label1.Caption = 545) Then
+        Text1.Text = "Caster can teleport into the nearest hollow tree, once"
+    ElseIf (Label1.Caption = 546) Then
+        Text1.Text = "Caster can teleport up to fifty feet once per day"
+    ElseIf (Label1.Caption = 547) Then
+        Text1.Text = "Caster can throw one baseball-sized item 2d6 days into the future"
+    ElseIf (Label1.Caption = 548) Then
+        Text1.Text = "Caster can throw one nearby person 1d10 rounds into the future"
+    ElseIf (Label1.Caption = 549) Then
+        Text1.Text = "Caster can throw one nearby person 1d4 days into the future"
+    ElseIf (Label1.Caption = 550) Then
+        Text1.Text = "Caster can transmute magically-created metal into wood"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
 End Sub
+Private Function RandomNumBetween(ByVal LowerLimit As Long, ByVal UpperLimit As Long) As Long
+  ' This function returns a pseudo-random number between
+  ' the specified limits (inclusive).
+  RandomNumBetween = Rnd * (UpperLimit - LowerLimit) + LowerLimit
+End Function
