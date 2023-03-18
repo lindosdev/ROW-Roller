@@ -1050,6 +1050,10 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can memorize spells 4x faster than is normally required"
     ElseIf (Label1.Caption = 480) Then
         Text1.Text = "Caster can move easily through running water less than waist-deep"
+    ElseIf (Label1.Caption = 481) Then
+        Text1.Text = "Caster can move in total silence for his Wisdom score in rounds"
+    ElseIf (Label1.Caption = 482) Then
+        Text1.Text = "Caster can move silently while holding a thumb in each nostril"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
