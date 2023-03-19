@@ -1512,10 +1512,31 @@ Text1.Text = "Caster craves moss"
 Text1.Text = "Caster craves wood like a termite"
     ElseIf (Label1.Caption = 710) Then
 Text1.Text = "Caster cries like a baby whenever he’s hungry or can’t sleep"
+    ElseIf (Label1.Caption = 711) Then
+Text1.Text = "Caster cries like a baby whenever he’s struck by magic"
+    ElseIf (Label1.Caption = 712) Then
+Text1.Text = "Caster dances like a belly-dancer for 2d6 rounds"
+    ElseIf (Label1.Caption = 713) Then
+Text1.Text = "Caster declares himself to be the center of the universe"
+    ElseIf (Label1.Caption = 714) Then
+Text1.Text = "Caster declares that Dwarves are indistinguishable from orcs"
+    ElseIf (Label1.Caption = 715) Then
+Text1.Text = "Caster declares that he can redeem the damned"
+    ElseIf (Label1.Caption = 716) Then
+Text1.Text = "Caster declares that he has the power to absolve sins"
+    ElseIf (Label1.Caption = 717) Then
+Text1.Text = "Caster declares that he is the judge of all mankind"
+    ElseIf (Label1.Caption = 718) Then
+Text1.Text = "Caster declares that these pretzels are making him thirsty"
+    ElseIf (Label1.Caption = 719) Then
+Text1.Text = "Caster deeply resents anyone who asks him to use magic"
+    ElseIf (Label1.Caption = 720) Then
+Text1.Text = "Caster deeply resents anyone who doesn’t praise his magical skill"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
 End Sub
+
 Private Function RandomNumBetween(ByVal LowerLimit As Long, ByVal UpperLimit As Long) As Long
   ' This function returns a pseudo-random number between
   ' the specified limits (inclusive).
