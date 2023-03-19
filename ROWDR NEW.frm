@@ -1192,6 +1192,26 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can throw one nearby person 1d4 days into the future"
     ElseIf (Label1.Caption = 550) Then
         Text1.Text = "Caster can transmute magically-created metal into wood"
+    ElseIf (Label1.Caption = 551) Then
+        Text1.Text = "Caster can travel in time but ages 1d10 years per round traveled"
+    ElseIf (Label1.Caption = 552) Then
+        Text1.Text = "Caster can turn 360° at the waist without harm"
+    ElseIf (Label1.Caption = 553) Then
+        Text1.Text = "Caster can turn ethereal at will but can’t revert for 3d8 days"
+    ElseIf (Label1.Caption = 554) Then
+        Text1.Text = "Caster can turn his arms to wood for up to 1d6 rounds per day"
+    ElseIf (Label1.Caption = 555) Then
+        Text1.Text = "Caster can turn his bones invisible at will"
+    ElseIf (Label1.Caption = 556) Then
+        Text1.Text = "Caster can turn his hands invisible at will 1d8 times per day"
+    ElseIf (Label1.Caption = 557) Then
+        Text1.Text = "Caster can turn his head completely around once per day"
+    ElseIf (Label1.Caption = 558) Then
+        Text1.Text = "Caster can turn into a cat but can’t resume his true form"
+    ElseIf (Label1.Caption = 559) Then
+        Text1.Text = "Caster can turn into a falcon but is only 30% likely to turn back"
+    ElseIf (Label1.Caption = 560) Then
+        Text1.Text = "Caster can turn into a small tree while he’s indoors"
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
