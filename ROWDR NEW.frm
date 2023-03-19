@@ -1572,6 +1572,26 @@ Text1.Text = "Caster dies instantly if his blood is spilled by mistletoe"
 Text1.Text = "Caster dies painfully but arises at dawn having gained one level"
     ElseIf (Label1.Caption = 740) Then
 Text1.Text = "Caster discovers a whole pantheon of hitherto overlooked deities"
+    ElseIf (Label1.Caption = 741) Then
+Text1.Text = "Caster discovers that one of his limbs belongs to someone else"
+    ElseIf (Label1.Caption = 742) Then
+Text1.Text = "Caster discovers that one of his limbs is a clockwork replica"
+    ElseIf (Label1.Caption = 743) Then
+Text1.Text = "Caster disgorges 10d10 feet of rubber tubing"
+    ElseIf (Label1.Caption = 744) Then
+Text1.Text = "Caster disgorges 1d100 gold pieces"
+    ElseIf (Label1.Caption = 745) Then
+Text1.Text = "Caster disgorges 1d100 pounds of wet, coarse sand"
+    ElseIf (Label1.Caption = 746) Then
+Text1.Text = "Caster disgorges 1d4 apples per hour for the next 3d8 hours"
+    ElseIf (Label1.Caption = 747) Then
+Text1.Text = "Caster disgorges 1d4 gallons of foul, necrotic mush"
+    ElseIf (Label1.Caption = 748) Then
+Text1.Text = "Caster disgorges 1d6 gallons of rusty sludge"
+    ElseIf (Label1.Caption = 749) Then
+Text1.Text = "Caster disgorges 2d10 pounds of carrots"
+    ElseIf (Label1.Caption = 750) Then
+Text1.Text = "Caster disgorges 2d4 full-sized wool blankets"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
