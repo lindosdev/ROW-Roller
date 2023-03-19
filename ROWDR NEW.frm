@@ -13,8 +13,7 @@
 
 ' Change ° to degrees
 ' Change % to percent
-' Test Double Quotes (")
-' Fix About Box
+
 
 VERSION 5.00
 Begin VB.Form Form1 
@@ -78,12 +77,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-    '// Initializes the random-number generator, otherwise each time you run your
-    '// program, the sequence of numbers will be the same
-    Option Explicit
-    DefLng A-Z
-    Randomize 
-    Label1.Caption = & Format(RandomNumBetween(1, 10000))
+    Label1.Caption = Int(Rnd * 10000)
     If (Label1.Caption = 1) Then
         Text1.Text = "1d10 of caster’s fingers turn to stone"
     ElseIf (Label1.Caption = 2) Then
@@ -1172,28 +1166,8 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can teleport at will but is 10% likely to arrive dead"
     ElseIf (Label1.Caption = 540) Then
         Text1.Text = "Caster can teleport at will but is paralyzed from the neck down"
-    ElseIf (Label1.Caption = 541) Then
-        Text1.Text = "Caster can teleport at will but loses 1d100 hit points each time"
-    ElseIf (Label1.Caption = 542) Then
-        Text1.Text = "Caster can teleport at will but only while naked and unencumbered"
-    ElseIf (Label1.Caption = 543) Then
-        Text1.Text = "Caster can teleport at will but shrinks by 50% per mile traveled"
-    ElseIf (Label1.Caption = 544) Then
-        Text1.Text = "Caster can teleport at will to this exact spot 2d6 times"
-    ElseIf (Label1.Caption = 545) Then
-        Text1.Text = "Caster can teleport into the nearest hollow tree, once"
-    ElseIf (Label1.Caption = 546) Then
-        Text1.Text = "Caster can teleport up to fifty feet once per day"
-    ElseIf (Label1.Caption = 547) Then
-        Text1.Text = "Caster can throw one baseball-sized item 2d6 days into the future"
-    ElseIf (Label1.Caption = 548) Then
-        Text1.Text = "Caster can throw one nearby person 1d10 rounds into the future"
-    ElseIf (Label1.Caption = 549) Then
-        Text1.Text = "Caster can throw one nearby person 1d4 days into the future"
-    ElseIf (Label1.Caption = 550) Then
-        Text1.Text = "Caster can transmute magically-created metal into wood"
     ElseIf (Label1.Caption = 551) Then
-        Text1.Text = "Caster can travel in time but ages 1d10 years per round traveled"
+        Text1.Text = "Caster can travel in time but ages 1d10 years per round traveled"  
     ElseIf (Label1.Caption = 552) Then
         Text1.Text = "Caster can turn 360° at the waist without harm"
     ElseIf (Label1.Caption = 553) Then
@@ -1252,12 +1226,67 @@ Private Sub Command1_Click()
         Text1.Text = "Caster can’t be harmed by refined metals for 1d4 hours"
     ElseIf (Label1.Caption = 580) Then
         Text1.Text = "Caster can’t be harmed while he stands where he is right now"
+    ElseIf (Label1.Caption = 581) Then
+        Text1.Text = "Caster can’t be killed by anyone of his own race"
+    ElseIf (Label1.Caption = 582) Then
+        Text1.Text = "Caster can’t be overwhelmed by foul odors"
+    ElseIf (Label1.Caption = 583) Then
+        Text1.Text = "Caster can’t be seen through glass or ice"
+    ElseIf (Label1.Caption = 584) Then
+        Text1.Text = "Caster can’t be strangled"
+    ElseIf (Label1.Caption = 585) Then
+        Text1.Text = "Caster can’t breathe for 4d6 rounds"
+    ElseIf (Label1.Caption = 586) Then
+        Text1.Text = "Caster can’t bring his left hand within 18 inches of his head"
+    ElseIf (Label1.Caption = 587) Then
+        Text1.Text = "Caster can’t carry anything larger than his own head"
+    ElseIf (Label1.Caption = 588) Then
+        Text1.Text = "Caster can’t carry anything made entirely of metal"
+    ElseIf (Label1.Caption = 589) Then
+        Text1.Text = "Caster can’t carry refined metal in a wooded environment"
+    ElseIf (Label1.Caption = 590) Then
+        Text1.Text = "Caster can’t cast any spells he now has memorized for 1d8 days"
+    ElseIf (Label1.Caption = 591) Then
+        Text1.Text = "Caster can’t cast fire-based magic while in the rain"
+    ElseIf (Label1.Caption = 592) Then
+        Text1.Text = "Caster can’t cast fire-based spells in a wooded environment"
+    ElseIf (Label1.Caption = 593) Then
+        Text1.Text = "Caster can’t cast force-based spells (Wall of Force, etc.)"
+    ElseIf (Label1.Caption = 594) Then
+        Text1.Text = "Caster can’t cast magic on anyone not wearing armor"
+    ElseIf (Label1.Caption = 595) Then
+        Text1.Text = "Caster can’t cast magic on anyone while they’re eating"
+    ElseIf (Label1.Caption = 596) Then
+        Text1.Text = "Caster can’t cast magic unless he’s within sight of a tree"
+    ElseIf (Label1.Caption = 597) Then
+        Text1.Text = "Caster can’t cast magic upon himself for 1d4 weeks"
+    ElseIf (Label1.Caption = 598) Then
+        Text1.Text = "Caster can’t create magical walls or barriers"
+    ElseIf (Label1.Caption = 599) Then
+        Text1.Text = "Caster can’t create normal or magical fire for 1d4 days"
+    ElseIf (Label1.Caption = 600) Then
+        Text1.Text = "Caster can’t create permanent magical objects or effects"
+    ElseIf (Label1.Caption = 601) Then
+        Text1.Text = "Caster can’t cross moving water while brandishing a weapon"
+    ElseIf (Label1.Caption = 602) Then
+        Text1.Text = "Caster can’t cross moving water while carrying his spellbook"
+    ElseIf (Label1.Caption = 603) Then
+        Text1.Text = "Caster can’t cross moving water while wearing clothes"
+    ElseIf (Label1.Caption = 604) Then
+        Text1.Text = "Caster can’t cross moving water while wearing magical rings"
+    ElseIf (Label1.Caption = 605) Then
+        Text1.Text = "Caster can’t cross moving water without assistance"
+    ElseIf (Label1.Caption = 606) Then
+        Text1.Text = "Caster can’t determine when he’s hungry or thirsty"
+    ElseIf (Label1.Caption = 607) Then
+        Text1.Text = "Caster can’t eat any cooked meat"
+    ElseIf (Label1.Caption = 608) Then
+        Text1.Text = "Caster can’t eat any food that doesn’t contain a handful of soil"
+    ElseIf (Label1.Caption = 609) Then
+        Text1.Text = "Caster can’t eat any food that he himself didn’t prepare"
+    ElseIf (Label1.Caption = 610) Then
+        Text1.Text = "Caster can’t eat any salted or cured meat"              
     Else
         Text1.Text = "Roll result not yet programmed"
     End If
 End Sub
-Private Function RandomNumBetween(ByVal LowerLimit As Long, ByVal UpperLimit As Long) As Long
-  ' This function returns a pseudo-random number between
-  ' the specified limits (inclusive).
-  RandomNumBetween = Rnd * (UpperLimit - LowerLimit) + LowerLimit
-End Function
