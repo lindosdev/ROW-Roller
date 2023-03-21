@@ -2236,6 +2236,24 @@ Text1.Text = "Caster is 10% likely to have been sired by a powerful demon"
 Text1.Text = "Caster is 10% likely to sympathize with any enemy he injures"
     ElseIf (Label1.Caption = 1070) Then
 Text1.Text = "Caster is 15% likely to have read any book he sees"
+    ElseIf (Label1.Caption = 1071) Then
+Text1.Text = "Caster is 20% likely to faint outright at the sight of blood"
+    ElseIf (Label1.Caption = 1072) Then
+Text1.Text = "Caster is 20% likely to sneeze and disrupt any spell he casts"
+    ElseIf (Label1.Caption = 1073) Then
+Text1.Text = "Caster is 20% likely to turn to stone while swimming"
+    ElseIf (Label1.Caption = 1074) Then
+Text1.Text = "Caster is 2X as old as the oldest person within 100 yards"
+    ElseIf (Label1.Caption = 1075) Then
+Text1.Text = "Caster is 50% likely to drown in any water deeper than he is tall"
+    ElseIf (Label1.Caption = 1076) Then
+Text1.Text = "Caster is 60% likely to misplace any money he receives"
+    ElseIf (Label1.Caption = 1077) Then
+Text1.Text = "Caster is able to see his own eyes"
+    ElseIf (Label1.Caption = 1078) Then
+Text1.Text = "Caster is absolutely convinced that he’s a zombie"
+    ElseIf (Label1.Caption = 1079) Then
+Text1.Text = "Caster is afflicted with severe frostbite in 1d4 limbs"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
