@@ -1,5 +1,7 @@
 '    Rod of Wonder Dice Roller
 
+'    Dice Roller for the Rod of Wonder based on "The Net Libram of Random Magical Effects version 2.00 By Orrex"
+
 '    Copyright (c)  2023 by Gary J. Teixeira Jr.
 '    Permission is granted to copy. distribute and/or modify this program
 '    under the terms of the Attribution-NonCommercial 4.0 International License
@@ -15,6 +17,7 @@
 ' Change % to percent
 ' Test Double Quotes (")
 ' Fix About Box
+' Make Caption1 Box Visible
 
 VERSION 5.00
 Begin VB.Form Form1 
@@ -2164,7 +2167,13 @@ Text1.Text = "Caster has ten thumbs in his mouth"
     ElseIf (Label1.Caption = 1035) Then
 Text1.Text = "Caster has ten thumbs instead of fingers"
     ElseIf (Label1.Caption = 1036) Then
-Text1.Text = ""
+Text1.Text = "Caster has ten thumbs somewhere on his body"
+    ElseIf (Label1.Caption = 1037) Then
+Text1.Text = "Caster has tiny mathematical formulae tattooed all over his body"
+    ElseIf (Label1.Caption = 1038) Then
+Text1.Text = "Caster has vivid but false memories of a past life"
+    ElseIf (Label1.Caption = 1039) Then
+Text1.Text = "Caster has vivid but false memories of the last 24 hours"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
