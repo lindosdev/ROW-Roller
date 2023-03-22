@@ -1,30 +1,4 @@
 
-1080 Caster is afflicted with vampirism, but only during the day
-1081 Caster is always and easily recognizable as a spellcaster
-1082 Caster is an untamed youth, that’s the truth, with a cloak full of eagles
-1083 Caster is attacked by a shark when he next enters a river
-1084 Caster is attacked by countless stinging earthworms
-1085 Caster is attacked by goats the next time he crosses a bridge
-1086 Caster is attacked by vengeful imps that resemble small children
-1087 Caster is attended by numerous grooming birds, like a crocodile
-1088 Caster is blind unless he’s carrying at least 4d10 gold coins
-1089 Caster is blind while he’s invisible
-1090 Caster is blind while his spellbook is open
-1091 Caster is blind while within any artificial structure
-1092 Caster is blinded for 2d8 rounds by a swirl of tiny feathers
-1093 Caster is bricked up in an underground cell with a cask of wine
-1094 Caster is briefly obscured by a dense cloud of sawdust
-1095 Caster is briefly paralyzed at the sight of his own blood
-1096 Caster is briefly stunned by a shower of hard beans
-1097 Caster is brutally punched in the stomach by an unseen hand
-1098 Caster is carrying 1d4+1 waterskins filled with human blood
-1099 Caster is carrying a bowl full of water that he must not spill
-1100 Caster is certain that a horrible monster is living inside him
-1101 Caster is certain that every meal he eats contains strong poison
-1102 Caster is certain that he can breathe underwater
-1103 Caster is certain that he has just killed his guardian angel
-1104 Caster is certain that he used to have four arms
-1105 Caster is certain that he’ll become immortal if he’s beheaded
 1106 Caster is certain that he’ll die in the next 1d4 rounds
 1107 Caster is certain that he’s recently returned from the future
 1108 Caster is certain that he’s transforming into a horrible monster
@@ -9125,7 +9099,3 @@ arbitrarily malicious in using this list.
 98  The next total lunar eclipse occurs
 99  He has performed an exorcism on a member of the royal family
 00  He has been bitten by 1d6 different lycanthropes
-
-
-</body>
-</html>
