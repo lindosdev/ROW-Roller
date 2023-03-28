@@ -3918,6 +3918,26 @@ Text1.Text = "Caster’s body is reset to a 48-hour cycle rather than 24"
 Text1.Text = "Caster’s body is rumored to contain countless diamonds"
     ElseIf (Label1.Caption = 1910) Then
 Text1.Text = "Caster’s body is scarred as if he’s undergone an autopsy"
+    ElseIf (Label1.Caption = 1911) Then
+Text1.Text = "Caster’s body is scarred with innumerable cryptic runes"
+    ElseIf (Label1.Caption = 1912) Then
+Text1.Text = "Caster’s body swivels 180° at the waist and stays that way"
+    ElseIf (Label1.Caption = 1913) Then
+Text1.Text = "Caster’s bones are as fragile as glass for 1d4 rounds"
+    ElseIf (Label1.Caption = 1914) Then
+Text1.Text = "Caster’s bones can’t be broken but are highly combustible"
+    ElseIf (Label1.Caption = 1915) Then
+Text1.Text = "Caster’s bones can’t be broken unless he’s barefoot"
+    ElseIf (Label1.Caption = 1916) Then
+Text1.Text = "Caster’s bones will be powerfully explosive after his death"
+    ElseIf (Label1.Caption = 1917) Then
+Text1.Text = "Caster’s boots adhere strongly to stone while he’s wearing them"
+    ElseIf (Label1.Caption = 1918) Then
+Text1.Text = "Caster’s boots are worth 10d100 gold pieces"
+    ElseIf (Label1.Caption = 1919) Then
+Text1.Text = "Caster’s boots can never move more than ten feet from this spot"
+    ElseIf (Label1.Caption = 1920) Then
+Text1.Text = "Caster’s boots have been kidnapped and held for a high ransom"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
