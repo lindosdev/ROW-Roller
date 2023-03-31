@@ -4610,6 +4610,24 @@ Text1.Text = "Caster’s principal weapon glows as though it’s red hot"
 Text1.Text = "Caster’s principal weapon is as shiny as mirror for 1d12 months"
     ElseIf (Label1.Caption = 2257) Then
 Text1.Text = "Caster’s principal weapon is extremely sticky to the touch"
+    ElseIf (Label1.Caption = 2258) Then
+Text1.Text = "Caster’s principal weapon is matte black between sunset and dawn"
+    ElseIf (Label1.Caption = 2259) Then
+Text1.Text = "Caster’s principal weapon is older than the whole universe"
+    ElseIf (Label1.Caption = 2260) Then
+Text1.Text = "Caster’s principal weapon is reclaimed by its former owner"
+    ElseIf (Label1.Caption = 2261) Then
+Text1.Text = "Caster’s principal weapon is translucent like smoked glass"
+    ElseIf (Label1.Caption = 2262) Then
+Text1.Text = "Caster’s principal weapon shrinks by 5d10+45%"
+    ElseIf (Label1.Caption = 2263) Then
+Text1.Text = "Caster’s principal weapon sprouts luxuriant tresses"
+    ElseIf (Label1.Caption = 2264) Then
+Text1.Text = "Caster’s reflection appears upside down"
+    ElseIf (Label1.Caption = 2265) Then
+Text1.Text = "Caster’s reflection chants dire prophecies about him"
+    ElseIf (Label1.Caption = 2266) Then
+Text1.Text = "Caster’s reflection commits suicide when he next sees it"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
