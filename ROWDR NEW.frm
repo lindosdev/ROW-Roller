@@ -4888,6 +4888,14 @@ Text1.Text = "Caster’s spellbook is written entirely in purple crayon"
 Text1.Text = "Caster’s spellbook leaves a trail of ash wherever it’s carried"
     ElseIf (Label1.Caption = 2396) Then
 Text1.Text = "Caster’s spellbook randomly shuffles its pages"
+    ElseIf (Label1.Caption = 2397) Then
+Text1.Text = "Caster’s spellbook reeks as though drenched in perfume"
+    ElseIf (Label1.Caption = 2398) Then
+Text1.Text = "Caster’s spellbook reeks indelibly of mold and mildew"
+    ElseIf (Label1.Caption = 2399) Then
+Text1.Text = "Caster’s spellbook reeks of manure while it’s open"
+    ElseIf (Label1.Caption = 2400) Then
+Text1.Text = "Caster’s spellbook reeks of rotting, mildewed cloth"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
