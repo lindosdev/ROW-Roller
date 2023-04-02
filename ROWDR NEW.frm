@@ -4986,6 +4986,24 @@ Text1.Text = "Caster’s voice seems poorly matched to his age and sex"
 Text1.Text = "Caster’s voice seems to issue from 1d4 people around him"
     ElseIf (Label1.Caption = 2445) Then
 Text1.Text = "Caster’s voice seems to issue from his pockets"
+    ElseIf (Label1.Caption = 2446) Then
+Text1.Text = "Caster’s voice seems to issue from some item he’s now carrying"
+    ElseIf (Label1.Caption = 2447) Then
+Text1.Text = "Caster’s voice sounds as if it’s coming from a distant megaphone"
+    ElseIf (Label1.Caption = 2448) Then
+Text1.Text = "Caster’s voice sounds as if it’s coming through a metal tube"
+    ElseIf (Label1.Caption = 2449) Then
+Text1.Text = "Caster’s voice sounds like he’s 1d100 years older"
+    ElseIf (Label1.Caption = 2450) Then
+Text1.Text = "Caster’s voice sounds like that of each person to whom he speaks"
+    ElseIf (Label1.Caption = 2451) Then
+Text1.Text = "Caster’s voice sounds like the braying of donkeys"
+    ElseIf (Label1.Caption = 2452) Then
+Text1.Text = "Caster’s voice sounds like the buzzing of metal bees"
+    ElseIf (Label1.Caption = 2453) Then
+Text1.Text = "Caster’s voice sounds like the honking of geese"
+    ElseIf (Label1.Caption = 2454) Then
+Text1.Text = "Caster’s voice sounds like the sputtering of a clogged drain"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
