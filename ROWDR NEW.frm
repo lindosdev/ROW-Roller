@@ -1,8 +1,9 @@
 '    Rod of Wonder Dice Roller
 
-'    Dice Roller for the Rod of Wonder based on "The Net Libram of Random Magical Effects version 2.00 By Orrex"
+'    Dice Roller for the Rod of Wonder, 
+'    based on "The Net Libram of Random Magical Effects version 2.00 By Orrex"
 
-'    Copyright (c)  2023 by Gary J. Teixeira Jr.
+'    Copyright (c) 2023 by Gary J. Teixeira Jr.
 '    Permission is granted to copy. distribute and/or modify this program
 '    under the terms of the Attribution-NonCommercial 4.0 International License
 
@@ -10,14 +11,15 @@
 '    but WITHOUT ANY WARRANTY; without even the implied warranty of
 '    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-'    You may contact the developer at: ambientmine@protonmail.com
+'    You may contact the developer at: ambientmine AT protonmail DOT com
 
-
-' Change ° to degrees
-' Change % to percent
-' Test Double Quotes (")
-' Fix About Box
 ' Make Caption1 Box Visible
+' Test °
+' Test %
+' Test "
+' Test ( and )
+' Fix About Box
+
 
 VERSION 5.00
 Begin VB.Form Form1 
@@ -5574,6 +5576,56 @@ Text1.Text = "If caster is now bleeding, he’s attacked by a shark"
 Text1.Text = "If caster is now bleeding, he’s forever immune to healing magic"
     ElseIf (Label1.Caption = 2739) Then
 Text1.Text = "If caster is now bleeding, he’s immune to fire magic until sunset"
+    ElseIf (Label1.Caption = 2740) Then
+Text1.Text = "If caster is now bleeding, he’s permanently invisible to goblins"
+    ElseIf (Label1.Caption = 2741) Then
+Text1.Text = "If caster is now bleeding, he’s reduced to just one hit point"
+    ElseIf (Label1.Caption = 2742) Then
+Text1.Text = "If caster is now bleeding, he’s restored to full Health"
+    ElseIf (Label1.Caption = 2743) Then
+Text1.Text = "If caster is now bleeding, he’s stricken mute until he’s healed"
+    ElseIf (Label1.Caption = 2744) Then
+Text1.Text = "If caster is now bleeding, his blood glows in the dark"
+    ElseIf (Label1.Caption = 2745) Then
+Text1.Text = "If caster is now bleeding, his blood is flammable for 2d12 hours"
+    ElseIf (Label1.Caption = 2746) Then
+Text1.Text = "If caster is now bleeding, his hair grows 8d12 inches"
+    ElseIf (Label1.Caption = 2747) Then
+Text1.Text = "If caster is now bleeding, his weapon is +4 ToHit for 2d12 hours"
+    ElseIf (Label1.Caption = 2748) Then
+Text1.Text = "If caster is now bleeding, his weapons vanish until dawn"
+    ElseIf (Label1.Caption = 2749) Then
+Text1.Text = "If caster is now bleeding, is base AC is zero for 1d10 hours"
+    ElseIf (Label1.Caption = 2750) Then
+Text1.Text = "If caster is now carrying a waterskin, it can hold 10d10 gallons"
+    ElseIf (Label1.Caption = 2751) Then
+Text1.Text = "If caster is now carrying a waterskin, it turns into bagpipes"
+    ElseIf (Label1.Caption = 2752) Then
+Text1.Text = "If caster is slain by a metal weapon, he can’t be resurrected"
+    ElseIf (Label1.Caption = 2753) Then
+Text1.Text = "If caster is slain by a metal weapon, he’ll rises as a zombie"
+    ElseIf (Label1.Caption = 2754) Then
+Text1.Text = "If caster is slain, he awakens the next day fully healed (once)"
+    ElseIf (Label1.Caption = 2755) Then
+Text1.Text = "If caster is slain, his killer is 20% likely to take his own life"
+    ElseIf (Label1.Caption = 2756) Then
+Text1.Text = "If caster is slain, his killer is universally hailed as a hero"
+    ElseIf (Label1.Caption = 2757) Then
+Text1.Text = "If caster is slain, his killer receives 100,000 gold pieces"
+    ElseIf (Label1.Caption = 2758) Then
+Text1.Text = "If caster is standing near open flame, he tries to extinguish it"
+    ElseIf (Label1.Caption = 2759) Then
+Text1.Text = "If caster is standing near open flame, he tries to ignite himself"
+    ElseIf (Label1.Caption = 2760) Then
+Text1.Text = "If caster is struck by an axe, he disgorges a pound of sawdust"
+    ElseIf (Label1.Caption = 2761) Then
+Text1.Text = "If caster is struck by an axe, he yells "timber"and falls over"
+    ElseIf (Label1.Caption = 2762) Then
+Text1.Text = "If caster is usually shy, he becomes very assertive, and vice versa"
+    ElseIf (Label1.Caption = 2763) Then
+Text1.Text = "If caster is wearing a magic ring, brackish slime oozes from it"
+    ElseIf (Label1.Caption = 2764) Then
+Text1.Text = "If caster is wearing a magic ring, everyone one nearby hates him"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
