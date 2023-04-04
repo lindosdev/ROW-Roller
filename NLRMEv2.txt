@@ -1,135 +1,3 @@
-2715 If caster is carrying his spellbook, he’s illiterate for one week
-2716 If caster is carrying his spellbook, he’s reluctant to open it
-2717 If caster is carrying his spellbook, it teleports to his home
-2718 If caster is carrying his spellbook, it vanishes until dawn
-2719 If caster is hit by a bludgeon, his head resembles a watermelon
-2720 If caster is hit by a bludgeon, his head rings like a bronze gong
-2721 If caster is now at full hit points, he vanishes for 1d12 hours
-2722 If caster is now bleeding, he ages 10d10 years
-2723 If caster is now bleeding, he attacks his nearest ally
-2724 If caster is now bleeding, he can never use invisibility magic
-2725 If caster is now bleeding, he can’t be healed before midnight
-2726 If caster is now bleeding, he can’t use magic for 1d4 days
-2727 If caster is now bleeding, he can’t use magic for 2d12 hours
-2728 If caster is now bleeding, he changes sex for 1d6 days
-2729 If caster is now bleeding, he declares war on an imagined enemy
-2730 If caster is now bleeding, he flees at top speed in a panic
-2731 If caster is now bleeding, he gains 10,000 Experience Points
-2732 If caster is now bleeding, he gains one level
-2733 If caster is now bleeding, he loses another 4d10 hit points
-2734 If caster is now bleeding, he races to the nearest coastline
-2735 If caster is now bleeding, he teleports to his home
-2736 If caster is now bleeding, he thinks that he’s somebody else
-2737 If caster is now bleeding, he’s attacked by a shark
-2738 If caster is now bleeding, he’s forever immune to healing magic
-2739 If caster is now bleeding, he’s immune to fire magic until sunset
-
-2740 If caster is now bleeding, he’s permanently invisible to goblins
-2741 If caster is now bleeding, he’s reduced to just one hit point
-2742 If caster is now bleeding, he’s restored to full Health
-2743 If caster is now bleeding, he’s stricken mute until he’s healed
-2744 If caster is now bleeding, his blood glows in the dark 
-2745 If caster is now bleeding, his blood is flammable for 2d12 hours
-2746 If caster is now bleeding, his hair grows 8d12 inches
-2747 If caster is now bleeding, his weapon is +4 ToHit for 2d12 hours
-2748 If caster is now bleeding, his weapons vanish until dawn
-2749 If caster is now bleeding, is base AC is zero for 1d10 hours
-2750 If caster is now carrying a waterskin, it can hold 10d10 gallons
-2751 If caster is now carrying a waterskin, it turns into bagpipes
-2752 If caster is slain by a metal weapon, he can’t be resurrected
-2753 If caster is slain by a metal weapon, he’ll rises as a zombie
-2754 If caster is slain, he awakens the next day fully healed (once)
-2755 If caster is slain, his killer is 20% likely to take his own life
-2756 If caster is slain, his killer is universally hailed as a hero
-2757 If caster is slain, his killer receives 100,000 gold pieces
-2758 If caster is standing near open flame, he tries to extinguish it
-2759 If caster is standing near open flame, he tries to ignite himself
-2760 If caster is struck by an axe, he disgorges a pound of sawdust
-2761 If caster is struck by an axe, he yells "timber"and falls over
-2762 If caster is usually shy, he becomes very assertive, &amp; vice versa
-2763 If caster is wearing a magic ring, brackish slime oozes from it
-2764 If caster is wearing a magic ring, everyone one nearby hates him
-2765 If caster is wearing a magic ring, he acquires a new language
-2766 If caster is wearing a magic ring, he acquires an unusual phobia
-2767 If caster is wearing a magic ring, he ages 1d100 years until dawn
-2768 If caster is wearing a magic ring, he ages one year per round
-2769 If caster is wearing a magic ring, he becomes loudly belligerent
-2770 If caster is wearing a magic ring, he becomes nocturnal
-2771 If caster is wearing a magic ring, he can breathe underwater
-2772 If caster is wearing a magic ring, he can’t be harmed by ice
-2773 If caster is wearing a magic ring, he can’t Detect Magic
-2774 If caster is wearing a magic ring, he can’t discern True North 
-2775 If caster is wearing a magic ring, he can’t eat while wearing it
-2776 If caster is wearing a magic ring, he can’t leave this spot
-2777 If caster is wearing a magic ring, he can’t remove it by himself
-2778 If caster is wearing a magic ring, he can’t sit until sunrise
-2779 If caster is wearing a magic ring, he can’t sleep for 2d10 days
-2780 If caster is wearing a magic ring, he can’t speak above a whisper
-2781 If caster is wearing a magic ring, he can’t use it for 1d4 days
-2782 If caster is wearing a magic ring, he can’t wear any other rings
-2783 If caster is wearing a magic ring, he claims to be an impostor
-2784 If caster is wearing a magic ring, he claims to be enslaved to it
-2785 If caster is wearing a magic ring, he claims to be indestructible
-2786 If caster is wearing a magic ring, he claims to despise it
-2787 If caster is wearing a magic ring, he claims to have created it
-2788 If caster is wearing a magic ring, he claims to have stolen it
-2789 If caster is wearing a magic ring, he decides that he’s a god
-2790 If caster is wearing a magic ring, he disgorges a large bell
-2791 If caster is wearing a magic ring, he disgorges one just like it
-2792 If caster is wearing a magic ring, he feels 1d100° colder 
-2793 If caster is wearing a magic ring, he finds an enormous diamond
-2794 If caster is wearing a magic ring, he finds another just like it
-2795 If caster is wearing a magic ring, he forgets how to use it
-2796 If caster is wearing a magic ring, he founds a bizarre cult
-2797 If caster is wearing a magic ring, he goes insane for 1d4 days
-2798 If caster is wearing a magic ring, he grows suspicious of Elves
-2799 If caster is wearing a magic ring, he hasn’t eaten in weeks
-2800 If caster is wearing a magic ring, he hates to use it indoors
-2801 If caster is wearing a magic ring, he hates to use it outdoors
-2802 If caster is wearing a magic ring, he joins a bizarre cult
-2803 If caster is wearing a magic ring, he misplaces it
-2804 If caster is wearing a magic ring, he refuses to speak to Dwarves
-2805 If caster is wearing a magic ring, he regains 2d6 hit points
-2806 If caster is wearing a magic ring, he rings like a bell
-2807 If caster is wearing a magic ring, he shrinks by 50% until dawn
-2808 If caster is wearing a magic ring, he suffers cannibalistic urges
-2809 If caster is wearing a magic ring, he suspects that it’s a fake
-2810 If caster is wearing a magic ring, he thinks his allies covet it
-2811 If caster is wearing a magic ring, he thinks it’s consuming him
-2812 If caster is wearing a magic ring, he thinks it’s controlling him
-2813 If caster is wearing a magic ring, he thinks that it’s on fire
-2814 If caster is wearing a magic ring, he throws it 4d6 feet from him
-2815 If caster is wearing a magic ring, he tries to destroy it
-2816 If caster is wearing a magic ring, he tries to sever that finger
-2817 If caster is wearing a magic ring, he uses it whenever possible
-2818 If caster is wearing a magic ring, he wants to swallow it
-2819 If caster is wearing a magic ring, he weeps tears of honey
-2820 If caster is wearing a magic ring, he’ll die if he removes it
-2821 If caster is wearing a magic ring, he’s accused of sedition
-2822 If caster is wearing a magic ring, he’s allergic to it
-2823 If caster is wearing a magic ring, he’s attacked by crows
-2824 If caster is wearing a magic ring, he’s attacked by scarabs 
-2825 If caster is wearing a magic ring, he’s blind until he removes it
-2826 If caster is wearing a magic ring, he’s declared guilty of heresy
-2827 If caster is wearing a magic ring, he’s eager to behead himself
-2828 If caster is wearing a magic ring, he’s imprisoned far away
-2829 If caster is wearing a magic ring, he’s known to have stolen it
-2830 If caster is wearing a magic ring, he’s placed under arrest
-2831 If caster is wearing a magic ring, he’s related to the king
-2832 If caster is wearing a magic ring, he’s reluctant to use it
-2833 If caster is wearing a magic ring, he’s struck by lightning
-2834 If caster is wearing a magic ring, he’s swarmed by vermin
-2835 If caster is wearing a magic ring, he’s terrified of its power
-2836 If caster is wearing a magic ring, he’s wearing a copy in his nose
-2837 If caster is wearing a magic ring, his Charisma is  3 until dawn
-2838 If caster is wearing a magic ring, his Charisma is 18 until dawn
-2839 If caster is wearing a magic ring, his clothes turn invisible
-2840 If caster is wearing a magic ring, his clothes turn to lead
-2841 If caster is wearing a magic ring, his ears and nose fall off
-2842 If caster is wearing a magic ring, his eyes turn invisible
-2843 If caster is wearing a magic ring, his fingernails grow 1d4 feet
-2844 If caster is wearing a magic ring, his hands look like a corpse’s
- 27
 2845 If caster is wearing a magic ring, his hands switch wrists
 2846 If caster is wearing a magic ring, his head turns invisible
 2847 If caster is wearing a magic ring, his teeth turn to gold
@@ -157,6 +25,7 @@
 2869 If caster is wearing a magic ring, its effect is reversed
 2870 If caster is wearing a magic ring, its main function is altered
 2871 If caster is wearing a magic ring, no one takes him seriously
+
 2872 If caster is wearing a magic ring, smoke pours from his nostrils
 2873 If caster is wearing a magic ring, that finger doubles in length
 2874 If caster is wearing a magic ring, that finger turns into a thumb
@@ -182,6 +51,7 @@
 2894 If caster is wearing any armor, he attacks someone nearby
 2895 If caster is wearing any armor, he removes it as fast as possible
 2896 If caster is wearing any armor, he teleports to his home
+
 2897 If caster is wearing any armor, it teleports to his home
 2898 If caster is wearing any leather, he moos like a cow until sunset
 2899 If caster is wearing any leather, he reeks of manure until sunset
@@ -207,6 +77,7 @@
 2919 If cut open, caster is found to be a mechanical construct
 2920 If cut open, caster is found to be completely hollow
 2921 If cut open, caster is found to be filled with gold coins
+
 2922 If cut open, caster is found to be filled with thick red foam
 2923 If cut open, caster is found to be made of soap
 2924 If cut open, caster is found to be packed with gunpowder
