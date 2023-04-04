@@ -1,4 +1,3 @@
-2845 If caster is wearing a magic ring, his hands switch wrists
 2846 If caster is wearing a magic ring, his head turns invisible
 2847 If caster is wearing a magic ring, his teeth turn to gold
 2848 If caster is wearing a magic ring, holy water burns his skin
@@ -11,14 +10,14 @@
 2855 If caster is wearing a magic ring, it disintegrates upon removal
 2856 If caster is wearing a magic ring, it explodes upon removal
 2857 If caster is wearing a magic ring, it has 2X as many charges
-2858 If caster is wearing a magic ring, it heats to 1,000°
+2858 If caster is wearing a magic ring, it heats to 1,000 degrees
 2859 If caster is wearing a magic ring, it shines like the sun
-2860 If caster is wearing a magic ring, it shrinks by 50%
+2860 If caster is wearing a magic ring, it shrinks by 50 percent
 2861 If caster is wearing a magic ring, it sprouts dozens of needles
 2862 If caster is wearing a magic ring, it turns permanently invisible
 2863 If caster is wearing a magic ring, it turns to lead
 2864 If caster is wearing a magic ring, it weighs more than he does
-2865 If caster is wearing a magic ring, it works only 75% of the time
+2865 If caster is wearing a magic ring, it works only 75 percent of the time
 2866 If caster is wearing a magic ring, it’s as brittle as glass
 2867 If caster is wearing a magic ring, it’s on someone else’s finger
 2868 If caster is wearing a magic ring, it’s suddenly in his stomach
@@ -66,10 +65,10 @@
 2908 If caster sleeps in his boots, they begin devouring him tonight
 2909 If caster stands on a riverbank, he’s attacked by crustaceans
 2910 If caster stands on a riverbank, the bank crumbles beneath him
-2911 If caster swallows a hot coal, he’s  5% likely to turn to diamond
-2912 If caster swallows a hot coal, it’s 10% likely to turn to diamond
+2911 If caster swallows a hot coal, he’s  5 percent likely to turn to diamond
+2912 If caster swallows a hot coal, it’s 10 percent likely to turn to diamond
 2913 If caster tells a lie, he giggles 
-2914 If caster tells a lie, he’s 40% likely to declare it outright
+2914 If caster tells a lie, he’s 40 percent likely to declare it outright
 2915 If caster uses Detect Magic, he loses 1d6 hit points
 2916 If caster uses Detect Magic, he’s blinded for 1d10 rounds
 2917 If caster’s carrying a dagger, he throws it at someone nearby
@@ -136,12 +135,12 @@
 2976 In the next few days, caster unearths a statue of himself
 2977 Iridescent plumage sprouts from caster’s shoulder blades
 2978 Lightning flashes about the caster’s head during battle
-2979 Lightning is 3% likely to strike the caster on any given day
+2979 Lightning is 3 percent likely to strike the caster on any given day
 2980 Luxuriant, leafy foliage sprouts from the caster’s head
-2981 Magic items are 10% likely to fail when caster uses them
-2982 Magic items use charges at 50% normal rate if caster uses them
+2981 Magic items are 10 percent likely to fail when caster uses them
+2982 Magic items use charges at 50 percent normal rate if caster uses them
 2983 Magical animals seem to mock the caster while he’s not looking
-2984 Magical armor bonuses are 50% likely to fail for the caster
+2984 Magical armor bonuses are 50 percent likely to fail for the caster
 2985 Magical armor bonuses no longer work at all for the caster
 2986 Magical blades that hit the caster apply no magical damage bonus
 2987 Magical creatures and fantastical animals are invisible to caster
@@ -373,7 +372,7 @@
 3212 Next person to whom caster speaks must give him 8d8 gold pieces
 3213 Next person to whom caster speaks races away at top speed
 3214 Next person to whom caster speaks regains 1d4 hit points
-3215 Next person to whom caster speaks shrinks by 25% for 1d4 days
+3215 Next person to whom caster speaks shrinks by 25 percent for 1d4 days
 3216 Next person to whom caster speaks suspects the caster of heresy
 3217 Next potion imbibed by caster alerts everyone to his whereabouts
 3218 Next potion imbibed by caster burns his home to the ground
@@ -389,7 +388,7 @@
 3228 Next potion imbibed by caster cures him of any current diseases
 3229 Next potion imbibed by caster doubles in volume 1d20 times
 3230 Next potion imbibed by caster enables him to breathe underwater
-3231 Next potion imbibed by caster enlarges his hands by 50%
+3231 Next potion imbibed by caster enlarges his hands by 50 percent
 3232 Next potion imbibed by caster freezes him solid until sunset
 3233 Next potion imbibed by caster gives him chimp-like proportions
 3234 Next potion imbibed by caster glues his mouth shut
@@ -407,8 +406,8 @@
 3245 Next potion imbibed by caster induces temporary homicidal rage 
 3246 Next potion imbibed by caster induces uncharacteristic generosity
 3247 Next potion imbibed by caster inflicts an embarrassing ailment
-3248 Next potion imbibed by caster is  5% likely to kill him outright
-3249 Next potion imbibed by caster is 10% likely to last 1d10 years
+3248 Next potion imbibed by caster is  5 percent likely to kill him outright
+3249 Next potion imbibed by caster is 10 percent likely to last 1d10 years
 3250 Next potion imbibed by caster is actually a living thing
 3251 Next potion imbibed by caster is incredibly addictive
 3252 Next potion imbibed by caster is powerfully emetic
@@ -456,9 +455,9 @@
 3294 Next potion imbibed by caster reduces him to one hit point
 3295 Next potion imbibed by caster restores him to full hit points 
 3296 Next potion imbibed by caster reveals any secret doors nearby
-3297 Next potion imbibed by caster rotates his feet 180°
+3297 Next potion imbibed by caster rotates his feet 180 degrees
 3298 Next potion imbibed by caster sets his hair ablaze
-3299 Next potion imbibed by caster shrinks his hands by 50%
+3299 Next potion imbibed by caster shrinks his hands by 50 percent
 3300 Next potion imbibed by caster snuffs all fires within one mile
 3301 Next potion imbibed by caster solidifies in his stomach
 3302 Next potion imbibed by caster strikes him bald for one year
@@ -516,14 +515,14 @@
 3354 Next sword that wounds caster was coated with deadly venom
 3355 Next sword touched by caster gains a +1 ToHit bonus for 4d6 days
 3356 Next sword touched by caster turns into a crescent wrench
-3357 Next time caster’s restored to full hit points, he shrinks by 50%
+3357 Next time caster’s restored to full hit points, he shrinks by 50 percent
 3358 Next tree touched by caster animates and attacks everyone nearby
 3359 Next tree touched by caster crumbles to ash in minutes
 3360 Next wound inflicted by caster can’t heal without magic
 3361 Next wound inflicted upon caster can’t be healed magically
 3362 No animal will allow the caster to ride it
 3363 No matter how far the caster travels today, he winds up here
-3364 No more than 60% of caster’s body can become invisible at a time
+3364 No more than 60 percent of caster’s body can become invisible at a time
  31
 3365 No one now within 10 yards of caster can harm him until dawn
 3366 No one within 100 miles trusts caster enough to lend him money
@@ -535,8 +534,8 @@
 3372 Objects handled by caster can’t be made invisible for one year
 3373 Objects placed in caster’s pockets freeze solid in minutes
 3374 On a successful attack roll, caster must Save or drop his weapon
-3375 On any given day, caster’s left foot is 50% likely to be ethereal
-3376 On any successful attack roll, caster is still 10% likely to fail
+3375 On any given day, caster’s left foot is 50 percent likely to be ethereal
+3376 On any successful attack roll, caster is still 10 percent likely to fail
 3377 Once per day, caster can cause himself to age 1d10 years
 3378 Once per day, caster can cause his shoes or boots to vanish
 3379 Once per day, caster can cause his spellbook to ignite
@@ -545,7 +544,7 @@
 3382 Once per day, caster can cause ten pounds of ice to melt rapidly
 3383 Once per day, caster can create one loosely-packed snowball
 3384 Once per day, caster can create up to one pound of cheese
-3385 Once per day, caster can discern True North with 100% accuracy
+3385 Once per day, caster can discern True North with 100 percent accuracy
 3386 Once per day, caster can dry a soaking wet, shirt-sized garment 
 3387 Once per day, caster can eliminate rust from one sword or helmet
 3388 Once per day, caster can locate the most valuable jewel nearby
@@ -565,7 +564,7 @@
 3402 Once per day, caster can totally ignore one attack against him 
 3403 Once per day, caster can turn his hands ethereal for 1d6 rounds
 3404 Once per day, caster can turn his hands invisible for 1d10 rounds
-3405 Once per day, caster can turn his head 360° at the neck, unharmed
+3405 Once per day, caster can turn his head 360 degrees at the neck, unharmed
 3406 Once per day, caster can turn his teeth invisible for 10 minutes
 3407 Once per day, caster can turn invisible for up to three minutes
 3408 Once per week, caster can appear to be a foot taller for one hour
@@ -624,13 +623,13 @@
 3461 One of caster’s arms turns to solid silver
 3462 One of caster’s eyes bulges like a fish eye
 3463 One of caster’s eyes doubles in size
-3464 One of caster’s eyes doubles in size; the other shrinks by 50%
+3464 One of caster’s eyes doubles in size; the other shrinks by 50 percent
 3465 One of caster’s eyes glows with infernal radiance
 3466 One of caster’s feet disintegrates
 3467 One of caster’s feet is replaced by an off-balance wheel
 3468 One of caster’s feet reforms into a perfect sphere
 3469 One of caster’s feet refuses to come anywhere near the other
-3470 One of caster’s hands doubles in size; the other shrinks by 50%
+3470 One of caster’s hands doubles in size; the other shrinks by 50 percent
 3471 One of caster’s hands is as durable as steel
 3472 One of caster’s hands is green and scaly like a lizard’s claw
 3473 One of caster’s hands is susceptible to rust
@@ -649,7 +648,7 @@
 3486 One side of caster’s body is paralyzed for 1d4 rounds
 3487 One side of caster’s body is rendered invisible for 1d4 weeks
 3488 One side of caster’s body looks like a photo negative
-3489 One side of caster’s body shrinks by 10%
+3489 One side of caster’s body shrinks by 10 percent
 3490 People journey for miles to beseech the caster for healing
 3491 People journey for miles to study magic under the caster
 3492 People journey for miles to touch the hem of caster’s garment
@@ -726,7 +725,7 @@
 3562 Tomorrow, caster finds a key to a lock that doesn’t yet exist
 3563 Tomorrow, caster finds a key to that mysterious door in his home
 3564 Tomorrow, caster finds a lab holding many lifeless clones of him
-3565 Tomorrow, caster finds a legendary sword &amp; loses it the next day
+3565 Tomorrow, caster finds a legendary sword and loses it the next day
 3566 Tomorrow, caster finds a piece of anachronistic technology
 3567 Tomorrow, caster finds a ruby as large as his head
 3568 Tomorrow, caster finds a secret Gate to the Astral Plane
@@ -770,7 +769,7 @@
 3606 Tomorrow, caster meets someone who owes him a lot of money
 3607 Tomorrow, caster meets someone who tries to eat his eyes
 3608 Tomorrow, caster meets someone who wants to buy his pancreas
-3609 Tomorrow, caster meets someone who’s 100% immune to magic
+3609 Tomorrow, caster meets someone who’s 100 percent immune to magic
 3610 Tomorrow, caster meets someone who’s plotting to kill the king
 3611 Tomorrow, caster meets someone whom caster knows to be dead
 3612 Tomorrow, caster meets someone whom he owes a lot of money
@@ -876,7 +875,7 @@
 3711 When caster is angry, steam billows from his nostrils
 3712 When caster is surprised, he randomly teleports 1d4 yards
 3713 When caster is surprised, his head briefly doubles in size
-3714 When caster is surprised, his head spins 360°
+3714 When caster is surprised, his head spins 360 degrees
 3715 When caster next casts this spell, he becomes hopelessly lost
 3716 When caster next casts this spell, he feels overwhelming deja vu
 3717 When caster next casts this spell, he teleports to this spot
@@ -920,7 +919,7 @@
  34
 3755 When caster next enters a lake, he suffers severe hypothermia
 3756 When caster next enters a lake, he teleports to a different lake
-3757 When caster next enters a lake, he’s 30% likely to become a fish
+3757 When caster next enters a lake, he’s 30 percent likely to become a fish
 3758 When caster next enters a lake, he’s attacked by sharks
 3759 When caster next enters a lake, he’s attacked by turtles
 3760 When caster next enters a lake, he’s befriended by otters
@@ -1017,7 +1016,7 @@
 3851 When caster next enters his home, its doors and windows vanish
 3852 When caster next enters his home, monsters reside under the bed
 3853 When caster next enters his home, someone’s eaten his porridge
-3854 When caster next enters his home, the doors &amp; windows fuse shut
+3854 When caster next enters his home, the doors and windows fuse shut
 3855 When caster next enters his home, the floor vanishes
 3856 When caster next enters his home, the magistrate condemns it
 3857 When caster next enters his home, the roof ignites
@@ -1052,8 +1051,8 @@
 3885 When caster next uses magic, he teleports 10d10 yards randomly
 3886 When caster next uses magic, he teleports into a nearby building
 3887 When caster next uses magic, he thinks that he’s at death’s door
-3888 When caster next uses magic, he’s  5% likely to lose one level
-3889 When caster next uses magic, he’s 10% likely to die outright
+3888 When caster next uses magic, he’s  5 percent likely to lose one level
+3889 When caster next uses magic, he’s 10 percent likely to die outright
 3890 When caster next uses magic, he’s shunned by other magic users
 3891 When caster next uses magic, he’s thrown back to this moment
 3892 When caster next uses magic, his clone appears nearby
@@ -1073,7 +1072,7 @@
 3906 When caster teleports, he arrives ravenously hungry
 3907 When caster teleports, he arrives upside down
 3908 When caster teleports, he arrives with half of his gear missing
-3909 When caster teleports, only 95% + 1d10% of his body is teleported
+3909 When caster teleports, only 95 percent + 1d10 percent of his body is teleported
 3910 When caster tells a falsehood, he confesses it to everyone nearby
 3911 When caster uses Mirror Image, 10X the number of Images appear
 3912 When caster uses Mirror Image, he can’t tell which image is real
@@ -1108,7 +1107,7 @@
 3941 When struck by magic, caster briefly appears to be made of wood
 3942 When struck by magic, caster feels the urge to reveal a secret
 3943 When struck by magic, caster flies into a berserker rage
-3944 When struck by magic, caster is 10% likely to be caked in grime
+3944 When struck by magic, caster is 10 percent likely to be caked in grime
 3945 When struck by magic, caster is covered by ashes and soot
 3946 When struck by magic, caster sings raucous songs for 1d4 rounds
 3947 When struck by magic, caster temporarily inflates like a balloon
@@ -1124,18 +1123,18 @@
 3957 Whenever caster casts a spell, he hears loud, discordant music 
 3958 Whenever caster casts a spell, he hears the laments of the damned 
 3959 Whenever caster casts a spell, he must Save or be knocked down
-3960 Whenever caster casts a spell, he must Save or shrink by 20%
+3960 Whenever caster casts a spell, he must Save or shrink by 20 percent
 3961 Whenever caster casts a spell, he suffers crippling stage fright
 3962 Whenever caster casts a spell, he thinks that he ages 1d10 years 
 3963 Whenever caster casts a spell, he whistles like a teapot 
-3964 Whenever caster casts a spell, he’s 10% likely to pass out 
+3964 Whenever caster casts a spell, he’s 10 percent likely to pass out 
 3965 Whenever caster casts a spell, he’s haunted by cryptic warnings
 3966 Whenever caster casts a spell, his bones glow visibly in his body
 3967 Whenever caster casts a spell, his clothes are glazed with frost
 3968 Whenever caster casts a spell, his ears shine like the sun 
-3969 Whenever caster casts a spell, his feet swell by 10% 
+3969 Whenever caster casts a spell, his feet swell by 10 percent 
 3970 Whenever caster casts a spell, his spellbook must Save or combust
-3971 Whenever caster casts a spell, one of his hands grows by 25% 
+3971 Whenever caster casts a spell, one of his hands grows by 25 percent 
 3972 Whenever caster casts a spell, someone far away vows to kill him
 3973 Wherever caster walks, he sounds like he’s on a squeaky floor
 3974 While caster is invisible, a faint outline can still be seen
@@ -1154,7 +1153,7 @@
 3987 While caster sleeps, mysterious runes hover over his head
 3988 While caster sleeps, rodents bring him sacrificial offerings
 3989 While caster sleeps, thousands of insects swarm over his body 
-3990 While indoors, caster appears to be 5% larger
+3990 While indoors, caster appears to be 5 percent larger
 3991 While indoors, caster feels as if he’s dragging heavy chains
 3992 While indoors, caster feels as if he’s in a blazing desert
 3993 While indoors, caster feels as if he’s on a ship’s deck
@@ -1187,8 +1186,8 @@
 4019 All that the target has ever done was really done by someone else
 4020 All voices sound alike to the target for 5d6 days
 4021 All within 100 yards with a missile weapon fire it at the target
-4022 Ambient temperature always feels 50° colder to target
-4023 Ambient temperature rises 10° when target is angry
+4022 Ambient temperature always feels 50 degrees colder to target
+4023 Ambient temperature rises 10 degrees when target is angry
 4024 An earthen duplicate of the target rises up and attacks him
 4025 An earthen duplicate of the target wants to take his place
 4026 An evergreen sprouts from target’s chest while he sleeps tonight
@@ -1209,16 +1208,16 @@
 4041 Any blade hitting target for maximum damage turns clear as glass
 4042 Any blade hitting target for maximum damage turns to gold
 4043 Any blade hitting target for maximum damage vanishes until sunset
-4044 Any bludgeon that hits the target is 10% likely to shatter
+4044 Any bludgeon that hits the target is 10 percent likely to shatter
 4045 Any bludgeon that hits the target is thereafter +4 ToHit him
 4046 Any bludgeon that hits the target sprays water like a fountain
 4047 Any bludgeon that hits the target turns to sponge as it does so
 4048 Any clothing or armor now worn by target ages 100 years per round
 4049 Any clothing or armor now worn by target is fireproof until dawn
 4050 Any clothing or armor now worn by target is soaked with tree sap
-4051 Any clothing or armor now worn by target shrinks by 30%
+4051 Any clothing or armor now worn by target shrinks by 30 percent
 4052 Any coins that target is now carrying double in value
-4053 Any coins that target is now carrying shrink by 50%
+4053 Any coins that target is now carrying shrink by 50 percent
 4054 Any coins that target is now carrying turn to cheese
 4055 Any coins that target is now carrying weigh 100 pounds each
 4056 Any fire damage suffered by target equally affects someone nearby
@@ -1228,7 +1227,7 @@
 4060 Any gems now carried by target are cursed against him
 4061 Any gold now carried by target belongs to a dragon
 4062 Any gold now carried by target combusts like tinder
-4063 Any jewelry that target is wearing heats to 500°
+4063 Any jewelry that target is wearing heats to 500 degrees
 4064 Any magic items carried by the target glow like embers until dawn
 4065 Any metal now in target’s possession becomes intensely magnetic
 4066 Any metal now in target’s possession heats to its melting point
@@ -1244,7 +1243,7 @@
 4076 Any metal weapons that wound the target vanish for 1d4 rounds
 4077 Any missile weapon hitting the target inflicts triple damage
 4078 Any missile weapon hitting the target instantly combusts
-4079 Any missile weapon hitting the target is 10% likely to take root
+4079 Any missile weapon hitting the target is 10 percent likely to take root
 4080 Any missile weapon hitting the target suddenly triples in weight
 4081 Any missile weapons now carried by target are badly warped 
 4082 Any missile weapons now carried by target have 10X normal range
@@ -1281,15 +1280,15 @@
 4113 Any part of target now covered by clothing is forever invisible
 4114 Any part of target now covered by clothing is hideously scarred
 4115 Any spells cast in target’s presence seem to originate from him
-4116 Any successful attack on target is  2% likely to kill him 
-4117 Any successful attack on target is 10% likely to fail outright
+4116 Any successful attack on target is  2 percent likely to kill him 
+4117 Any successful attack on target is 10 percent likely to fail outright
 4118 Any successful attack on target will leave hideous scars
 4119 Any undead now within 10 yards of target attack him until slain
 4120 Any undead now within 10 yards of target combust
 4121 Any undead now within 10 yards of target gain an extra hit die
 4122 Any undead now within 10 yards of target vanish or are destroyed
 4123 Any water elemental touching or touched by target freezes solid
-4124 Any water elemental touching or touched by target heats to 200°
+4124 Any water elemental touching or touched by target heats to 200 degrees
 4125 Any water elemental touching or touched by target is set ablaze
 4126 Any water elemental touching or touched by target splits in two
 4127 Any water now in contact with target’s body freezes solid
@@ -1351,14 +1350,14 @@
 4182 Anyone touching the target in the next turn is briefly paralyzed
 4183 Anyone touching the target in the next turn loses 1d10 hit points
 4184 Anyone touching the target in the next turn suffers severe burns
-4185 Anyone who wounds the target is  5% likely to kill him outright
+4185 Anyone who wounds the target is  5 percent likely to kill him outright
 4186 Anyone who wounds the target must Save or age 1d10 years
 4187 Anyone who wounds the target must Save or be equally wounded
 4188 Anyone who wounds the target must Save or disarm themselves
 4189 Anyone who wounds the target must Save or fall unconscious
 4190 Anyone who wounds the target must Save or sink into the ground
 4191 Anyone who wounds the target must Save or teleport 1d4 miles 
-4192 Anyone who wounds the target must Save or temporarily shrink 25% 
+4192 Anyone who wounds the target must Save or temporarily shrink 25 percent 
 4193 Armor is always invisible while worn by the target
 4194 As target is wounded more severely, he’s less likely to sense it
 4195 At any crossroads, target feels utterly lost
@@ -1369,7 +1368,7 @@
 4200 At dawn tomorrow, demonic hordes mount a quest against the target
 4201 At dawn tomorrow, target is abducted by an undead horde
 4202 At dawn tomorrow, target must Save or age 1d1000 years
-4203 At each sunset, target is 20% likely to age 1d20 years instantly
+4203 At each sunset, target is 20 percent likely to age 1d20 years instantly
 4204 At some point in every battle, target wholly disarms himself
 4205 Beacon-bright light shines from target’s palms during combat 
 4206 Beacon-bright light shines from the soles of the target’s feet
@@ -1408,10 +1407,10 @@
 4239 Creatures Summoned in target’s presence worship him as a god
 4240 Dew and condensation inspire fear in the target
 4241 Dozens of tiny glass slivers fall harmlessly from target’s mouth
-4242 During any combat round, target is  3% likely to die outright
-4243 During any combat round, target is  5% likely to flee in panic
-4244 During any combat round, target is 10% likely to be invisible
-4245 During any combat round, target is 50% likely to be very drunk
+4242 During any combat round, target is  3 percent likely to die outright
+4243 During any combat round, target is  5 percent likely to flee in panic
+4244 During any combat round, target is 10 percent likely to be invisible
+4245 During any combat round, target is 50 percent likely to be very drunk
 4246 During battle, target experiences distracting hallucinations 
 4247 During battle, target hears overpoweringly loud calliope music 
 4248 During battle, target perceives thick, acrid smoke all around him 
@@ -1435,12 +1434,12 @@
 4266 Each day, target can turn his skin invisible for up to one hour 
 4267 Each day, target can turn into a horse for up to 1d4 hours
 4268 Each day, target can walk on water up to 100 yards 
-4269 Each day, target is 10% likely to lose one finger or toe 
+4269 Each day, target is 10 percent likely to lose one finger or toe 
 4270 Each day, target is immune to one electrical attack
 4271 Each day, target is struck by lightning but is basically unharmed
 4272 Each day, target must eat at least one medium-sized candle 
 4273 Each day, target must eat at least one sheet of parchment 
-4274 Each day, target’s body varies from 10% to 80% transparency 
+4274 Each day, target’s body varies from 10 percent to 80 percent transparency 
  38
 4275 Each day, target’s skin is a different vibrant color 
 4276 Each of target’s feet acquires argumentative intelligence
@@ -1465,8 +1464,8 @@
 4295 Electricity crackles through the target’s body for 1d8 rounds
 4296 Electricity crackles visibly along target’s weapon during combat
 4297 Every few rounds a spider crawls from target’s mouth 
-4298 Every other day, the target is 20% likely to shrink by 10%
-4299 Every other day, the target is 30% likely to be mute
+4298 Every other day, the target is 20 percent likely to shrink by 10 percent
+4299 Every other day, the target is 30 percent likely to be mute
 4300 Every other day, the target is 5d10 years older than his true age
 4301 Every other day, the target radiates strongly of alteration magic
 4302 Every rat in the kingdom follows the target for 2d6 days
@@ -1520,7 +1519,7 @@
 4350 Half of target’s body is infected with lycanthropy
 4351 Half of target’s body polymorphs into some kind of animal
 4352 Half of target’s body resembles half of the caster’s body
-4353 Half of target’s body shrinks by 25%
+4353 Half of target’s body shrinks by 25 percent
 4354 Half of target’s body suffers from advanced leprosy
 4355 Half of target’s body turns invisible while in direct sunlight
 4356 Half of target’s fingers are permanently invisible
@@ -1550,7 +1549,7 @@
 4380 If reduced to exactly zero hit points, target is fully healed
 4381 If reduced to exactly zero hit points, target melts like butter
 4382 If reduced to exactly zero hit points, target shatters like glass
-4383 If reduced to exactly zero hit points, target shrinks by 75%
+4383 If reduced to exactly zero hit points, target shrinks by 75 percent
 4384 If reduced to exactly zero hit points, target turns invisible
 4385 If reduced to exactly zero hit points, target turns to steam
 4386 If reduced to five or fewer hit points, target attacks himself
@@ -1562,11 +1561,11 @@
 4392 If struck by Dispel Magic, target loses 1d100 hit points
 4393 If struck by Dispel Magic, target’s skeleton disintegrates
 4394 If target attempts to teleport, his nervous system stays behind
-4395 If target disembowels himself, he’s 10% likely to become a god
+4395 If target disembowels himself, he’s 10 percent likely to become a god
 4396 If target draws a weapon, he can’t sheathe it again for 4d6 hours
 4397 If target draws a weapon, he can’t sheathe it until he’s wounded 
 4398 If target draws a weapon, he can’t use it for 1d4 rounds
-4399 If target draws a weapon, it’s  5% likely to shatter outright
+4399 If target draws a weapon, it’s  5 percent likely to shatter outright
 4400 If target eats raw meat, he bleeds from the ears for 4d4 rounds
 4401 If target eats raw meat, he has visions of a possible future
 4402 If target eats raw meat, he has visions of his own death
@@ -1598,8 +1597,8 @@
 4427 If target is beheaded, anyone nearby is stricken blind for 1 turn
 4428 If target is beheaded, he grows a new head facing backwards
 4429 If target is beheaded, he grows a new head just like the caster’s
-4430 If target is beheaded, he’s 10% likely to possess his slayer
-4431 If target is beheaded, he’s 40% likely to grow a new head
+4430 If target is beheaded, he’s 10 percent likely to possess his slayer
+4431 If target is beheaded, he’s 40 percent likely to grow a new head
 4432 If target is beheaded, his blood turns to very strong acid
 4433 If target is beheaded, his body combusts and races to the horizon
 4434 If target is beheaded, his body defends his slayer for 2d10 turns
@@ -1654,7 +1653,7 @@
 4483 If target is now bleeding, he begins to drown as though submerged
 4484 If target is now bleeding, he’s hereafter susceptible to rust
 4485 If target is now bleeding, his weapon is +4 for 2d4 hours
-4486 If target is now bleeding, the ground at his feet heats to 500°
+4486 If target is now bleeding, the ground at his feet heats to 500 degrees
 4487 If target is now carrying any food, he contracts advanced leprosy
 4488 If target is now carrying any food, he loses 1d100 hit points
 4489 If target is now carrying any food, he teleports 2d10 miles
@@ -1709,7 +1708,7 @@
 4537 If target is wearing armor, it clatters noisily in the dark
 4538 If target is wearing armor, it constricts painfully about him
 4539 If target is wearing armor, it has a +2 AC bonus until sunrise
-4540 If target is wearing armor, it heats to 500°
+4540 If target is wearing armor, it heats to 500 degrees
 4541 If target is wearing armor, it rattles violently for 1d10 hours
 4542 If target is wearing armor, it teleports 2d6 yards 
 4543 If target is wearing armor, it turns invisible
@@ -1756,7 +1755,7 @@
 4584 Innumerable bats flutter around the target each day at twilight
 4585 Insects constantly swarm around the target from now on
 4586 Magic items are unreliable for the target for 2d4-1 days
-4587 Magic items function at 50% power when target uses them
+4587 Magic items function at 50 percent power when target uses them
 4588 Meat turns to gravel as it moves through target’s digestive tract
 4589 Melancholy chants issue from the target’s weapon during battle
 4590 Metal weapons are immune to magic while target wields them
@@ -1799,7 +1798,7 @@
 4627 Next 2d4 spells cast at target strike random targets nearby 
 4628 Next horse touched by target becomes ravenously carnivorous
 4629 Next horse touched by target can never again be ridden by mortals
-4630 Next horse touched by target shrinks by 75%
+4630 Next horse touched by target shrinks by 75 percent
 4631 Next horse touched by target turns into a small dinosaur
 4632 Next magic item handled by target appears as supple as clay
 4633 Next magic item handled by target can again never be used by him
@@ -1814,7 +1813,7 @@
 4642 Next magic item handled by target makes him think he’s drowning
 4643 Next magic item handled by target makes his hands go numb
 4644 Next magic item handled by target restores 1d10 hit points
-4645 Next magic item handled by target seems to him to be 1,000°
+4645 Next magic item handled by target seems to him to be 1,000 degrees
 4646 Next magic item handled by target seems to him to be 10X heavier
 4647 Next magic item handled by target shines like a beacon to undead
 4648 Next magic item handled by target smells like manure for 3d8 days
@@ -1859,7 +1858,7 @@
 4686 Next person wounded by target must Save or contract leprosy
 4687 Next person wounded by target must Save or drop to one hit point
 4688 Next person wounded by target must Save or flee panic-stricken
-4689 Next person wounded by target must Save or shrink by 5d10%
+4689 Next person wounded by target must Save or shrink by 5d10 percent
 4690 Next person wounded by target must Save or teleport 1d4 miles
 4691 Next puddle stepped in by target absolves him of sin
 4692 Next puddle stepped in by target causes him to hallucinate
@@ -1895,11 +1894,11 @@
 4722 Next weapon to wound target heals its wielder by an equal amount
 4723 Next weapon to wound target identifies him as its rightful owner
 4724 Next weapon to wound target inflicts 10X the rolled damage
-4725 Next weapon to wound target is  5% likely to change his sex
+4725 Next weapon to wound target is  5 percent likely to change his sex
 4726 Next weapon to wound target is +1 until he’s wounded again
-4727 Next weapon to wound target is 10% likely to change his alignment
-4728 Next weapon to wound target is 10% likely to destroy his soul
-4729 Next weapon to wound target is 60% likely to shatter
+4727 Next weapon to wound target is 10 percent likely to change his alignment
+4728 Next weapon to wound target is 10 percent likely to destroy his soul
+4729 Next weapon to wound target is 60 percent likely to shatter
 4730 Next weapon to wound target is believed to be a mighty artifact
 4731 Next weapon to wound target is crushed into a small cube
 4732 Next weapon to wound target is engraved with his name
@@ -1920,7 +1919,7 @@
 4747 Next weapon to wound target likewise wounds his attacker
 4748 Next weapon to wound target makes him suffer apocalyptic visions
 4749 Next weapon to wound target must Save or melt like a candle
-4750 Next weapon to wound target must Save or shrink by 5d10 + 45%
+4750 Next weapon to wound target must Save or shrink by 5d10 + 45 percent
 4751 Next weapon to wound target penalizes its wielder’s AC by 5
 4752 Next weapon to wound target turns out to be a mighty artifact 
 4753 Next weapon to wound target turns to stone
@@ -1956,7 +1955,7 @@
 4783 One of target’s arms turns to a lion’s foreleg
 4784 One of target’s eyes migrates to the back of his head
 4785 One of target’s feet is fused into an anvil
-4786 One of target’s feet rotates 180° at the ankle
+4786 One of target’s feet rotates 180 degrees at the ankle
 4787 One of target’s hands appears to have been flattened by a hammer
 4788 One of target’s hands becomes hideously contorted and deformed
 4789 One of target’s hands can pass through solid steel
@@ -1983,7 +1982,7 @@
 4809 One of target’s hands, when clenched, looks like a small head
 4810 One of target’s legs and one of his arms become as clear as glass
 4811 One of target’s legs and one of his arms seem to be made of wood
-4812 One of target’s legs and one of his arms shrink by 50%
+4812 One of target’s legs and one of his arms shrink by 50 percent
 4813 One of target’s legs and one of his arms turn invisible
 4814 One of target’s limbs acquires intelligence hostile to him
 4815 One of target’s limbs always seems to be soaked with milk
@@ -2013,7 +2012,7 @@
 4839 One of target’s limbs regenerates in 1d4 rounds if severed
 4840 One of target’s limbs retracts into his torso when not in use
 4841 One of target’s limbs seems to belong to a different species
-4842 One of target’s limbs shrinks by 1d4% per day
+4842 One of target’s limbs shrinks by 1d4 percent per day
 4843 One of target’s limbs suffers intense pain if he uses magic
 4844 One of target’s limbs turns as green as grass
 4845 One of target’s limbs turns to a tree limb
@@ -2126,7 +2125,7 @@
 4951 Target and the nearest horse exchange clothing
 4952 Target and the next person he attacks are invisible to each other
 4953 Target and the next person he attacks are soaked with icy brine
-4954 Target and the next person he attacks both shrink by 5d10%
+4954 Target and the next person he attacks both shrink by 5d10 percent
 4955 Target and the next person he attacks each lose 2d8 hit points
 4956 Target and the next person he attacks fall unconscious until dawn
 4957 Target and the next person he attacks freeze solid
@@ -2402,19 +2401,19 @@
 5225 Target can be injured by magical weapons, but they can’t kill him 
 5226 Target can be injured by water, but it can’t kill him
 5227 Target can be Summoned by the nearest dragon at will
-5228 Target can become invisible at will but is 15% likely to die
+5228 Target can become invisible at will but is 15 percent likely to die
 5229 Target can become invisible at will if he plucks out his eyes
 5230 Target can become invisible by drinking a quart of Elf’s blood
-5231 Target can bend his spine 120° midway along its length
+5231 Target can bend his spine 120 degrees midway along its length
 5232 Target can brachiate like an ape but adopts an ape’s proportions 
-5233 Target can Call Lightning daily but it’s 70% likely to strike him
+5233 Target can Call Lightning daily but it’s 70 percent likely to strike him
 5234 Target can cast one Wish spell but permanently dies as a result
 5235 Target can cause one nearby tree to become invisible for 2d6 days
 5236 Target can cause one nearby tree to topple as though chopped down
 5237 Target can cause someone nearby to resemble someone else nearby
 5238 Target can change the color of his face 2d4 times per day
 5239 Target can climb like a monkey
-5240 Target can climb like a monkey but is 40% likely to become one
+5240 Target can climb like a monkey but is 40 percent likely to become one
 5241 Target can comfortably lift and carry twice his weight in manure
 5242 Target can Command one nearby humanoid for 1d6 hours 
 5243 Target can Command one person nearby to defend him to the death
@@ -2432,13 +2431,13 @@
 5255 Target can do nothing but scream for 1d8 rounds
 5256 Target can easily be persuaded to disarm himself
 5257 Target can erect a four foot high wall of snow once per week
-5258 Target can exhale fire but is 10% likely to combust and die
+5258 Target can exhale fire but is 10 percent likely to combust and die
 5259 Target can exhale fire but suffers as much damage as he inflicts
 5260 Target can fall one yard per point of Wisdom without harm
 5261 Target can Heal himself at will but ages 1d6 years per hit point
 5262 Target can Heal himself but his closest ally will die as a result
-5263 Target can Heal himself but is 5% likely to die each time
-5264 Target can Heal himself but is 80% likely to drown each time
+5263 Target can Heal himself but is 5 percent likely to die each time
+5264 Target can Heal himself but is 80 percent likely to drown each time
 5265 Target can Heal himself but is blinded for 1d20 days each time
 5266 Target can Heal himself but it costs him 1,000,000 gold pieces
 5267 Target can Heal himself but only at night if he has one hit point
@@ -2456,7 +2455,7 @@
 5279 Target can ingest and digest small quantities of poison
 5280 Target can ingest and digest small quantities of stone
 5281 Target can ingest and digest small quantities of wood 
-5282 Target can issue Commands but is 20% likely to die each time
+5282 Target can issue Commands but is 20 percent likely to die each time
 5283 Target can kill the caster outright but will also permanently die
 5284 Target can kill the caster outright but will never have existed
 5285 Target can leap one yard straight up per point of Charisma
@@ -2498,12 +2497,12 @@
 5320 Target can only be killed by a weapon forged from his own bones
 5321 Target can only eat food that he himself has prepared
 5322 Target can polymorph at will but ages 1d100 years each time
-5323 Target can polymorph at will but is 10% likely to die each time
+5323 Target can polymorph at will but is 10 percent likely to die each time
 5324 Target can polymorph at will but is blind in any form but his own
 5325 Target can read but not speak or write 1d6 additional languages
 5326 Target can read handwritten text at a distance of 10d10 yards
 5327 Target can readily be convinced that he doesn’t really exist
-5328 Target can recognize faces only 10% of the time
+5328 Target can recognize faces only 10 percent of the time
 5329 Target can regenerate 1 hit point per round for the next week
 5330 Target can remove his head for up to 1d4 rounds without harm
 5331 Target can remove his heart for up to 1d6 rounds without harm
@@ -2534,7 +2533,7 @@
 5356 Target can subsist on mud, but it tastes incredibly foul to him
 5357 Target can subsist on mud, but it’s highly addictive to him
 5358 Target can subsist on mud, but regular food is poisonous to him
-5359 Target can subsist on only 10% of the normal amount of food
+5359 Target can subsist on only 10 percent of the normal amount of food
 5360 Target can subsist on water alone while he’s at full hit points
 5361 Target can subsist on water but must drink ten gallons per day
 5362 Target can Summon and Command an 8HD Earth Elemental 1d6 times
@@ -2542,7 +2541,7 @@
 5364 Target can teleport 1d4 miles randomly, once per day
 5365 Target can teleport at will but arrives 1d20 days later
 5366 Target can teleport at will but arrives with only one hit point
-5367 Target can teleport at will but is 50% likely to die on arrival
+5367 Target can teleport at will but is 50 percent likely to die on arrival
 5368 Target can teleport half of his body at will
 5369 Target can teleport one person nearby to the target’s home
 5370 Target can teleport to the caster’s location once per month
@@ -2798,7 +2797,7 @@
 5618 Target experiences soul-wrenching pain if he stands upright
 5619 Target experiences transcendent euphoria when his blood is drawn
 5620 Target experiences vague nostalgia whenever he’s wounded
-5621 Target exudes a scent 50% likely disgust any given person
+5621 Target exudes a scent 50 percent likely disgust any given person
 5622 Target exudes a scent like something dredged from the ocean floor
 5623 Target exudes a scent reminiscent of decaying skunks
 5624 Target exudes a scent reminiscent of the bottom of the ocean
@@ -2861,7 +2860,7 @@
 5681 Target feels his bones slowly disintegrating
 5682 Target feels icy water dripping on him during every battle
 5683 Target feels like he’s having the time of his life
-5684 Target feels that the direction of gravity has skewed by 10°
+5684 Target feels that the direction of gravity has skewed by 10 degrees
 5685 Target feels the ground shake as during a powerful earthquake
 5686 Target finds a blade that can’t be broken by any physical force
 5687 Target finds a book describing the methods of brain surgery
@@ -2984,7 +2983,7 @@
 5803 Target has a complete but false memory of the past 24 hours
 5804 Target has a doppelganger slave that looks just like the caster
 5805 Target has a flawless sense of direction 
-5806 Target has a flawless sense of direction 50% of the time
+5806 Target has a flawless sense of direction 50 percent of the time
 5807 Target has a flawless sense of direction while naked
 5808 Target has a hole in his forehead as large as his fist
 5809 Target has a hole in his torso big enough to accommodate his head
@@ -2994,7 +2993,7 @@
 5813 Target has a key that locks something that doesn’t have a lock
 5814 Target has a key that prevents nearby keys from working properly
 5815 Target has a key that turns one lock to pure, solid gold
-5816 Target has a key that unlocks 99% of all non-magical locks
+5816 Target has a key that unlocks 99 percent of all non-magical locks
 5817 Target has a key that unlocks a secret door to another universe
 5818 Target has a key that works only once but will open any one lock 
 5819 Target has a large and heavy padlock around his neck
@@ -3103,35 +3102,35 @@
 5921 Target hears the noisy buzzing of countless bees at all times
 5922 Target hears thunder booming all around him, but no one else does
 5923 Target hoots like a foghorn when struck by magic after sunset
-5924 Target increases in size and mass by 10%
+5924 Target increases in size and mass by 10 percent
 5925 Target inflicts superficial wounds upon himself whenever possible
 5926 Target inherits a collection of festive commemorative spoons
 5927 Target insists on wearing a bucket on his head for 1d4 weeks
 5928 Target insists that his body is real and spectacular
 5929 Target inspires homicidal rage in some common non-magical species 
-5930 Target is  5% likely to vanish forever each time he says his name
-5931 Target is 10% likely to attack anyone who says his name
-5932 Target is 10% likely to be dragged into orbit around the planet
-5933 Target is 10% likely to change sex when burned by magical fire
-5934 Target is 10% likely to contract leprosy when injured by magic
-5935 Target is 10% likely to lose 1d4 hit points in any given hour 
-5936 Target is 10% likely to see any invisible creature or object
-5937 Target is 10% likely to strangle himself whenever he uses rope
-5938 Target is 10% likely to turn to a wooden statue when he sleeps 
-5939 Target is 15% likely to be attacked by any horse he passes
-5940 Target is 15% likely to die when he next sees an illusion
-5941 Target is 20% likely to be healed by any poison he drinks
-5942 Target is 20% likely to be healed instead of injured by fire
-5943 Target is 20% likely to disbelieve any illusion he sees
-5944 Target is 20% likely to drown when burned by magical fire
-5945 Target is 20% likely to explode when burned by magical fire
-5946 Target is 20% likely to gain a level when next struck by magic
-5947 Target is 20% likely to take no damage if cut by a blade
-5948 Target is 20% likely to think that he’s undead if undead are near
-5949 Target is 20% likely to turn invisible when injured by fire
-5950 Target is 30% likely to be able to summarize any book he kisses
-5951 Target is 40% likely to attack any priest who approaches him
-5952 Target is 80% likely to die if Remove Curse is cast upon him
+5930 Target is  5 percent likely to vanish forever each time he says his name
+5931 Target is 10 percent likely to attack anyone who says his name
+5932 Target is 10 percent likely to be dragged into orbit around the planet
+5933 Target is 10 percent likely to change sex when burned by magical fire
+5934 Target is 10 percent likely to contract leprosy when injured by magic
+5935 Target is 10 percent likely to lose 1d4 hit points in any given hour 
+5936 Target is 10 percent likely to see any invisible creature or object
+5937 Target is 10 percent likely to strangle himself whenever he uses rope
+5938 Target is 10 percent likely to turn to a wooden statue when he sleeps 
+5939 Target is 15 percent likely to be attacked by any horse he passes
+5940 Target is 15 percent likely to die when he next sees an illusion
+5941 Target is 20 percent likely to be healed by any poison he drinks
+5942 Target is 20 percent likely to be healed instead of injured by fire
+5943 Target is 20 percent likely to disbelieve any illusion he sees
+5944 Target is 20 percent likely to drown when burned by magical fire
+5945 Target is 20 percent likely to explode when burned by magical fire
+5946 Target is 20 percent likely to gain a level when next struck by magic
+5947 Target is 20 percent likely to take no damage if cut by a blade
+5948 Target is 20 percent likely to think that he’s undead if undead are near
+5949 Target is 20 percent likely to turn invisible when injured by fire
+5950 Target is 30 percent likely to be able to summarize any book he kisses
+5951 Target is 40 percent likely to attack any priest who approaches him
+5952 Target is 80 percent likely to die if Remove Curse is cast upon him
 5953 Target is a carrier of some magical disease
 5954 Target is at the heart of a thunderstorm, but no one else sees it
 5955 Target is actually a remotely-operated simulacrum
@@ -3304,7 +3303,7 @@
 6120 Target is invisible while he has an apple in each hand
 6121 Target is invisible while shouting
 6122 Target is invulnerable and invisible until he speaks or moves
-6123 Target is invulnerable to 80% of normal weapons
+6123 Target is invulnerable to 80 percent of normal weapons
 6124 Target is invulnerable to any weapon that has already wounded him 
 6125 Target is invulnerable to normal weapons and can’t wield them
 6126 Target is invulnerable to normal weapons for 1d6 turns
@@ -3346,7 +3345,7 @@
 6162 Target is permanently bloodstained
 6163 Target is permanently invisible to caster but can’t attack him
 6164 Target is permanently invisible to himself between dusk and dawn
-6165 Target is permanently rendered 1d100% transparent
+6165 Target is permanently rendered 1d100 percent transparent
 6166 Target is physically exhausted
 6167 Target is poisoned if he touches a book in the next 1d4 days
 6168 Target is pursued by predatory moneylenders
@@ -3550,7 +3549,7 @@
 6364 Target looks vaguely demonic whenever he uses a magic item
 6365 Target loses 1d100 hit points if he speaks his name before sunset
 6366 Target loses 1d100 hit points unless he eats 3lbs of gold by dawn
-6367 Target loses 1d100% of his mass
+6367 Target loses 1d100 percent of his mass
 6368 Target loses 1d4 hit points every time he draws a weapon
 6369 Target loses 1d4 levels/hit dice
 6370 Target loses a point of Intelligence for each hit point he loses
@@ -3605,7 +3604,7 @@
 6419 Target must return to this location at least once each month
 6420 Target must Save at each sunset or forget what happened that day
 6421 Target must Save each morning or be ethereal until dusk 
-6422 Target must Save each morning or shrink by 10%
+6422 Target must Save each morning or shrink by 10 percent
 6423 Target must Save each morning, or he can’t use his arms that day
 6424 Target must Save each morning, or his left leg bursts into flame
 6425 Target must Save each night or else sleep for 6d8+24 hours
@@ -3619,7 +3618,7 @@
 6433 Target must Save or he beheads himself with his next attack
 6434 Target must Save or he will never have existed
 6435 Target must Save or his hands and weapons vanish until sunset
-6436 Target must Save or his temperature rises 1° per round 
+6436 Target must Save or his temperature rises 1 degrees per round 
 6437 Target must Save or lose 1d4 from each attribute score 
 6438 Target must Save when he’s hit by a bludgeon or shatter
 6439 Target must Save when he’s hit by a bludgeon or shriek in panic
@@ -3628,7 +3627,7 @@
 6442 Target must say his name every time he draws a weapon
 6443 Target must scale the tallest mountain within 100 miles
 6444 Target must take 1d10 steps backward each time he draws a weapon
-6445 Target now has 1d12 x 10% of his full hit points
+6445 Target now has 1d12 x 10 percent of his full hit points
 6446 Target now has an odd number of limbs
 6447 Target now has three legs spaced evenly around his pelvis
 6448 Target obsessively cleans and polishes any magical items he owns
@@ -3649,7 +3648,7 @@
 6463 Target perceives everyone nearby to be sheathed in golden flame
 6464 Target perceives everyone nearby to be sprouting peacock feathers
 6465 Target perceives everyone nearby to look just like him
-6466 Target perceives everything except himself to be 50% larger
+6466 Target perceives everything except himself to be 50 percent larger
 6467 Target perceives everything nearby to be aligned against him
 6468 Target perceives everything nearby to made of gold
 6469 Target perceives everything to be blighted and drained of color
@@ -3682,7 +3681,7 @@
 6495 Target races to the nearest temple and messily desecrates it
 6496 Target races toward his home at top speed
 6497 Target races toward the caster and begs to be killed
-6498 Target races toward the caster, embraces him, &amp; vanishes with him
+6498 Target races toward the caster, embraces him, and vanishes with him
 6499 Target races toward the nearest lake and jumps into it
 6500 Target races toward the nearest monarch and attacks him
 6501 Target races toward the nearest ocean and wades out 1d4 miles
@@ -3808,8 +3807,8 @@
 6620 Target shakes violently when attempting to use magic items
 6621 Target shakes violently while touching magic items
 6622 Target shimmers like a desert mirage, making him -1 ToHit
-6623 Target shrinks by 25% during each of the next 1d10 days
-6624 Target shrinks by 8d10% when he next attacks the caster 
+6623 Target shrinks by 25 percent during each of the next 1d10 days
+6624 Target shrinks by 8d10 percent when he next attacks the caster 
 6625 Target single-mindedly attacks the tallest person he can see
 6626 Target single-mindedly tries to kill the caster until one is dead
 6627 Target sinks halfway to the center of the world
@@ -3836,7 +3835,7 @@
 6648 Target spends a few rounds trying to convince himself he’s dead
 6649 Target spends a few rounds trying to unscrew his own head
 6650 Target spends all of his money to buy something totally worthless
-6651 Target spins a cocoon &amp; emerges in 1d4 days with butterfly wings
+6651 Target spins a cocoon and emerges in 1d4 days with butterfly wings
 6652 Target spins like a top for 1d8 rounds
 6653 Target spits out small lumps of coal after any melee
 6654 Target sprays a gallon of milk from his nose
@@ -3907,7 +3906,7 @@
 6719 Target suddenly senses that his identity is a fictional construct
 6720 Target suffers a fit of crippling paranoia for 1d4 turns
 6721 Target suffers a seizure lasting 1d10 rounds
-6722 Target suffers burns if he touches water hotter than 80°
+6722 Target suffers burns if he touches water hotter than 80 degrees
 6723 Target suffers double damage from injuries while he’s wet
 6724 Target suffers extreme hypothermia
 6725 Target suffers from a disfiguring pox, but his teeth are radiant
@@ -3934,7 +3933,7 @@
 6745 Target swears undying loyalty to the next person to say his name
 6746 Target sweats viscous and fragrant oil
 6747 Target teleports 100 yards north in each of the next 1d10 rounds
-6748 Target teleports 6d6 miles &amp; back in each of the next 2d6 rounds
+6748 Target teleports 6d6 miles and back in each of the next 2d6 rounds
 6749 Target teleports 8d10 miles when he next attacks the caster
 6750 Target teleports into the nearest convent
 6751 Target teleports into the nearest grain silo
@@ -3961,7 +3960,7 @@
 6772 Target teleports to the place where his blood was last spilled
 6773 Target teleports to this spot at both dawn and sunset tomorrow
 6774 Target teleports to this spot on the first day of each month
-6775 Target teleports to this spot upon losing 50% of his hit points
+6775 Target teleports to this spot upon losing 50 percent of his hit points
 6776 Target teleports to this spot when his blood is next spilled
 6777 Target teleports well beyond the caster’s line of sight
 6778 Target tells embarrassing lies about himself at every opportunity
@@ -4019,7 +4018,7 @@
 6830 Target vows to slay anyone who uses magic on him
 6831 Target vows to slay every necromancer he meets
 6832 Target vows to smite those who take his name in vain
-6833 Target vows to tithe 90% of his income
+6833 Target vows to tithe 90 percent of his income
 6834 Target wails inconsolably for 1d10 rounds
 6835 Target wakes each day bald, but his hair regrows by noon
 6836 Target wakes each day certain that he’s been buried for weeks
@@ -4147,10 +4146,10 @@
 6957 Target’s arms vanish, but he sprouts a trunk like an elephant
 6958 Target’s arms wheeze like hydraulics when he moves them
 6959 Target’s arms wriggle like angry snakes
-6960 Target’s attacks are  5% likely to inflict 5X normal damage
-6961 Target’s attacks are  5% likely to inflict equal damage upon him
-6962 Target’s attacks are 10% likely to inflict no damage at all
-6963 Target’s attacks are 10% likely to inflict only illusory damage
+6960 Target’s attacks are  5 percent likely to inflict 5X normal damage
+6961 Target’s attacks are  5 percent likely to inflict equal damage upon him
+6962 Target’s attacks are 10 percent likely to inflict no damage at all
+6963 Target’s attacks are 10 percent likely to inflict only illusory damage
 6964 Target’s attacks are accompanied by eerie, disembodied chanting
 6965 Target’s attacks are accompanied by mocking, disembodied laughter
 6966 Target’s attacks are accompanied by the sound of breaking glass
@@ -4209,7 +4208,7 @@
 7018 Target’s clothes and gear are insulated against electricity
 7019 Target’s clothes appear 10d10 centuries out of date 
 7020 Target’s clothes appear to be made of ice
-7021 Target’s clothes are 90% transparent while in mixed company
+7021 Target’s clothes are 90 percent transparent while in mixed company
 7022 Target’s clothes are as delicate as cobweb
 7023 Target’s clothes are as rigid as boiled leather
 7024 Target’s clothes are as susceptible to rust as iron
@@ -4242,7 +4241,7 @@
 7051 Target’s clothes exude fragrant smoke for 1d4 weeks
 7052 Target’s clothes glow in the dark
 7053 Target’s clothes have been buried for weeks in a midden
-7054 Target’s clothes heat to 500°
+7054 Target’s clothes heat to 500 degrees
 7055 Target’s clothes ignite each time he uses a magic item
 7056 Target’s clothes inflate to the size of a house
 7057 Target’s clothes make him appear to suffer from leprosy
@@ -4317,7 +4316,7 @@
 7126 Target’s feet are fused to the ground beneath him
 7127 Target’s feet are henceforth clear like glass
 7128 Target’s feet are now prehensile, but his hands are not
-7129 Target’s feet can rotate 360° at the ankle without harming him
+7129 Target’s feet can rotate 360 degrees at the ankle without harming him
 7130 Target’s feet can’t come within one yard of each other
 7131 Target’s feet explode if he ventures more than one mile from here
 7132 Target’s feet shriek incessantly while he wears shoes or boots
@@ -4386,8 +4385,8 @@
 7194 Target’s hands itch slightly when he touches a magic item
 7195 Target’s hands look black and necrotic after handling magic items
 7196 Target’s hands melt like wax if exposed to magical fire
-7197 Target’s hands rotate 180° at the wrists
-7198 Target’s hands shrink by 50%
+7197 Target’s hands rotate 180 degrees at the wrists
+7198 Target’s hands shrink by 50 percent
 7199 Target’s hands steam vigorously when he’s struck by magic
 7200 Target’s hands try to grab his ankles while he’s walking
 7201 Target’s hands turn to metal but otherwise function normally 
@@ -4472,7 +4471,7 @@
 7279 Target’s intestines are replaced by a length of noisy chain
 7280 Target’s jawbone becomes that of an ass
 7281 Target’s knees and elbows become ball-joints like his shoulders
-7282 Target’s knees and elbows can’t straighten to more than 120°
+7282 Target’s knees and elbows can’t straighten to more than 120 degrees
 7283 Target’s knees and elbows creak like rusty metal
 7284 Target’s knees and elbows vanish
 7285 Target’s large intestine explodes
@@ -4495,7 +4494,7 @@
 7302 Target’s legs exactly resemble his arms
 7303 Target’s legs exchange positions
 7304 Target’s legs fuse together, and his arms fuse to his sides
-7305 Target’s legs shrink by 1d10 x 10% for 1d12 hours
+7305 Target’s legs shrink by 1d10 x 10 percent for 1d12 hours
 7306 Target’s level is halved 
 7307 Target’s limbs change proportion to match those of an infant
 7308 Target’s limbs shrink to the size of an infant’s limbs
@@ -4506,7 +4505,7 @@
 7313 Target’s maximum natural lifespan doubles
 7314 Target’s maximum natural lifespan increases by 1d100 years
 7315 Target’s maximum natural lifespan is 1d10 years more than his age
-7316 Target’s maximum natural lifespan is reduced by 50%
+7316 Target’s maximum natural lifespan is reduced by 50 percent
 7317 Target’s memories of the last 1d12 hours are full of butterflies
 7318 Target’s memories of the last 1d12 hours are vivid but incorrect
 7319 Target’s most valuable possession animates and attacks him
@@ -4588,7 +4587,7 @@
  62
 7395 Target’s presence causes Summoned creatures to be Slowed
 7396 Target’s presence causes undead to appear to smolder gently
-7397 Target’s presence is 20% likely to make Summoned creatures vanish
+7397 Target’s presence is 20 percent likely to make Summoned creatures vanish
 7398 Target’s presence makes cooked meat taste blood-raw
 7399 Target’s presence makes fires burn in a festive blue-green hue
 7400 Target’s presence makes foliage appear sickly and blighted
@@ -4642,7 +4641,7 @@
 7448 Target’s skin glows cherry red during melee
 7449 Target’s skin glows pale green in moonlight
 7450 Target’s skin has the texture of rough bark
-7451 Target’s skin is 10% likely to be fireproof during any given day
+7451 Target’s skin is 10 percent likely to be fireproof during any given day
 7452 Target’s skin is a widely coveted delicacy 
 7453 Target’s skin is actually an intricate pattern of tiny tiles
 7454 Target’s skin is as combustible as paper
@@ -4669,7 +4668,7 @@
 7475 Target’s skin reeks of mold and mildew 
 7476 Target’s skin reflects torchlight perfectly, but not sunlight
 7477 Target’s skin ripples in the wind like a cloth sheet
-7478 Target’s skin rotates 180°
+7478 Target’s skin rotates 180 degrees
 7479 Target’s skin shimmers like mother-of-pearl from now on
 7480 Target’s skin sizzles harmlessly on contact with water
 7481 Target’s skin smolders during combat
@@ -4682,8 +4681,8 @@
 7488 Target’s speech is reversed while his weapon is drawn
 7489 Target’s speech seems unaccountably rude and aggressive
 7490 Target’s speech sounds like the buzzing of innumerable bees
-7491 Target’s spine bends 90° halfway along its length
-7492 Target’s spine can twist 360° without harming him
+7491 Target’s spine bends 90 degrees halfway along its length
+7492 Target’s spine can twist 360 degrees without harming him
 7493 Target’s spine doubles in length
 7494 Target’s spine is fused into a single bone for 1d8 hours
 7495 Target’s spine is indestructible
@@ -4730,7 +4729,7 @@
 7535 Target’s torso regenerates his limbs and head as needed
 7536 Target’s torso shines like a beacon for 1d4 days
 7537 Target’s torso shines like a beacon when he uses a magic item
-7538 Target’s torso shrinks by 50%
+7538 Target’s torso shrinks by 50 percent
 7539 Target’s torso sprouts a face with malign intelligence and power
 7540 Target’s torso teleports 1d4 feet to the left
 7541 Target’s torso unzips and dumps out all of his organs
@@ -4838,7 +4837,7 @@
 7643 Target’s weapon has been broken and reforged many times
 7644 Target’s weapon has been prophesied to kill the king
 7645 Target’s weapon has never been tempered or hardened
-7646 Target’s weapon heats to 1,000° the next time it draws blood
+7646 Target’s weapon heats to 1,000 degrees the next time it draws blood
 7647 Target’s weapon hisses during battle like quenched steel
 7648 Target’s weapon hums audibly during battle
 7649 Target’s weapon induces a fear of magic in anyone wounded by it
@@ -4854,18 +4853,18 @@
 7658 Target’s weapon instills Fear in him after each battle
 7659 Target’s weapon instills Fear in his allies during battle
 7660 Target’s weapon instills Fear in its wielder during melee
-7661 Target’s weapon is  5% likely to explode when it inflicts damage
-7662 Target’s weapon is  5% likely to kill whomever it next injures
-7663 Target’s weapon is  5% likely to melt when immersed in water
-7664 Target’s weapon is  5% likely to sever its wielder’s hand
-7665 Target’s weapon is  5% likely to start a war when it draws blood
-7666 Target’s weapon is  5% likely to turn to glass in each battle
+7661 Target’s weapon is  5 percent likely to explode when it inflicts damage
+7662 Target’s weapon is  5 percent likely to kill whomever it next injures
+7663 Target’s weapon is  5 percent likely to melt when immersed in water
+7664 Target’s weapon is  5 percent likely to sever its wielder’s hand
+7665 Target’s weapon is  5 percent likely to start a war when it draws blood
+7666 Target’s weapon is  5 percent likely to turn to glass in each battle
 7667 Target’s weapon is +4 against anyone with an intelligent weapon
-7668 Target’s weapon is 10% likely to inflict tetanus upon its wielder
-7669 Target’s weapon is 20% likely to droop like a noodle in battle
-7670 Target’s weapon is 20% likely to poison him when it draws blood
-7671 Target’s weapon is 20% likely to turn ethereal during battle
-7672 Target’s weapon is 20% likely to vanish each time he draws it
+7668 Target’s weapon is 10 percent likely to inflict tetanus upon its wielder
+7669 Target’s weapon is 20 percent likely to droop like a noodle in battle
+7670 Target’s weapon is 20 percent likely to poison him when it draws blood
+7671 Target’s weapon is 20 percent likely to turn ethereal during battle
+7672 Target’s weapon is 20 percent likely to vanish each time he draws it
 7673 Target’s weapon is a holy relic for a decadent tribe of kobolds
 7674 Target’s weapon is a legendary item straight out of myth
 7675 Target’s weapon is a mighty but hitherto unknown artifact
@@ -4929,8 +4928,8 @@
 7733 Target’s weapon shatters the next time he’s burned by fire
 7734 Target’s weapon shatters the next time it strikes metal
 7735 Target’s weapon shrieks until sunset tomorrow
-7736 Target’s weapon shrinks by 75% upon contact with blood
-7737 Target’s weapon shrinks to 10% of its normal size
+7736 Target’s weapon shrinks by 75 percent upon contact with blood
+7737 Target’s weapon shrinks to 10 percent of its normal size
 7738 Target’s weapon spins rapidly around its axis for 10d10 rounds
 7739 Target’s weapon sprouts 1d100 teeth along its length
 7740 Target’s weapon sprouts leaves
@@ -4958,7 +4957,7 @@
 7762 Target’s weapon was forged in a volcano by demonic weaponsmiths
 7763 Target’s weapon was forged on the western slope of Heaven
 7764 Target’s weapon was lost in a tragic shipwreck decades ago
-7765 Target’s weapon was shrinks him by  5% each time it draws blood
+7765 Target’s weapon was shrinks him by  5 percent each time it draws blood
 7766 Target’s weapon was stolen from the gods, and they want it back
 7767 Target’s weapon weighs as much as he does
 7768 Target’s weapon whispers terrible secrets to any who wield it
@@ -5044,7 +5043,7 @@
 7847 Undead declare a coordinated war against the target
 7848 Undead ignore target and can’t be harmed by him
 7849 Undead recognize the target as one of their own
-7850 Undead that attack the target are 40% likely to be Turned
+7850 Undead that attack the target are 40 percent likely to be Turned
 7851 Undead will not relent until the target is also undead
 7852 Until dawn, target resembles the person who last wounded him 
 7853 Until sunset tonight, all within one mile want to kill the target 
@@ -5053,7 +5052,7 @@
 7856 Vines sprout from the ground at target’s feet and attack him
 7857 Vines sprout from the target’s weapon and bind his limbs
 7858 Viscous slime drips from the target’s mouth from now on
-7859 Water always feels 50° colder to the target
+7859 Water always feels 50 degrees colder to the target
 7860 Water boils on contact with the target’s flesh
 7861 Water gives no benefit to target if imbibed while indoors
 7862 Water has no weight when carried by the target
@@ -5065,7 +5064,7 @@
 7868 Waterfowl attack the target on sight
 7869 Waterfowl swear eternal loyalty to the target
 7870 Weapons are invisible to the target while he wields them
-7871 Whatever is now in target’s hand heats to 500°
+7871 Whatever is now in target’s hand heats to 500 degrees
 7872 Whatever is now in target’s hand is embossed with his name
 7873 Whatever is now in target’s hand is replaced by a sunflower
 7874 Whatever is now in target’s hand is worth 10X its normal value
@@ -5077,8 +5076,8 @@
 7880 Whatever target does, he claims to be fulfilling his deity’s will
 7881 Whatever target is wearing is stuck to him like glue
 7882 When caster dies, target begins aging 1d10 years per round
-7883 When injured, target is  5% likely to fly into a berserker rage
-7884 When injured, target is 10% likely to attack his nearest ally
+7883 When injured, target is  5 percent likely to fly into a berserker rage
+7884 When injured, target is 10 percent likely to attack his nearest ally
 7885 When injured, target must Save or go blind until the next round
 7886 When injured, target weeps like a baby for 1d10 rounds
 7887 When target dies, all within one mile are struck blind until dawn
@@ -5178,7 +5177,7 @@
 7980 While target sleeps, he dreams that he’s undergoing surgery
 7981 While target sleeps, he is invisible and inaudible to his allies
 7982 While target sleeps, he sees and hears through the caster
-7983 While target sleeps, he’s 40% likely to regain 1d10 hit points
+7983 While target sleeps, he’s 40 percent likely to regain 1d10 hit points
 7984 While target sleeps, he’s absolutely invulnerable to harm
 7985 While target sleeps, he’s bound by countless spider webs
 7986 While target sleeps, his body races away in a random direction
@@ -5202,7 +5201,7 @@
 8004 1d100 adorable but demonic puppies scamper through the area
 8005 1d100 skeletons rise from the ground and begin building a pyramid
 8006 1d100 stone spheres, one foot in diameter, appear in the area
-8007 1d100% of a major continent sinks beneath the sea
+8007 1d100 percent of a major continent sinks beneath the sea
 8008 1d1000 clay bricks fall from the sky
 8009 1d1000 skeletons rise from the ground and march to the sea
 8010 1d20 skeletons rise from the ground and attack anyone nearby
@@ -5213,7 +5212,7 @@
 8015 1d6 aggressive, human-sized pigeons appear in the area
 8016 1d6 horses nearby are turned into carousel horses
 8017 1d6 people nearby adopt entirely new personalities
-8018 1d6 people nearby are 50% likely to gain a level or die outright
+8018 1d6 people nearby are 50 percent likely to gain a level or die outright
 8019 1d6 people nearby are chained together
 8020 1d6 people nearby are duplicated exactly
 8021 1d6 people nearby are hurled high into the air
@@ -5231,7 +5230,7 @@
 8033 1d6 people nearby look exactly alike
 8034 1d6 people nearby look like children for 1d4 years
 8035 1d6 people nearby must Save or be Disintegrated
-8036 1d6 people nearby shrink by 5d10+50%
+8036 1d6 people nearby shrink by 5d10+50 percent
 8037 1d6 people nearby will become zombies in 3d6 days
 8038 2d100 spectators appear in the area
 8039 2d100 wild bulls appear in the area
@@ -5320,7 +5319,7 @@
 8121 A new, non-magical, and deadly virus issues from the target point
 8122 A one mile radius appears gloomy and blighted for 1d12 months
 8123 A one mile radius is illuminated by full daylight for 3d10 days
-8124 A one mile radius is rotates 360° every 24 hours 
+8124 A one mile radius is rotates 360 degrees every 24 hours 
 8125 A one mile radius is shrouded by an eclipse for 2d8-1 days
 8126 A one mile radius looks like a desert wasteland for one year
 8127 A perfect 10 foot sphere of ice appears at the target point
@@ -5349,9 +5348,9 @@
 8150 A Chaos Burst occurs when each of the next 1d4 people speak nearby
 8151 Abnormally large locusts plague the area for 1d8 weeks
 8152 Acrid fungus sprouts under the target point and quickly spreads
-8153 Air in this area is 75% thinner than the surrounding atmosphere
+8153 Air in this area is 75 percent thinner than the surrounding atmosphere
 8154 All air within one mile is totally opaque but otherwise normal
-8155 All armor removed in this area shrinks by 25%
+8155 All armor removed in this area shrinks by 25 percent
 8156 All armor within 50 yards becomes clear like glass
 8157 All armor within 50 yards is as heavy as lead
 8158 All armor within 50 yards is weightless for 1d12 months
@@ -5363,11 +5362,11 @@
 8164 All birds within 50 yards explode, 1d6 hit points per bird
 8165 All birds within one mile are completely plucked
 8166 All bladed weapons within 50 yards are intensely magnetic
-8167 All blades within 50 yards are 10% likely to turn to gold
+8167 All blades within 50 yards are 10 percent likely to turn to gold
 8168 All blades within 50 yards are engraved with cryptic sigils
 8169 All blades within 50 yards are restored to pristine condition
 8170 All blades within 50 yards become clear like glass
-8171 All blades within 50 yards bend 90° halfway along their length
+8171 All blades within 50 yards bend 90 degrees halfway along their length
 8172 All blades within 50 yards must Save or crumble into rust
 8173 All blades within one mile are blunted until sunset
 8174 All blades within one mile glow cherry red until sunset tomorrow
@@ -5396,12 +5395,12 @@
 8196 All coins within 50 yards become flexible as rubber
 8197 All coins within 50 yards double in value
 8198 All coins within 50 yards explode, 1d4-1 hit points per coin
-8199 All coins within 50 yards heat to 1,000°
+8199 All coins within 50 yards heat to 1,000 degrees
 8200 All coins within 50 yards turn to mercury
 8201 All coins within one mile are easily recognized as counterfeit
 8202 All curses now in effect within 100 yards are negated
 8203 All dragons within 1d10 miles are enraged beyond all reason
-8204 All dragons within 1d10 miles shrink by 10d10%
+8204 All dragons within 1d10 miles shrink by 10d10 percent
 8205 All Dwarves within 10 miles are secretly fond of orcs
 8206 All Dwarves within 10 miles are violently allergic to alcohol
 8207 All Dwarves within 10 miles are violently allergic to gold
@@ -5414,7 +5413,7 @@
 8214 All Elves within 10 miles sprout jagged fangs
 8215 All Elves within 50 yards are allergic to wood
 8216 All ferrous metal within 50 yards doubles in weight
-8217 All ferrous metal within 50 yards is as shiny &amp; lustrous as gold
+8217 All ferrous metal within 50 yards is as shiny and lustrous as gold
 8218 All ferrous metal within 50 yards is invisible until it gets wet
 8219 All ferrous metal within 50 yards is magnetized
 8220 All ferrous metal within 50 yards is rustproof for one year
@@ -5451,12 +5450,12 @@
 8251 All goblins within 10 miles become vegetarian pacifists
 8252 All goblins within 10 miles swear allegiance to someone nearby
 8253 All goblins within 10 miles swear vengeance upon someone nearby
-8254 All gold within 50 yards always seems to be 200° 
+8254 All gold within 50 yards always seems to be 200 degrees 
 8255 All gold within 50 yards becomes transparent when submerged
 8256 All gold within 50 yards begins to rust like damp steel
 8257 All gold within 50 yards induces extreme covetousness
-8258 All gold within 50 yards is 10% likely to turn to lead
-8259 All gold within 50 yards is 50% likely to be counterfeit
+8258 All gold within 50 yards is 10 percent likely to turn to lead
+8259 All gold within 50 yards is 50 percent likely to be counterfeit
 8260 All gold within 50 yards is attracted to magnets like iron
 8261 All gold within 50 yards is drawn to the target point
 8262 All gold within 50 yards is indestructible for one year
@@ -5472,7 +5471,7 @@
 8272 All hats or hoods within 50 yards burst into flame
 8273 All herbivores within 100 yards are panic-stricken
 8274 All horses within 100 yards have built-in saddles
-8275 All horses within 100 yards shrink by 1% per round
+8275 All horses within 100 yards shrink by 1 percent per round
 8276 All horses within one mile become bipedal for 1d4 weeks
 8277 All horses within one mile become clear like glass
 8278 All houses within one mile appear to be of much higher quality
@@ -5500,12 +5499,12 @@
 8300 All lycanthropes within one mile are locked in their current form
 8301 All lycanthropes within one mile develop a great fear of the dark
 8302 All lycanthropes within one mile have a new kind of lycanthropy
-8303 All magic items used nearby are 10% likely to burn out forever
+8303 All magic items used nearby are 10 percent likely to burn out forever
 8304 All magic items within 50 yards appear to be blazing with fire
  69
 8305 All magic items within 50 yards are easily recognized as magical
 8306 All magic items within 50 yards disappear until sunset tomorrow
-8307 All magic items within 50 yards fail to function 20% of the time
+8307 All magic items within 50 yards fail to function 20 percent of the time
 8308 All magic items within 50 yards hum softly for 1d4 days
 8309 All magic potions within 50 yards are 10X as powerful
 8310 All magic potions within 50 yards are powerfully toxic
@@ -5525,7 +5524,7 @@
 8324 All magic rings within 50 yards grant a +1 Armor Class bonus
 8325 All magic rings within 50 yards must Save or Disintegrate
 8326 All magic rings within 50 yards shine as brightly as the Sun
-8327 All magic rings within 50 yards shrink by 10% with each use
+8327 All magic rings within 50 yards shrink by 10 percent with each use
 8328 All magic rings within 50 yards turn to crystal 
 8329 All magic rings within 50 yards turn to lead while not being worn
 8330 All magic rings within 50 yards whistle softly while in use
@@ -5539,7 +5538,7 @@
 8338 All magical garments within one mile are filthy and foul-smelling
 8339 All magical garments within one mile burst into flame
 8340 All magical light sources within 100 yards are 2X as bright
-8341 All magical light sources within 100 yards dim by 50%
+8341 All magical light sources within 100 yards dim by 50 percent
 8342 All magical light sources within one mile are extinguished
 8343 All magical light sources within one mile are hot as normal fire
 8344 All magical light sources within one mile attract magical moths
@@ -5560,11 +5559,11 @@
 8359 All metal gauntlets within 50 yards are rustproof
 8360 All metal gauntlets within 50 yards cause terrible chafing
 8361 All metal gauntlets within 50 yards close into fists
-8362 All metal gauntlets within 50 yards heat to 400° 
+8362 All metal gauntlets within 50 yards heat to 400 degrees 
 8363 All metal gauntlets within 50 yards insulate against electricity
-8364 All metal gauntlets within 50 yards shrink by 25%
+8364 All metal gauntlets within 50 yards shrink by 25 percent
 8365 All metal gauntlets within 50 yards turn to silk
-8366 All metal weapons wielded nearby seem to be 500° 
+8366 All metal weapons wielded nearby seem to be 500 degrees 
 8367 All metal within 50 yards appears to be made of solid shadow
 8368 All metal within 50 yards induces frostbite while in daylight
 8369 All metal within 50 yards is entirely non-reflective
@@ -5594,7 +5593,7 @@
 8393 All nonliving wood within 50 yards is as pliant as grass
 8394 All non-magical animals nearby are healed of all disease
 8395 All non-magical animals nearby are restored to full hit points
-8396 All non-magical animals nearby shrink by 40%
+8396 All non-magical animals nearby shrink by 40 percent
 8397 All non-magical books within 50 yards are duplicated
 8398 All non-magical books within 50 yards must Save or combust
 8399 All non-sentient animals nearby are 1d100 years
@@ -5619,7 +5618,7 @@
 8418 All rope within 50 yards is as strong as steel wire
 8419 All rope within 50 yards is forever unable to hold a knot
 8420 All rope within 50 yards is permanently invisible
-8421 All rope within 50 yards shortens by 80%
+8421 All rope within 50 yards shortens by 80 percent
 8422 All rope within 50 yards straightens and becomes hard as stone
 8423 All rope within 50 yards stretches like elastic
 8424 All rope within 50 yards turns to flesh
@@ -5646,7 +5645,7 @@
 8444 All swords within one mile turn to golf clubs until dawn tomorrow
 8445 All teeth within 50 yards are as black as coal for 1d4 weeks
 8446 All teeth within 50 yards are rendered invisible for 1d12 months
-8447 All tempered metal within 50 yards is reduced in weight by 50%
+8447 All tempered metal within 50 yards is reduced in weight by 50 percent
 8448 All tempered metal within 50 yards is soft as rubber until dawn
 8449 All thumbs within 50 yards are immune to polymorph magic
 8450 All thumbs within 50 yards vanish for 1d4 hours
@@ -5739,7 +5738,7 @@
 8537 All wheeled vehicles within one mile sink 1d4 feet into the mud
 8538 All wheels within one mile are chrome-plated 
 8539 All wheels within one mile become perfectly square
-8540 All who saw this casting are 10% likely to be driven insane
+8540 All who saw this casting are 10 percent likely to be driven insane
 8541 All who saw this casting are healed for 1d4 hit points
 8542 All who saw this casting are soaked with cold gravy
 8543 All who saw this casting are stricken mute until sunset
@@ -5777,23 +5776,23 @@
 8574 All within 50 yards appear to be indescribably ugly to each other
 8575 All within 50 yards appear to have advanced leprosy
 8576 All within 50 yards appear to have bubonic plague
-8577 All within 50 yards are  5% likely to be turned inside out
-8578 All within 50 yards are  5% likely to become amphibious
-8579 All within 50 yards are  5% likely to die at dawn tomorrow
-8580 All within 50 yards are  5% likely to freeze solid
-8581 All within 50 yards are  5% likely to inherit a small keep
-8582 All within 50 yards are  5% likely to suffer total amnesia
-8583 All within 50 yards are 10% likely to age 1d100 years
-8584 All within 50 yards are 10% likely to be closely related
-8585 All within 50 yards are 10% likely to be stricken bald forever
-8586 All within 50 yards are 10% likely to wake tomorrow as undead
+8577 All within 50 yards are  5 percent likely to be turned inside out
+8578 All within 50 yards are  5 percent likely to become amphibious
+8579 All within 50 yards are  5 percent likely to die at dawn tomorrow
+8580 All within 50 yards are  5 percent likely to freeze solid
+8581 All within 50 yards are  5 percent likely to inherit a small keep
+8582 All within 50 yards are  5 percent likely to suffer total amnesia
+8583 All within 50 yards are 10 percent likely to age 1d100 years
+8584 All within 50 yards are 10 percent likely to be closely related
+8585 All within 50 yards are 10 percent likely to be stricken bald forever
+8586 All within 50 yards are 10 percent likely to wake tomorrow as undead
 8587 All within 50 yards are -2 ToHit for 2d10 rounds
-8588 All within 50 yards are 20% likely to be knocked unconscious
-8589 All within 50 yards are 20% likely to be paralyzed for 1d4 hours
-8590 All within 50 yards are 20% likely to lose all but one hit point
-8591 All within 50 yards are 25% likely to be covered in chocolate
-8592 All within 50 yards are 30% likely to vanish for 1d6 rounds
-8593 All within 50 yards are 40% likely to regain full hit points
+8588 All within 50 yards are 20 percent likely to be knocked unconscious
+8589 All within 50 yards are 20 percent likely to be paralyzed for 1d4 hours
+8590 All within 50 yards are 20 percent likely to lose all but one hit point
+8591 All within 50 yards are 25 percent likely to be covered in chocolate
+8592 All within 50 yards are 30 percent likely to vanish for 1d6 rounds
+8593 All within 50 yards are 40 percent likely to regain full hit points
 8594 All within 50 yards are a peculiar shade of blue-gray
 8595 All within 50 yards are AC 0 (no modifiers) for 2d6 hours
 8596 All within 50 yards are arrested for sedition and treason
@@ -5947,15 +5946,15 @@
 8743 All within 50 yards must Save or be Teleported 2d10 miles
 8744 All within 50 yards must Save or be thrown into nearby trees
 8745 All within 50 yards must Save or be tightly bound in wire
-8746 All within 50 yards must Save or feel 1d100° colder 
-8747 All within 50 yards must Save or feel 1d100° warmer 
+8746 All within 50 yards must Save or feel 1d100 degrees colder 
+8747 All within 50 yards must Save or feel 1d100 degrees warmer 
 8748 All within 50 yards must Save or flee in panic for 2d10 rounds
 8749 All within 50 yards must Save or sink 4d12 inches into the ground
 8750 All within 50 yards must Save or suffer blinding pain until dawn
 8751 All within 50 yards must Save or suffer frostbite in 1d10 fingers
 8752 All within 50 yards must Save or their clothes burst into flame
 8753 All within 50 yards must Save or their hair combusts
-8754 All within 50 yards must Save or their hands shrink by 50%
+8754 All within 50 yards must Save or their hands shrink by 50 percent
 8755 All within 50 yards must Save or they must re-roll their stats
 8756 All within 50 yards must Save vs Death or be shorn of all hair
 8757 All within 50 yards must Save, or their wounds will never heal
@@ -5980,7 +5979,7 @@
 8776 All within 50 yards think that they’re standing in knee-deep snow
 8777 All within 50 yards think that they’ve suffered massive injuries
 8778 All within 50 yards think they’ll die unless they remain standing
-8779 All within 50 yards think they’ve shrunk by 90%
+8779 All within 50 yards think they’ve shrunk by 90 percent
 8780 All within 50 yards throw their weapons as far as they can
 8781 All within 50 yards vanish for 3d10 rounds
 8782 All within 50 yards weep hysterically but can act normally
@@ -5998,12 +5997,12 @@
 8794 All worked stone within 50 yards blazes with illusory flame
 8795 All worked stone within 50 yards clangs like bronze bells
 8796 All worked stone within 50 yards hums audibly in moonlight
-8797 All worked stone within 50 yards increases in size by 1d100%
+8797 All worked stone within 50 yards increases in size by 1d100 percent
 8798 All worked stone within 50 yards is as shiny as a mirror
 8799 All worked stone within 50 yards is briefly pliant as soft clay
 8800 All worked stone within 50 yards is clear like glass
 8801 All worked stone within 50 yards is etched with blasphemous runes
-8802 All worked stone within 50 yards is now 3d100° colder
+8802 All worked stone within 50 yards is now 3d100 degrees colder
 8803 All worked stone within 50 yards is water soluble
 8804 All worked stone within 50 yards oozes blood for 1d4 hours
 8805 All worked stone within 50 yards returns to its natural state
@@ -6012,7 +6011,7 @@
 8808 All written text within 50 yards can only be read by moonlight
 8809 All written text within 50 yards hums audibly while being read
 8810 All written text within 50 yards is reversed 
-8811 All written text within 50 yards shrinks by 50%
+8811 All written text within 50 yards shrinks by 50 percent
 8812 An ancient battle is endlessly reenacted on this site by ghosts
 8813 An animal species native to the area acquires sentience
 8814 An animal species native to the area actually controls the throne
@@ -6030,7 +6029,7 @@
 8825 An enormous oak tree appears at the target point
 8826 An enormous sand castle appears at the target point 
 8827 An enormous volume of acrid smoke spews from the target point
-8828 An exact copy of the moon appears 180° away from the original one 
+8828 An exact copy of the moon appears 180 degrees away from the original one 
 8829 An experimental forge in a nearby town achieves critical mass
 8830 An incredibly dangerous and powerful artifact appears nearby
 8831 An incredibly dangerous toxin is released into a nearby river
@@ -6062,7 +6061,7 @@
 8857 Any charged magical items nearby can’t be used until tomorrow
 8858 Any charged magical items nearby lose 1d10 charges
 8859 Any exposed rock nearby is polished as smooth as glass
-8860 Any fireball cast nearby is 1% likely to scorch a one mile radius
+8860 Any fireball cast nearby is 1 percent likely to scorch a one mile radius
 8861 Any fires now burning within 10 miles are extinguished
 8862 Any fires now burning within 10 miles exude hallucinogenic smoke
 8863 Any fires now burning within 10 miles provide no heat
@@ -6095,7 +6094,7 @@
 8890 Any open wounds in the area heal into ugly, purplish scars
 8891 Any outstanding campaign plot inconsistencies are hereby resolved
 8892 Any pack animals within one mile race away at top speed
-8893 Any priest nearby is 10% likely to think he’s his god
+8893 Any priest nearby is 10 percent likely to think he’s his god
 8894 Any ranged spells cast nearby are delayed for 3d10 rounds
 8895 Any ranged spells cast nearby have a range of zero
 8896 Any range-zero spells cast nearby affect someone else instead
@@ -6152,7 +6151,7 @@
 8947 Anyone nearby at full hit points is immune to poison gas 
 8948 Anyone nearby at full hit points is reduced to 1d4 hit points
 8949 Anyone nearby bearing a flag or standard is struck by lightning
-8950 Anyone nearby bearing a flag or standard shrinks by 25%
+8950 Anyone nearby bearing a flag or standard shrinks by 25 percent
 8951 Anyone nearby can never be teleported while wearing clothes
 8952 Anyone nearby can never drown while barefoot
 8953 Anyone nearby of racially mixed blood suffers agony for 1d4 turns
@@ -6251,8 +6250,8 @@
 9045 Everyone within 50 yards disgorges a large, hairy spider
 9046 Everyone within 50 yards has 1d100 gold pieces in his pocket
 9047 Everyone within 50 yards has 1d6 orc’s teeth in his pocket
-9048 Everyone within 50 yards has a 1% chance to become a god
-9049 Everyone within 50 yards has a 2% chance to explode
+9048 Everyone within 50 yards has a 1 percent chance to become a god
+9049 Everyone within 50 yards has a 2 percent chance to explode
 9050 Everyone within 50 yards has a big snowball in his pocket
 9051 Everyone within 50 yards has a hen’s egg in his pocket
 9052 Everyone within 50 yards has a lighted candle in his pocket
@@ -6313,7 +6312,7 @@
 9106 For one month the moon appears to fill half of the night sky
 9107 For one month the Sun appears only as bright as the full moon 
 9108 For one month the Sun is invisible though it still provides light
-9109 For one round, any nearby priest has 10% chance to summon his god
+9109 For one round, any nearby priest has 10 percent chance to summon his god
 9110 For one turn, the area is lit only by countless flashbulbs
 9111 For one turn, the area is lit only by flickering candlelight
 9112 For one year, flashing lights accompany spells cast in this area
@@ -6321,7 +6320,7 @@
 9114 From now on, all within 50 yards are left-handed 
 9115 From now on, all within 50 yards look as wounded as they are now
 9116 Genocidal war breaks out between two or more major races
-9117 Gravity is skewed by 45° in this area until sunrise tomorrow
+9117 Gravity is skewed by 45 degrees in this area until sunrise tomorrow
 9118 Gravity within 100 yards has no effect on wood
 9119 Half a ton of iron filings sprays from the target point
 9120 Half a ton of pureed carrots sprays from the target point
@@ -6345,7 +6344,7 @@
 9138 Icy mist issues from the target for 1d4 days
 9139 If indoors, all exits are sealed; if not, roll again
 9140 If indoors, the building is evacuated of air; if not, roll again
-9141 If indoors, the building shrinks by 50%; if not, roll again
+9141 If indoors, the building shrinks by 50 percent; if not, roll again
 9142 If indoors, the building vanishes; if not, roll again
 9143 If the area is wooded, all nearby become lost; if not, roll again
 9144 In this area, moonlight causes sound to be stifled
@@ -6376,7 +6375,7 @@
 9169 Many thousands of birds soon take up residence in this area
 9170 Missile attacks are futile within 50 yards of the target point
 9171 Missiles fired nearby all fly toward the same creature 
-9172 Missiles fired nearby are 5% likely to induce True Love
+9172 Missiles fired nearby are 5 percent likely to induce True Love
 9173 Missiles fired nearby can induce paralysis on a successful hit
 9174 Missiles fired nearby crash like thunder when they hit
 9175 Missiles fired nearby disintegrate while in flight
@@ -6438,7 +6437,7 @@
 9230 Nearest lake doubles its volume during each of the next 1d4 days
 9231 Nearest lake drains to reveal the corpse of a long-dead deity
 9232 Nearest lake freezes completely solid over the next 1d4 rounds
-9233 Nearest lake heats to 200° over the next 1d4 rounds
+9233 Nearest lake heats to 200 degrees over the next 1d4 rounds
 9234 Nearest lake is covered by a tarp
 9235 Nearest lake is encircled by a moat of flaming pitch
 9236 Nearest lake is home to a colony of unaging amphibious humanoids
@@ -6534,14 +6533,14 @@
 9326 Next person nearby to draw blood gains that many hit points
 9327 Next person nearby to draw blood has a +4 ToHit bonus until dawn
 9328 Next person nearby to draw blood howls like a wolf under the moon
-9329 Next person nearby to draw blood is 10% likely to crumble to dust
-9330 Next person nearby to draw blood is 10% likely to explode
+9329 Next person nearby to draw blood is 10 percent likely to crumble to dust
+9330 Next person nearby to draw blood is 10 percent likely to explode
 9331 Next person nearby to draw blood is himself sprayed with blood
 9332 Next person nearby to draw blood is sought by the authorities
 9333 Next person nearby to draw blood is swarmed by innumerable bats
 9334 Next person nearby to draw blood is whisked away into the sky
 9335 Next person nearby to draw blood never needs to sleep again
-9336 Next person nearby to draw blood shrinks by 8d10%
+9336 Next person nearby to draw blood shrinks by 8d10 percent
 9337 Next person nearby to draw blood suffers extensive amnesia 
 9338 Next person nearby to draw blood then tries to destroy his weapon
 9339 Next person nearby to draw blood thereafter thinks he’s a vampire
@@ -6569,7 +6568,7 @@
 9360 Next person nearby to speak is hurled 10d10 feet in the air
 9361 Next person nearby to speak is thrown into a deep well
 9362 Next person nearby to use magic becomes two dimensional
-9363 Next person nearby to use magic is 5% likely to be disemboweled
+9363 Next person nearby to use magic is 5 percent likely to be disemboweled
 9364 Next person nearby to use magic is enslaved to someone nearby
 9365 Next person nearby to use magic is restored to full hit points
 9366 Next person nearby to use magic is turned to wood
@@ -6614,7 +6613,7 @@
 9405 Next polymorph magic used nearby can’t be undone 
 9406 Next polymorph magic used nearby completely heals its caster
 9407 Next polymorph magic used nearby doubles its caster’s height
-9408 Next polymorph magic used nearby is only 50% effective
+9408 Next polymorph magic used nearby is only 50 percent effective
 9409 Next polymorph magic used nearby knocks its caster unconscious
 9410 Next polymorph magic used nearby lapses after one round
 9411 Next polymorph magic used nearby lasts for 1d100 days
@@ -6634,7 +6633,7 @@
 9425 Next weapon drawn nearby can’t cross running water 
 9426 Next weapon drawn nearby can’t kill anyone while its owner lives
 9427 Next weapon drawn nearby causes its wielder to distrust magic
-9428 Next weapon drawn nearby chills to -200°
+9428 Next weapon drawn nearby chills to -200 degrees
 9429 Next weapon drawn nearby damages the sanity of its wielder
 9430 Next weapon drawn nearby disintegrates if used to kill someone
 9431 Next weapon drawn nearby fills its wielder with crippling fear
@@ -6667,7 +6666,7 @@
 9458 Next weapon nearby to draw blood doubles in length until sunrise
 9459 Next weapon nearby to draw blood glows in the presence of humans
 9460 Next weapon nearby to draw blood has been used to murder a king
-9461 Next weapon nearby to draw blood heats to 800°
+9461 Next weapon nearby to draw blood heats to 800 degrees
 9462 Next weapon nearby to draw blood imparts visions of perdition
 9463 Next weapon nearby to draw blood induces bloodlust in its wielder
 9464 Next weapon nearby to draw blood induces envy in its wielder
@@ -6676,10 +6675,10 @@
 9467 Next weapon nearby to draw blood induces pacifism in its wielder
 9468 Next weapon nearby to draw blood infects its wielder with leprosy
 9469 Next weapon nearby to draw blood is +1 ToHit for one week
-9470 Next weapon nearby to draw blood is 10% likely to disintegrate
-9471 Next weapon nearby to draw blood is 10% likely to explode 
+9470 Next weapon nearby to draw blood is 10 percent likely to disintegrate
+9471 Next weapon nearby to draw blood is 10 percent likely to explode 
 9472 Next weapon nearby to draw blood is -2 ToHit for one month 
-9473 Next weapon nearby to draw blood is 25% likely to turn to ice
+9473 Next weapon nearby to draw blood is 25 percent likely to turn to ice
 9474 Next weapon nearby to draw blood is coveted by dragons
  78
 9475 Next weapon nearby to draw blood is discovered to be a cheap copy
@@ -6757,7 +6756,7 @@
 9547 Numerous fires erupt in the nearest town
 9548 One magic potion nearby is instantly lethal
 9549 One magic potion nearby will trigger a Chaos Burst when consumed
-9550 One random sword nearby is 40% likely to heal instead of wound
+9550 One random sword nearby is 40 percent likely to heal instead of wound
 9551 One random sword nearby is bent like a horseshoe
 9552 One random sword nearby is duplicated under every full moon
 9553 One random sword nearby is permanently blunted
@@ -6772,7 +6771,7 @@
 9562 One random sword nearby will explode on contact with blood
 9563 One suit of armor nearby becomes free-willed and belligerent
 9564 One suit of armor nearby fuses into a single piece
-9565 One suit of armor nearby heats to 600° the next time it’s struck
+9565 One suit of armor nearby heats to 600 degrees the next time it’s struck
 9566 One suit of armor nearby is burned to slag
 9567 Plans for a perpetual motion device appear at the target point
 9568 Popular opinion nearby is sharply opposed to the use of magic
@@ -6794,7 +6793,7 @@
 9584 Some major race splits into two incompatible sub-species
 9585 Some non-magical animal nearby becomes immortal
 9586 Some non-magical animal nearby suddenly has 25 Intelligence
-9587 Someone nearby acquires 10% magic resistance
+9587 Someone nearby acquires 10 percent magic resistance
 9588 Someone nearby adopts a new mentor each day
 9589 Someone nearby always thinks that it’s raining
 9590 Someone nearby attacks nobles on sight
@@ -6866,7 +6865,7 @@
 9655 Someone nearby hoots like an owl when he hears his name
 9656 Someone nearby inflates like a puffer fish whenever he’s angry
 9657 Someone nearby inherits wealth equal to a small nation’s treasury
-9658 Someone nearby is 3% likely to explode whenever he draws a weapon
+9658 Someone nearby is 3 percent likely to explode whenever he draws a weapon
 9659 Someone nearby is about to go totally insane
 9660 Someone nearby is accused of assassinating the king
 9661 Someone nearby is attended by 1d4 skeletal servants
@@ -6972,8 +6971,8 @@
 9760 Someone nearby sets fire to a tree and climbs into its branches
 9761 Someone nearby shows all the signs of late-term pregnancy
 9762 Someone nearby shrieks in horror until sunrise tomorrow
-9763 Someone nearby shrinks by 1d100%
-9764 Someone nearby shrinks by 50% from the waist up
+9763 Someone nearby shrinks by 1d100 percent
+9764 Someone nearby shrinks by 50 percent from the waist up
 9765 Someone nearby smells like a corpse in the presence of magic
 9766 Someone nearby speculates about the virtues of dwarf-skin leather
 9767 Someone nearby spins and spits water like a garden sprinkler
@@ -7032,8 +7031,8 @@
 9820 Suddenly it’s raining harder than anyone has ever experienced
 9821 Suddenly the area is snowbound as from a year-long blizzard 
 9822 Summonings are impossible within one mile of the target point
-9823 Temperature within 100 yards drops 1° per minute for 1d4 hours
-9824 Temperature within 100 yards rises 1° per minute for 1d4 hours 
+9823 Temperature within 100 yards drops 1 degrees per minute for 1d4 hours
+9824 Temperature within 100 yards rises 1 degrees per minute for 1d4 hours 
 9825 The arms of someone nearby turn into wings like those of a duck
 9826 The complete skeleton of a huge red dragon tumbles from the sky
 9827 The corpse of a forgotten deity is discovered in a nearby cave
@@ -7112,7 +7111,7 @@
 9899 The moon is now a cube
 9900 The moon is now geostationary
 9901 The moon is now solid gold except for a thin cover of dust
-9902 The moon moves 50% closer to the Earth
+9902 The moon moves 50 percent closer to the Earth
 9903 The moon resembles the face of someone nearby
 9904 The moon revolves around the planet at 1d4X its current rate
 9905 The moon suddenly holds untold riches and unimaginable dangers
@@ -7138,7 +7137,7 @@
 9925 The planet splits into two stable hemispheres 10 yards apart
 9926 The planet tumbles into another ice age
 9927 The planet’s atmosphere leaks into space over the next 1d6 months
-9928 The planet’s average temperature rises 1° per week for 4d6 weeks
+9928 The planet’s average temperature rises 1 degrees per week for 4d6 weeks
 9929 The planet’s hemispheres rotate at slightly different rates
 9930 The planet’s oceans are becalmed
 9931 The planet’s orbital radius shrinks by 1d8 x 10,000 miles
@@ -7160,9 +7159,9 @@
 9947 The Burst only affects males; roll for the underlying effect
 9948 The Burst only appears to occur; roll again for apparent effect
 9949 The tallest person in the area develops an acute fear of heights
-9950 The tallest person in the area grows by 50%
+9950 The tallest person in the area grows by 50 percent
 9951 The tallest person in the area is attacked by beavers
-9952 The tallest person in the area shrinks by 50%
+9952 The tallest person in the area shrinks by 50 percent
 9953 The tallest tree nearby burns to the ground in 1d4 rounds 
 9954 The target point acquires intelligence and free will
 9955 The target point becomes a window for seeing into other worlds
@@ -7201,8 +7200,8 @@
 9988 Water consumed in this area tastes like the finest wine
 9989 Water consumed in this area tastes strongly of manure
 9990 Water flows from the target point to fill a 100-yard hemisphere
-9991 Water in this area boils at 70° Fahrenheit
-9992 Water in this area freezes at 70° Fahrenheit
+9991 Water in this area boils at 70 degrees Fahrenheit
+9992 Water in this area freezes at 70 degrees Fahrenheit
 9993 Weather in this area changes drastically each hour for one week
 9994 Weather in this area is supernaturally intense for 1d4 months
  82
@@ -7214,7 +7213,7 @@
 0000 The Stars Are Right!
  83
 
-d%	Wondrous Effect
+d percent	Wondrous Effect
 01—05	Target affected by slow for 10 rounds (Will DC 15 negates).
 06—10	Faerie fire surrounds the target.
 11—15	Deludes the wielder for 1 round into believing the rod functions as indicated by a second die roll (no save).
@@ -7222,7 +7221,7 @@ d%	Wondrous Effect
 21—25	Wielder learns the target’s surface thoughts (as with detect thoughts) for 1d4 rounds (no save).
 26—30	Stinking cloud appears at 30-foot range (Fortitude DC 15 negates).
 31—33	Heavy rain falls for 1 round in 60-foot radius centered on the rod wielder.
-34—36	Summons an animal—a rhino (01—25 on d%), elephant (26—50), or mouse (51—100).
+34—36	Summons an animal—a rhino (01—25 on d percent), elephant (26—50), or mouse (51—100).
 37—46	Lightning bolt (70 foot long, 5 foot wide), 6d6 points of damage (Reflex DC 15 half).
 47—49	A stream of 600 large butterflies pours forth and flutters around for 2 rounds, blinding everyone within 25 foot (Reflex DC 14 negates).
 50—53	Target is affected by enlarge person if within 60 feet of rod (Fortitude DC 13 negates).
@@ -7235,7 +7234,7 @@ d%	Wondrous Effect
 85—87	Leaves grow from the target if within 60 feet of the rod. These last 24 hours.
 88—90	10—40 gems, value 1 gp each, shoot forth in a 30-foot-long stream. Each gem deals 1 point of damage to any creature in its path: roll 5d4 for the number of hits and divide them among the available targets.
 91—95	Shimmering colors dance and play over a 40-foot-by-30-foot area in front of rod. Creatures therein are blinded for 1d6 rounds (Fortitude DC 15 negates).
-96—97	Wielder (50% chance) or the target (50% chance) turns permanently blue, green, or purple (no save).
+96—97	Wielder (50 percent chance) or the target (50 percent chance) turns permanently blue, green, or purple (no save).
 98—100	Flesh to stone (or stone to flesh if the target is stone already) if the target is within 60 feet (Fortitude DC 18 negates).
 
 
