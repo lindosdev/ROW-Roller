@@ -5346,6 +5346,24 @@ Text1.Text = "For 1d4 days, caster is certain that his saliva is poisonous"
 Text1.Text = "For 1d4 rounds, caster’s left foot is fused to the ground"
     ElseIf (Label1.Caption = 2625) Then
 Text1.Text = "For 1d4 rounds, normal water can burn the caster like strong acid"
+    ElseIf (Label1.Caption = 2626) Then
+Text1.Text = "For 1d4 weeks, caster’s eyelids glow brightly in the dark"
+    ElseIf (Label1.Caption = 2627) Then
+Text1.Text = "For 1d4 weeks, caster’s nose hovers 1d4 inches before his face"
+    ElseIf (Label1.Caption = 2628) Then
+Text1.Text = "For 2d4-1 horrible days, caster works in a huge corporate office"
+    ElseIf (Label1.Caption = 2629) Then
+Text1.Text = "For 3d10 days caster is immune to magic cast by one person"
+    ElseIf (Label1.Caption = 2630) Then
+Text1.Text = "For 6d10 rounds, caster is the only person on the entire planet"
+    ElseIf (Label1.Caption = 2631) Then
+Text1.Text = "For one day, caster is so monstrously ugly that people attack him"
+    ElseIf (Label1.Caption = 2632) Then
+Text1.Text = "For one day, caster knows the location of all gold within 5 miles"
+    ElseIf (Label1.Caption = 2633) Then
+Text1.Text = "For several days, caster strongly resembles a drowned corpse"
+    ElseIf (Label1.Caption = 2634) Then
+Text1.Text = "Foul-smelling steam issues from the caster’s nostrils"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
