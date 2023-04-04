@@ -1,14 +1,9 @@
-2846 If caster is wearing a magic ring, his head turns invisible
-2847 If caster is wearing a magic ring, his teeth turn to gold
-2848 If caster is wearing a magic ring, holy water burns his skin
-2849 If caster is wearing a magic ring, it acquires an odd new ability
-2850 If caster is wearing a magic ring, it becomes clear like glass
-2851 If caster is wearing a magic ring, it becomes part of his body
-2852 If caster is wearing a magic ring, it can’t cross moving water
-2853 If caster is wearing a magic ring, it can’t pass through doorways
-2854 If caster is wearing a magic ring, it derides his magical prowess
-2855 If caster is wearing a magic ring, it disintegrates upon removal
-2856 If caster is wearing a magic ring, it explodes upon removal
+2851 
+2852 
+2853 
+2854 
+2855 
+2856 
 2857 If caster is wearing a magic ring, it has 2X as many charges
 2858 If caster is wearing a magic ring, it heats to 1,000 degrees
 2859 If caster is wearing a magic ring, it shines like the sun
@@ -7347,3 +7342,154 @@ arbitrarily malicious in using this list.
 98  The next total lunar eclipse occurs
 99  He has performed an exorcism on a member of the royal family
 00  He has been bitten by 1d6 different lycanthropes
+
+Overview of Magic Shrines in Classic Diablo
+Shrines in Diablo are areas where magic has concentrated into a single spot and via shrines this magic can grant you great favour. However, just as easily, shrines can also grant ill-fortune.
+
+Shrines are activated by having your character walk close to one and clicking on the shrine once highlighted by your cursor. The effects granted by shrines depends on its type, and while it’s magic takes effect immediately, it’s effects may not be noticeable right away. Sometimes a shrine’s effect will be beneficial, other times not. So how you do know which ones to avoid?
+
+Shrines in Diablo are titled with an adjective, but unless you have a good memory you’re likely to forget the effects of each shrine. When each shrine is activated it also gives off a cryptic message which is a clue to the shrine’s effect but for these shrines their effect is the same throughout the game.
+
+Special shrines also exist, such as the Blood Fountain and the Goat Shrine. Special shrines have temporary effects, such as healing or mana replenishment, but some also have random effects so a hint of caution is always advised when faced with special shrines.
+
+Types Of Shrine
+When you hover over a shrine, its name will be given as an adjective, such as ‘creepy’ or ‘spritual’ and when activated will give a clue to its effect. The full list of shrines is below:
+
+Abandoned Shrine
+
+Gives the clue “The hands of men may be guided by fate” and gives a temporary +2 Dexterity increase.
+
+Creepy Shrine
+
+Gives the clue “Strength is bolstered by heavenly faith” and gives a temporary +2 Strength increase
+
+Cryptic Shrine
+
+Gives the clue “Arcane power brings destruction” with the effect of castings a Nova spell and also restores mana.
+
+Divine Shrine
+
+Gives the clue “Drink and be refreshed” with the effect it restores health and mana. Also, on dungeon levels 1-3, it gives one Potion of Full Mana and one Potion of Full Life. On other levels, it gives two Potions of Full Rejuvenation.
+
+Eerie Shrine
+
+Gives the clue “Knowledge and wisdom at the cost of self” and gives a temporary +2 Magic increase.
+
+Eldritch Shrine
+
+Gives the clue “Crimson and Azure become as the sun” with the effect that all potions become rejuvenation potions.
+
+Enchanted Shrine
+
+Gives the clue “Magic is not always what it seems to be” with the effect that the character loses 1 spell level for one spell (2 levels if it is at level 15). All other known spells gain 1 spell level.
+
+Fascinating Shrine
+
+Gives the clue “Intensity comes at the cost of wisdom” with the effect the character loses 10% of base mana and increases the spell Firebolt 2 spell levels.
+
+Glimmering Shrine
+
+Gives the clue “Mysteries are revealed in the light of reason” with the effect all items in your inventory are identified.
+
+Gloomy Shrine
+
+Gives the clue “Those who defend seldom attack” with the effect of giving +2 AC to all armor and -1 max damage to all weapons.
+
+Hidden Shrine
+
+Gives the clue “New strength is forged through destruction” with the effect of bestowing -10 durability to one equipped item and +10 durability to all others equipped. An item will never be destroyed by this effect, even if the penalty reduces the durability to zero.
+
+Holy Shrine
+
+Gives the clue “Wherever you go, there you are” with the effect of casting a Phasing spell.
+
+Magical Shrine
+
+Gives the clue “While the spirit is vigilant the body thrives” with the effect of casting a Mana Shield spell.
+
+Mysterious Shrine
+
+Gives the clue “Some are weakened as one grows strong” with the effect the character receives +5 to one attribute; -1 to all others.
+
+Ornate Shrine
+
+Gives the clue “Salvation comes at the cost of wisdom” with the effect the character loses 10% of base mana and increasing Holy Bolt 2 spell levels.
+
+Quiet Shrine
+
+Gives the clue “The essence of life flows from within” with the effect the character receives a +2 Vitality increase.
+
+Religious Shrine
+
+Gives the clue “Time cannot diminish the power of steel” with the effect of restoring all items to full durability.
+
+Sacred Shrine
+
+Gives the clue “Energy comes at the cost of wisdom” with the effect of the character losing 10% of base mana and increasing Charged Bolt 2 spell levels.
+
+Secluded Shrine
+
+Gives the clue “The way is made clear when viewed from above” with the effect of giving the character a complete map of current level.
+
+Spiritual Shrine
+
+Gives the clue “Riches abound when least expected” with the effect of giving a small amount of gold to each empty slot in your inventory.
+
+Spooky Shrine
+
+Gives the clue “Where avarice fails, patience gains reward” to the person who touches the shrine; other players receive the clue “Blessed by a benevolent companion!”. With the effect all other players get life and mana restored but the character touching the shrine receives no benefit.
+
+Stone Shrine
+
+Gives the clue “The powers of mana refocused renews” with the effect of restoring charges in all staves.
+
+Tainted Shrine
+
+Gives the message “Those who are last may yet be first” to the person touching the shrine; other players receive the clue “Generosity brings its own reward”. The person touching the shrine is unaffected but other players receive +1 to one attribute and -1 to all other attributes.
+
+Thaumaturgic Shrine
+
+Gives the clue “What once was opened now is closed” with the effect of refilling all chests on current level.
+
+Weird Shrine
+
+Gives the clue “The sword of justice is swift and sharp” with the effect of giving +1 max damage to all weapons in inventory.
+
+-–
+
+It should be noted that Thaumaturgic, Weird and Gloomy shrines only appear in single-player games and the effects of Weird and Gloomy shrines only lasts for that game.
+
+Tainted and Spooky shrines only appear in multiplayer games.
+
+An Enchanted shrine can never be found in the Caves or Hell levels of the game, or as an effect of Goat Shrines or Cauldrons.
+
+Special Magic Shrines in Diablo
+In addition to the above ’true’ shrines, there are also some special shrines which you may come across during the course of playing Diablo. These are:
+
+Blood Fountain
+
+The Blood Fountain restores 1 life each time it is used; there is no limit to the amount of times the shrine may be visited, up to the character’s maximum life has been reached.
+
+Cauldron
+
+The Cauldron Shrine bestows a random effect from one of the main shrines in the game.
+
+Fountain of Tears
+
+The Fountain of Tears gives the character +1 to one randomly selected attribute, while -1 to another attribute, also randomly selected but not the same as the increased attribute.
+
+Goat Shrine
+
+Like the Cauldron Shrine, the Goat Shrine gives a random effect from one of the main shrines in the game.
+
+Murky Pool
+
+The Murky Pool casts an Infravision spell on the character, helping them to spot hidden enemies easier.
+
+Purifying Spring
+
+The Purifying Spring works in a similar way to the Blood Fountain by restores 1 mana each time it is used; like the Blood Fountain there is no limit to the amount of times it can be used, up to the character’s maximum mana score.
+
+-–
+
+While Cauldron and Goat Shrines’ effects are randomly allocated from the among the main shrines in Diablo, Thaumaturgic shrines never appear in them.
