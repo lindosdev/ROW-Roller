@@ -1,131 +1,3 @@
-2851 
-2852 
-2853 
-2854 
-2855 
-2856 
-2857 If caster is wearing a magic ring, it has 2X as many charges
-2858 If caster is wearing a magic ring, it heats to 1,000 degrees
-2859 If caster is wearing a magic ring, it shines like the sun
-2860 If caster is wearing a magic ring, it shrinks by 50 percent
-2861 If caster is wearing a magic ring, it sprouts dozens of needles
-2862 If caster is wearing a magic ring, it turns permanently invisible
-2863 If caster is wearing a magic ring, it turns to lead
-2864 If caster is wearing a magic ring, it weighs more than he does
-2865 If caster is wearing a magic ring, it works only 75 percent of the time
-2866 If caster is wearing a magic ring, it’s as brittle as glass
-2867 If caster is wearing a magic ring, it’s on someone else’s finger
-2868 If caster is wearing a magic ring, it’s suddenly in his stomach
-2869 If caster is wearing a magic ring, its effect is reversed
-2870 If caster is wearing a magic ring, its main function is altered
-2871 If caster is wearing a magic ring, no one takes him seriously
-
-2872 If caster is wearing a magic ring, smoke pours from his nostrils
-2873 If caster is wearing a magic ring, that finger doubles in length
-2874 If caster is wearing a magic ring, that finger turns into a thumb
-2875 If caster is wearing a magic ring, that finger turns invisible
-2876 If caster is wearing a magic ring, that hand ages 1d100 years
-2877 If caster is wearing a magic ring, that hand attacks the other 
-2878 If caster is wearing a magic ring, that hand becomes gangrenous
-2879 If caster is wearing a magic ring, that hand doubles in size
-2880 If caster is wearing a magic ring, that hand has Dexterity 18
-2881 If caster is wearing a magic ring, that hand has Strength 18/00
-2882 If caster is wearing a magic ring, that hand is burned to a crisp
-2883 If caster is wearing a magic ring, that hand is gnarled like wood
-2884 If caster is wearing a magic ring, that hand is stricken numb
-2885 If caster is wearing a magic ring, that hand looks like a claw
-2886 If caster is wearing a magic ring, that hand looks like bare bone
-2887 If caster is wearing a magic ring, that hand sprouts feathers
-2888 If caster is wearing a magic ring, that hand turns into a foot
-2889 If caster is wearing a magic ring, that hand turns to gold
-2890 If caster is wearing a magic ring, that hand turns to stone
-2891 If caster is wearing a magic ring, that hand’s thumb vanishes
-2892 If caster is wearing a magic ring, the bones in that hand vanish
-2893 If caster is wearing a magic ring, water is poisonous to him
-2894 If caster is wearing any armor, he attacks someone nearby
-2895 If caster is wearing any armor, he removes it as fast as possible
-2896 If caster is wearing any armor, he teleports to his home
-
-2897 If caster is wearing any armor, it teleports to his home
-2898 If caster is wearing any leather, he moos like a cow until sunset
-2899 If caster is wearing any leather, he reeks of manure until sunset
-2900 If caster is wearing gloves, he can’t remove them 
-2901 If caster is wearing gloves, he requires no sleep for 1d4 weeks
-2902 If caster is wearing gloves, they turn into fluffy wool mittens
-2903 If caster is wearing gloves, they turn into rigid steel
-2904 If caster kills anyone in the next turn, he also perishes
-2905 If caster kills anyone in the next turn, he’s declared a hero
-2906 If caster rides a horse in the next 24 hours, it tries to eat him
-2907 If caster sleeps in his boots, he can never again remove them
-2908 If caster sleeps in his boots, they begin devouring him tonight
-2909 If caster stands on a riverbank, he’s attacked by crustaceans
-2910 If caster stands on a riverbank, the bank crumbles beneath him
-2911 If caster swallows a hot coal, he’s  5 percent likely to turn to diamond
-2912 If caster swallows a hot coal, it’s 10 percent likely to turn to diamond
-2913 If caster tells a lie, he giggles 
-2914 If caster tells a lie, he’s 40 percent likely to declare it outright
-2915 If caster uses Detect Magic, he loses 1d6 hit points
-2916 If caster uses Detect Magic, he’s blinded for 1d10 rounds
-2917 If caster’s carrying a dagger, he throws it at someone nearby
-2918 If caster’s carrying a dagger, he tries to stab himself with it
-2919 If cut open, caster is found to be a mechanical construct
-2920 If cut open, caster is found to be completely hollow
-2921 If cut open, caster is found to be filled with gold coins
-
-2922 If cut open, caster is found to be filled with thick red foam
-2923 If cut open, caster is found to be made of soap
-2924 If cut open, caster is found to be packed with gunpowder
-2925 If cut open, caster is found to be stuffed with goose down
-2926 If cut open, caster is found to be teeming with filthy worms
-2927 If cut open, caster is found to contain 1d1000 feet of intestine
-2928 If cut open, caster is found to contain countless glass beads
-2929 If cut open, caster is found to contain only mildewed straw
-2930 If cut open, caster is found to contain thousands of bees
-2931 If cut open, caster is found to contain tiny replicas of himself
-2932 If cut open, caster is found to house paper-wrapped candies
-2933 If hit by a bludgeon on a natural 20, caster abandons magic use
-2934 If hit by a bludgeon on a natural 20, caster ages 1d100 years
-2935 If hit by a bludgeon on a natural 20, caster becomes a werewolf
-2936 If hit by a bludgeon on a natural 20, caster becomes undead
-2937 If hit by a bludgeon on a natural 20, caster bursts into flame
-2938 If hit by a bludgeon on a natural 20, caster causes a Chaos Burst
-2939 If hit by a bludgeon on a natural 20, caster changes sex
-2940 If hit by a bludgeon on a natural 20, caster doubles in height
-2941 If hit by a bludgeon on a natural 20, caster falls 1d100 feet
-2942 If hit by a bludgeon on a natural 20, caster finds a magical ring
-2943 If hit by a bludgeon on a natural 20, caster gains a new language
-2944 If hit by a bludgeon on a natural 20, caster gains one level
-2945 If hit by a bludgeon on a natural 20, caster gets hopelessly lost
-2946 If hit by a bludgeon on a natural 20, caster goes berserk
-2947 If hit by a bludgeon on a natural 20, caster grows 1d4 extra arms
-2948 If hit by a bludgeon on a natural 20, caster grows another head
-2949 If hit by a bludgeon on a natural 20, caster has a divine vision
-2950 If hit by a bludgeon on a natural 20, caster hears ghostly voices
-2951 If hit by a bludgeon on a natural 20, caster is badly sunburned
-2952 If hit by a bludgeon on a natural 20, caster is blind until dawn
-2953 If hit by a bludgeon on a natural 20, caster is briefly paralyzed
-2954 If hit by a bludgeon on a natural 20, caster is cloned
-2955 If hit by a bludgeon on a natural 20, caster is completely healed
-2956 If hit by a bludgeon on a natural 20, caster is named a heretic
-2957 If hit by a bludgeon on a natural 20, caster is paralyzed by fear
-2958 If hit by a bludgeon on a natural 20, caster is thrown 1d100 feet
-2959 If hit by a bludgeon on a natural 20, caster loses 1d8 teeth
-2960 If hit by a bludgeon on a natural 20, caster loses all fear
-2961 If hit by a bludgeon on a natural 20, caster loses all inhibition
-2962 If hit by a bludgeon on a natural 20, caster loses his spellbook
-2963 If hit by a bludgeon on a natural 20, caster loses one level
-2964 If hit by a bludgeon on a natural 20, caster no longer needs food
-2965 If hit by a bludgeon on a natural 20, caster returns to this spot
-2966 If hit by a bludgeon on a natural 20, caster shatters like glass
-2967 If hit by a bludgeon on a natural 20, caster suffers no damage
-2968 If hit by a bludgeon on a natural 20, caster teleports 2d6 miles
-2969 If hit by a bludgeon on a natural 20, caster wins 500 gold pieces
-2970 If hit by a bludgeon on a natural 20, caster’s head explodes
-2971 If hit by a bludgeon on a natural 20, caster’s Strength is halved
-2972 If hit by a bludgeon on a natural 20, caster’s teeth turn to gold
-2973 If slain before sunset, caster dissolves into a putrid slush
-2974 Illusions cast by caster make him 2X as heavy for their duration
- 28
 2975 In matters of barter, caster offers his spellbook first
 2976 In the next few days, caster unearths a statue of himself
 2977 Iridescent plumage sprouts from caster’s shoulder blades
@@ -151,6 +23,7 @@
 2997 Nearest angry mob identifies caster as its leader
 2998 Nearest angry mob identifies caster as the cause of its outrage
 2999 Nearest ant colony begins worshipping the caster as its god
+
 3000 Nearest colony of bees identifies the caster as an enemy
 3001 Nearest colony of bees identifies the caster as its queen
 3002 Nearest dragon has a vendetta against the caster
@@ -176,6 +49,7 @@
 3022 Next creature slain by caster infects him with a strange disease
 3023 Next creature slain by caster is avenged by 10d10 kobolds
 3024 Next creature slain by caster is consumed by flames in 1d8 rounds
+
 3025 Next creature slain by caster is resurrected in 1d10 turns
 3026 Next creature slain by caster places a Geas on him as it dies
 3027 Next creature slain by caster pursues him as a vengeful undead
@@ -200,6 +74,7 @@
 3046 Next door opened by caster leads to a distant crypt
 3047 Next door opened by caster leads to a distant mountaintop
 3048 Next door opened by caster leads to a distant ship on the ocean
+
 3049 Next door opened by caster leads to a dragon’s nest
 3050 Next door opened by caster leads to a dragon’s treasure horde
 3051 Next door opened by caster leads to a fabulous ballroom
@@ -225,6 +100,7 @@
 3071 Next door opened by caster leads to an enormous wine cellar
 3072 Next door opened by caster leads to an overflowing sewer
 3073 Next door opened by caster leads to another plane of existence 
+
 3074 Next door opened by caster leads to deep within a blazing forest
 3075 Next door opened by caster leads to goblin barracks
 3076 Next door opened by caster leads to his home
