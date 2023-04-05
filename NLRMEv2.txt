@@ -1,28 +1,3 @@
-3025 Next creature slain by caster is resurrected in 1d10 turns
-3026 Next creature slain by caster places a Geas on him as it dies
-3027 Next creature slain by caster pursues him as a vengeful undead
-3028 Next door opened by caster becomes sentient and animated
-3029 Next door opened by caster can never be closed again
-3030 Next door opened by caster can never be opened by him again
-3031 Next door opened by caster causes a pit to open beneath his feet
-3032 Next door opened by caster causes all of his spells to discharge
-3033 Next door opened by caster dispels any magic then affecting him
-3034 Next door opened by caster explodes as a 1d10HD fireball
-3035 Next door opened by caster explodes in a swarm of searing embers
-3036 Next door opened by caster falls on him heavily 
-3037 Next door opened by caster floods the room on the opposite side
-3038 Next door opened by caster gives him a useful bit of information
-3039 Next door opened by caster hurls him out of the nearest window
-3040 Next door opened by caster ignites the room on the opposite side
-3041 Next door opened by caster is thereafter as clear as glass
-3042 Next door opened by caster knocks him unconscious 
-3043 Next door opened by caster leads directly out of the universe
-3044 Next door opened by caster leads to a confessional booth
-3045 Next door opened by caster leads to a courtyard with no doors
-3046 Next door opened by caster leads to a distant crypt
-3047 Next door opened by caster leads to a distant mountaintop
-3048 Next door opened by caster leads to a distant ship on the ocean
-
 3049 Next door opened by caster leads to a dragon’s nest
 3050 Next door opened by caster leads to a dragon’s treasure horde
 3051 Next door opened by caster leads to a fabulous ballroom
