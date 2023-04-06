@@ -1,86 +1,3 @@
-3049 Next door opened by caster leads to a dragon’s nest
-3050 Next door opened by caster leads to a dragon’s treasure horde
-3051 Next door opened by caster leads to a fabulous ballroom
-3052 Next door opened by caster leads to a featureless desert
-3053 Next door opened by caster leads to a filthy and fetid stable
-3054 Next door opened by caster leads to a hidden oubliette
-3055 Next door opened by caster leads to a huge monster’s stomach
-3056 Next door opened by caster leads to a long-forgotten vault 
-3057 Next door opened by caster leads to a magical armory
-3058 Next door opened by caster leads to a meat locker 
-3059 Next door opened by caster leads to a modern bathroom
-3060 Next door opened by caster leads to a mysterious control room
-3061 Next door opened by caster leads to a room full of hourglasses
-3062 Next door opened by caster leads to a sacrificial altar
-3063 Next door opened by caster leads to a terrible misunderstanding
-3064 Next door opened by caster leads to a treasury of fabulous wealth
-3065 Next door opened by caster leads to a vast cornfield
-3066 Next door opened by caster leads to a vast magical library
-3067 Next door opened by caster leads to a vast, snow-swept plain
-3068 Next door opened by caster leads to a vault deep in a coal mine
-3069 Next door opened by caster leads to a warehouse full of candy
-3070 Next door opened by caster leads to all manner of confusion
-3071 Next door opened by caster leads to an enormous wine cellar
-3072 Next door opened by caster leads to an overflowing sewer
-3073 Next door opened by caster leads to another plane of existence 
-
-3074 Next door opened by caster leads to deep within a blazing forest
-3075 Next door opened by caster leads to goblin barracks
-3076 Next door opened by caster leads to his home
-3077 Next door opened by caster leads to interstellar space
-3078 Next door opened by caster leads to the basement of a brothel
-3079 Next door opened by caster leads to the bottom of the sea
-3080 Next door opened by caster leads to the center of a labyrinth
-3081 Next door opened by caster leads to the center of the universe
-3082 Next door opened by caster leads to the king’s linen closet
-3083 Next door opened by caster leads to the last door he opened
-3084 Next door opened by caster leads to the middle of a battlefield
-3085 Next door opened by caster leads to the mind of a famous actor
-3086 Next door opened by caster leads to the queen’s bedchamber
-3087 Next door opened by caster leads to the roof of that building
-3088 Next door opened by caster leads to the room that he just left
-3089 Next door opened by caster leads to the royal treasury
-3090 Next door opened by caster leads to the top of a distant volcano
-3091 Next door opened by caster leads to this location
-3092 Next door opened by caster leads to tomorrow but not back
-3093 Next door opened by caster leads to war between 1d4 nations
-3094 Next door opened by caster locks shut behind him
-3095 Next door opened by caster opens upon a sanity-damaging vista
-3096 Next door opened by caster plunges that room into total darkness
-3097 Next door opened by caster releases a cloud of choking smoke
-3098 Next door opened by caster restores him to full hit points
-3099 Next door opened by caster reveals a caterpillar smoking a hookah 
-3100 Next door opened by caster reveals a scene of horrid debauchery
-3101 Next door opened by caster reveals an unutterably foul monster
-3102 Next door opened by caster reveals Death on the opposite side
-3103 Next door opened by caster triggers a Chaos Burst
-3104 Next door opened by caster turns into a vault door of heavy steel
- 29
-3105 Next enemy to wound caster also Charms him
-3106 Next enemy to wound caster begins to resemble him
-3107 Next enemy to wound caster can’t harm him for 1d4 days thereafter
-3108 Next enemy to wound caster disarms himself and runs away
-3109 Next enemy to wound caster gains one level or hit die
-3110 Next enemy to wound caster heroically defends him for 1d4 turns
-3111 Next enemy to wound caster is attacked by vermin
-3112 Next enemy to wound caster is healed of any current damage
-3113 Next enemy to wound caster is heavily smeared with bacon grease
-3114 Next enemy to wound caster is himself restored to full hit points
-3115 Next enemy to wound caster is teleported to caster’s home
-3116 Next enemy to wound caster is teleported to his own home
-3117 Next enemy to wound caster is thrown 4d6 hours into the future
-3118 Next enemy to wound caster sinks into the ground to his knees
-3119 Next enemy to wound caster suffers an equivalent injury
-3120 Next enemy to wound caster then attacks his own allies
-3121 Next enemy wounded by caster becomes an ally for 1d6 rounds
-3122 Next enemy wounded by caster becomes ethereal for 4d6 hours
-3123 Next enemy wounded by caster becomes immune to fire
-3124 Next enemy wounded by caster becomes invisible to caster
-3125 Next enemy wounded by caster becomes king
-3126 Next enemy wounded by caster begins to age one year per round
-3127 Next enemy wounded by caster can no longer see the caster
-3128 Next enemy wounded by caster contracts some magical disease
-3129 Next enemy wounded by caster erupts into a cloud of angry wasps
 3130 Next enemy wounded by caster is attacked by feral cats
 3131 Next enemy wounded by caster is Healed
 3132 Next enemy wounded by caster is immune to magic for 2d4 rounds
@@ -106,6 +23,7 @@
 3152 Next horse ridden by caster sprouts horns like a bull
 3153 Next horse ridden by caster sprouts two additional pairs of legs
 3154 Next horse ridden by caster turns hollow and made of wood
+
 3155 Next horse ridden by caster turns into a cow
 3156 Next lycanthrope to attack caster is cured of lycanthropy
 3157 Next meal prepared by caster can’t be digested by mortals
@@ -131,6 +49,7 @@
 3177 Next permanent spell cast by caster fails in 1d4 rounds
 3178 Next permanent spell cast by caster functions only intermittently
 3179 Next person struck by caster’s magic becomes hopelessly drunk
+
 3180 Next person struck by caster’s magic goes insane for 2d4-1 days
 3181 Next person struck by caster’s magic is stricken blind and deaf
 3182 Next person to see caster’s reflection attacks him immediately
@@ -156,6 +75,7 @@
 3202 Next person to whom caster speaks is invisible to him until dawn
 3203 Next person to whom caster speaks is overcome by awful boredom
 3204 Next person to whom caster speaks is overcome by hunger
+
 3205 Next person to whom caster speaks is soaked with icy brine
 3206 Next person to whom caster speaks is stricken deaf for 2d4 rounds
 3207 Next person to whom caster speaks is stricken mute until sunset
