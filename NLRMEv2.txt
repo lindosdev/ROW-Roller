@@ -1,29 +1,3 @@
-3285 Next potion imbibed by caster makes him think that it’s poison
-3286 Next potion imbibed by caster makes his arms and legs invisible
-3287 Next potion imbibed by caster makes his face invisible
-3288 Next potion imbibed by caster makes his flesh invisible
-3289 Next potion imbibed by caster makes his hands and feet invisible
-3290 Next potion imbibed by caster makes immune to charm-like magic
-3291 Next potion imbibed by caster makes ink invisible to him
-3292 Next potion imbibed by caster makes undead invisible to him
-3293 Next potion imbibed by caster paralyzes his hands until sunset
-3294 Next potion imbibed by caster reduces him to one hit point
-3295 Next potion imbibed by caster restores him to full hit points 
-3296 Next potion imbibed by caster reveals any secret doors nearby
-3297 Next potion imbibed by caster rotates his feet 180 degrees
-3298 Next potion imbibed by caster sets his hair ablaze
-3299 Next potion imbibed by caster shrinks his hands by 50 percent
-3300 Next potion imbibed by caster snuffs all fires within one mile
-3301 Next potion imbibed by caster solidifies in his stomach
-3302 Next potion imbibed by caster strikes him bald for one year
-3303 Next potion imbibed by caster tastes like lamp oil
-3304 Next potion imbibed by caster teleports him to his home
-3305 Next potion imbibed by caster throws him 1d4 days into the future
-3306 Next potion imbibed by caster triggers a Chaos Burst
-3307 Next potion imbibed by caster turns him into 1d100 frogs
-3308 Next potion imbibed by caster turns him into a zombie until dawn
-3309 Next potion imbibed by caster turns him to vapor for 1d10 rounds
-
 3310 Next potion imbibed by caster turns his hands into feet
 3311 Next potion imbibed by caster turns his head to a cube
 3312 Next potion imbibed by caster turns his lips and tongue to steel
