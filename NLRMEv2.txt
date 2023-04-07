@@ -1,53 +1,3 @@
-3235 Next potion imbibed by caster has no effect whatsoever
-3236 Next potion imbibed by caster has only half its normal potency
-3237 Next potion imbibed by caster has the same effect as the last one
-3238 Next potion imbibed by caster hurls him 5d10 yards
-3239 Next potion imbibed by caster induces a fit of spastic coughing
-3240 Next potion imbibed by caster induces crazed religious fervor
-3241 Next potion imbibed by caster induces intense vertigo
-3242 Next potion imbibed by caster induces lycanthropy for 1d4 months
-3243 Next potion imbibed by caster induces pacifism
-3244 Next potion imbibed by caster induces phenomenal hallucinations
-3245 Next potion imbibed by caster induces temporary homicidal rage 
-3246 Next potion imbibed by caster induces uncharacteristic generosity
-3247 Next potion imbibed by caster inflicts an embarrassing ailment
-3248 Next potion imbibed by caster is  5 percent likely to kill him outright
-3249 Next potion imbibed by caster is 10 percent likely to last 1d10 years
-3250 Next potion imbibed by caster is actually a living thing
-3251 Next potion imbibed by caster is incredibly addictive
-3252 Next potion imbibed by caster is powerfully emetic
-3253 Next potion imbibed by caster is pure human blood 
-3254 Next potion imbibed by caster lasts only until he speaks
-3255 Next potion imbibed by caster makes foliage sprout from his head
-3256 Next potion imbibed by caster makes gold invisible to him
-3257 Next potion imbibed by caster makes him -4 to Save vs Fortitude
-3258 Next potion imbibed by caster makes him a terrific dancer
-3259 Next potion imbibed by caster makes him age one year per round
-3260 Next potion imbibed by caster makes him ambidextrous
-3261 Next potion imbibed by caster makes him blink like a neon sign
-3262 Next potion imbibed by caster makes him crave raw meat
-3263 Next potion imbibed by caster makes him forget his name
-3264 Next potion imbibed by caster makes him forget the past 24 hours
-3265 Next potion imbibed by caster makes him hate magic for 1d4 days
-3266 Next potion imbibed by caster makes him hate to answer questions
-3267 Next potion imbibed by caster makes him horrifyingly ugly
-3268 Next potion imbibed by caster makes him illiterate for 1d10 days
-3269 Next potion imbibed by caster makes him invisible for 1d6 turns
-3270 Next potion imbibed by caster makes him invisible to undead
-3271 Next potion imbibed by caster makes him levitate 1d10 yards
-3272 Next potion imbibed by caster makes him look 5d10 years older
-3273 Next potion imbibed by caster makes him look like an infant
-3274 Next potion imbibed by caster makes him lose 1d100 pounds
-3275 Next potion imbibed by caster makes him overwhelmingly beautiful
-3276 Next potion imbibed by caster makes him profoundly drunk
-3277 Next potion imbibed by caster makes him see fire all around him
-3278 Next potion imbibed by caster makes him seem far more charming
-3279 Next potion imbibed by caster makes him spin rapidly 1d100 times
-3280 Next potion imbibed by caster makes him sweat blood
-3281 Next potion imbibed by caster makes him think he doesn’t exist
-3282 Next potion imbibed by caster makes him think that he’s dead
-3283 Next potion imbibed by caster makes him think that he’s drowning
-3284 Next potion imbibed by caster makes him think that he’s invisible
 3285 Next potion imbibed by caster makes him think that it’s poison
 3286 Next potion imbibed by caster makes his arms and legs invisible
 3287 Next potion imbibed by caster makes his face invisible
@@ -73,6 +23,7 @@
 3307 Next potion imbibed by caster turns him into 1d100 frogs
 3308 Next potion imbibed by caster turns him into a zombie until dawn
 3309 Next potion imbibed by caster turns him to vapor for 1d10 rounds
+
 3310 Next potion imbibed by caster turns his hands into feet
 3311 Next potion imbibed by caster turns his head to a cube
 3312 Next potion imbibed by caster turns his lips and tongue to steel
@@ -98,6 +49,7 @@
 3332 Next spell caster casts on himself has the opposite effect
 3333 Next spell caster casts on himself persists for 1d4 days
 3334 Next spell caster casts on himself takes effect 1d4 days later
+
 3335 Next spell caster casts on himself works at 2X normal potency
 3336 Next spell to hit the caster also renders his head invisible
 3337 Next spell to hit the caster causes him to glow brightly
@@ -154,6 +106,7 @@
 3387 Once per day, caster can eliminate rust from one sword or helmet
 3388 Once per day, caster can locate the most valuable jewel nearby
 3389 Once per day, caster can locate the nearest holy symbol
+
 3390 Once per day, caster can locate the nearest locked door
 3391 Once per day, caster can locate the nearest potable alcohol
 3392 Once per day, caster can locate the nearest unrefined iron ore
@@ -179,6 +132,7 @@
 3412 Once per week, caster can create 1d20 gallons of salt water
 3413 Once per week, caster can disgorge an ice cube one foot on a side
 3414 Once per week, caster can freeze up to one gallon of water 
+
 3415 Once per week, caster can hold his breath for a full hour
 3416 Once per week, caster can ignore one fire-based spell cast at him
 3417 Once per week, caster can instantly snuff one campfire
@@ -204,6 +158,7 @@
 3437 Once per week, caster can turn one nearby magical blade invisible
 3438 Once per week, caster can untie one knot without touching it
 3439 Once per week, caster can walk on water, up to 5 yards per level
+
 3440 Once per week, caster must cast one damaging spell on himself
 3441 Once per week, caster throws a tantrum lasting 1d4 rounds
 3442 One of caster’s arms acquires malevolent intelligence
@@ -229,6 +184,7 @@
 3462 One of caster’s eyes bulges like a fish eye
 3463 One of caster’s eyes doubles in size
 3464 One of caster’s eyes doubles in size; the other shrinks by 50 percent
+
 3465 One of caster’s eyes glows with infernal radiance
 3466 One of caster’s feet disintegrates
 3467 One of caster’s feet is replaced by an off-balance wheel
@@ -285,6 +241,7 @@
 3517 Someone very dear to the caster is discovered to be undead
 3518 Something about the caster makes people suspect that he’s dying
 3519 Something about the caster makes people unlikely to trust him
+
 3520 Sometime in the next turn, the caster punches an ally in the nose
 3521 Sometime in the next turn, the caster races into a nearby forest
 3522 Spell works normally, but caster loses 1d4 spells from memory
@@ -310,6 +267,7 @@
 3542 The rear half of caster’s body appears to be made of glass
 3543 The rear half of caster’s body is invisible
 3544 The spell cast most recently upon caster is retroactively undone
+
 3545 The wreckage of a sunken warship appears in caster’s home
 3546 The wreckage of caster’s home is strewn across the countryside
 3547 Thick clouds of acrid steam issue from the ground near the caster
@@ -338,6 +296,7 @@
 3570 Tomorrow, caster finds a small pouch full of diamonds
 3571 Tomorrow, caster finds a small pouch full of scorpions
 3572 Tomorrow, caster finds a small pouch full of strong acid
+
 3573 Tomorrow, caster finds a small pouch full of teeth
 3574 Tomorrow, caster finds a tunnel that leads to his home
 3575 Tomorrow, caster finds a vial containing a viscous salve
@@ -363,6 +322,7 @@
 3595 Tomorrow, caster meets someone who can remove his skin at will
 3596 Tomorrow, caster meets someone who claims the caster killed him
 3597 Tomorrow, caster meets someone who claims to be haunting him
+
 3598 Tomorrow, caster meets someone who claims to be him
 3599 Tomorrow, caster meets someone who claims to be his father
 3600 Tomorrow, caster meets someone who claims to be his grandchild
