@@ -2,6 +2,11 @@
 
 '    Dice Roller for the Rod of Wonder, 
 '    based on "The Net Libram of Random Magical Effects version 2.00 By Orrex"
+'    https://docplayer.net/34065367-The-net-libram-random-magical-effects.html
+
+'    https://www.alteredgamer.com/diablo/3893-classic-game-guide-magical-shrines-and-their-effects-on-player-characters/
+'    https://roll20.net/compendium/dnd5e/Wand%20of%20Wonder#content
+'    https://www.dandwiki.com/wiki/SRD:Rod_of_Wonder    
 
 '    Copyright (c) 2023 by Gary J. Teixeira Jr.
 '    Permission is granted to copy. distribute and/or modify this program
