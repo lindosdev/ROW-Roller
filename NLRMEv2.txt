@@ -1,29 +1,3 @@
-3310 Next potion imbibed by caster turns his hands into feet
-3311 Next potion imbibed by caster turns his head to a cube
-3312 Next potion imbibed by caster turns his lips and tongue to steel
-3313 Next potion imbibed by caster turns his skeleton to steel
-3314 Next potion imbibed by caster turns his skin permanently orange
-3315 Next potion imbibed by caster turns his speech to gibberish
-3316 Next potion imbibed by caster works only during every other round
-3317 Next puddle stepped in by caster drains 1d10 hit points
-3318 Next puddle stepped in by caster freezes solid around his feet
-3319 Next puddle stepped in by caster ignites like gasoline
-3320 Next puddle stepped in by caster is charged with electricity
-3321 Next puddle stepped in by caster is full of piranha
-3322 Next puddle stepped in by caster is, to him, 10d10 feet deep 
-3323 Next puddle stepped in by caster makes him think he’s drowning
-3324 Next puddle stepped in by caster renders him briefly invulnerable
-3325 Next puddle stepped in by caster restores 1d10 hit points
-3326 Next puddle stepped in by caster soaks him from head to toe
-3327 Next puddle stepped in by caster teleports him to a puddle nearby
-3328 Next puddle stepped in by caster throws him 1d20 yards
-3329 Next puddle stepped in by caster turns to blood
-3330 Next spell caster casts on himself also affects someone nearby
-3331 Next spell caster casts on himself flares out of control
-3332 Next spell caster casts on himself has the opposite effect
-3333 Next spell caster casts on himself persists for 1d4 days
-3334 Next spell caster casts on himself takes effect 1d4 days later
-
 3335 Next spell caster casts on himself works at 2X normal potency
 3336 Next spell to hit the caster also renders his head invisible
 3337 Next spell to hit the caster causes him to glow brightly
