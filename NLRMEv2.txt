@@ -1,29 +1,3 @@
-3440 Once per week, caster must cast one damaging spell on himself
-3441 Once per week, caster throws a tantrum lasting 1d4 rounds
-3442 One of caster’s arms acquires malevolent intelligence
-3443 One of caster’s arms adopts the color and texture of brick
-3444 One of caster’s arms appears to be stripped of all flesh
-3445 One of caster’s arms becomes as limber as a snake
-3446 One of caster’s arms becomes undead
-3447 One of caster’s arms can be removed for up to 1d4 turns per day
-3448 One of caster’s arms can’t be cut by magical blades
-3449 One of caster’s arms disappears until sunset tomorrow
-3450 One of caster’s arms ignites
-3451 One of caster’s arms is as pale as an albino’s
-3452 One of caster’s arms is encased in a tight steel sheath
-3453 One of caster’s arms is impervious to magical cold
-3454 One of caster’s arms is only an illusion
-3455 One of caster’s arms is scarred as though badly burned by acid
-3456 One of caster’s arms now juts from the center of his chest
-3457 One of caster’s arms oozes fetid slime
-3458 One of caster’s arms resembles a small, gnarled branch
-3459 One of caster’s arms shrivels to a dry husk
-3460 One of caster’s arms sprouts dozens of tiny, ugly feelers
-3461 One of caster’s arms turns to solid silver
-3462 One of caster’s eyes bulges like a fish eye
-3463 One of caster’s eyes doubles in size
-3464 One of caster’s eyes doubles in size; the other shrinks by 50 percent
-
 3465 One of caster’s eyes glows with infernal radiance
 3466 One of caster’s feet disintegrates
 3467 One of caster’s feet is replaced by an off-balance wheel
