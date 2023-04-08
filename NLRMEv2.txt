@@ -1,22 +1,3 @@
-3465 One of caster’s eyes glows with infernal radiance
-3466 One of caster’s feet disintegrates
-3467 One of caster’s feet is replaced by an off-balance wheel
-3468 One of caster’s feet reforms into a perfect sphere
-3469 One of caster’s feet refuses to come anywhere near the other
-3470 One of caster’s hands doubles in size; the other shrinks by 50 percent
-3471 One of caster’s hands is as durable as steel
-3472 One of caster’s hands is green and scaly like a lizard’s claw
-3473 One of caster’s hands is susceptible to rust
-3474 One of caster’s hands turns into an eagle’s talon
-3475 One of caster’s knees locks whenever nimble footwork is required
-3476 One of caster’s pockets accesses a small box in his home
-3477 One side of caster’s body adopts a mirror-bright sheen
-3478 One side of caster’s body ages 2X as fast as the other
-3479 One side of caster’s body appears to be naked by firelight
-3480 One side of caster’s body changes color each hour
-3481 One side of caster’s body is as hairy as an ape
-3482 One side of caster’s body is blurred as if seen through ice
-3483 One side of caster’s body is immune to magic cast by him
 3484 One side of caster’s body is immune to normal missiles
 3485 One side of caster’s body is invulnerable to fire
 3486 One side of caster’s body is paralyzed for 1d4 rounds
