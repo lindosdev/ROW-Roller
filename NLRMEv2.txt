@@ -1,34 +1,3 @@
-3335 Next spell caster casts on himself works at 2X normal potency
-3336 Next spell to hit the caster also renders his head invisible
-3337 Next spell to hit the caster causes him to glow brightly
-3338 Next spell to hit the caster leaves him hideously scarred
-3339 Next spell to hit the caster likewise affects whoever cast it
-3340 Next spell to hit the caster renders him blind for its duration
-3341 Next spell to hit the caster takes effect 4d6 hours later
-3342 Next successful attack upon caster hits a bystander instead
-3343 Next successful attack upon caster knocks him unconscious
-3344 Next sword that wounds caster acquires a permanent +2 bonus
-3345 Next sword that wounds caster heals him for 1d10 hit points
-3346 Next sword that wounds caster heats to 10d100 degrees
-3347 Next sword that wounds caster is totally rusted by dawn tomorrow
-3348 Next sword that wounds caster likewise wounds its wielder
-3349 Next sword that wounds caster mimics his personality thereafter
-3350 Next sword that wounds caster must Save or disintegrate
-3351 Next sword that wounds caster then ignites and burns like paper
-3352 Next sword that wounds caster turns to gold
-3353 Next sword that wounds caster vanishes for 1d8 days
-3354 Next sword that wounds caster was coated with deadly venom
-3355 Next sword touched by caster gains a +1 ToHit bonus for 4d6 days
-3356 Next sword touched by caster turns into a crescent wrench
-3357 Next time caster’s restored to full hit points, he shrinks by 50 percent
-3358 Next tree touched by caster animates and attacks everyone nearby
-3359 Next tree touched by caster crumbles to ash in minutes
-3360 Next wound inflicted by caster can’t heal without magic
-3361 Next wound inflicted upon caster can’t be healed magically
-3362 No animal will allow the caster to ride it
-3363 No matter how far the caster travels today, he winds up here
-3364 No more than 60 percent of caster’s body can become invisible at a time
- 31
 3365 No one now within 10 yards of caster can harm him until dawn
 3366 No one within 100 miles trusts caster enough to lend him money
 3367 Non-humanoid mammals are invisible to caster
