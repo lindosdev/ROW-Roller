@@ -3,7 +3,7 @@
 '    Dice Roller for the Rod of Wonder, 
 '    based on "The Net Libram of Random Magical Effects version 2.00 By Orrex"
 '    https://docplayer.net/34065367-The-net-libram-random-magical-effects.html
-
+'    and:
 '    https://www.alteredgamer.com/diablo/3893-classic-game-guide-magical-shrines-and-their-effects-on-player-characters/
 '    https://roll20.net/compendium/dnd5e/Wand%20of%20Wonder#content
 '    https://www.dandwiki.com/wiki/SRD:Rod_of_Wonder    
@@ -6721,6 +6721,56 @@ Text1.Text = "Next potion imbibed by caster turns him into 1d100 frogs"
 Text1.Text = "Next potion imbibed by caster turns him into a zombie until dawn"
     ElseIf (Label1.Caption = 3309) Then
 Text1.Text = "Next potion imbibed by caster turns him to vapor for 1d10 rounds"
+    ElseIf (Label1.Caption = 3310) Then
+Text1.Text = "Next potion imbibed by caster turns his hands into feet"
+    ElseIf (Label1.Caption = 3311) Then
+Text1.Text = "Next potion imbibed by caster turns his head to a cube"
+    ElseIf (Label1.Caption = 3312) Then
+Text1.Text = "Next potion imbibed by caster turns his lips and tongue to steel"
+    ElseIf (Label1.Caption = 3313) Then
+Text1.Text = "Next potion imbibed by caster turns his skeleton to steel"
+    ElseIf (Label1.Caption = 3314) Then
+Text1.Text = "Next potion imbibed by caster turns his skin permanently orange"
+    ElseIf (Label1.Caption = 3315) Then
+Text1.Text = "Next potion imbibed by caster turns his speech to gibberish"
+    ElseIf (Label1.Caption = 3316) Then
+Text1.Text = "Next potion imbibed by caster works only during every other round"
+    ElseIf (Label1.Caption = 3317) Then
+Text1.Text = "Next puddle stepped in by caster drains 1d10 hit points"
+    ElseIf (Label1.Caption = 3318) Then
+Text1.Text = "Next puddle stepped in by caster freezes solid around his feet"
+    ElseIf (Label1.Caption = 3319) Then
+Text1.Text = "Next puddle stepped in by caster ignites like gasoline"
+    ElseIf (Label1.Caption = 3320) Then
+Text1.Text = "Next puddle stepped in by caster is charged with electricity"
+    ElseIf (Label1.Caption = 3321) Then
+Text1.Text = "Next puddle stepped in by caster is full of piranha"
+    ElseIf (Label1.Caption = 3322) Then
+Text1.Text = "Next puddle stepped in by caster is, to him, 10d10 feet deep"
+    ElseIf (Label1.Caption = 3323) Then
+Text1.Text = "Next puddle stepped in by caster makes him think he’s drowning"
+    ElseIf (Label1.Caption = 3324) Then
+Text1.Text = "Next puddle stepped in by caster renders him briefly invulnerable"
+    ElseIf (Label1.Caption = 3325) Then
+Text1.Text = "Next puddle stepped in by caster restores 1d10 hit points"
+    ElseIf (Label1.Caption = 3326) Then
+Text1.Text = "Next puddle stepped in by caster soaks him from head to toe"
+    ElseIf (Label1.Caption = 3327) Then
+Text1.Text = "Next puddle stepped in by caster teleports him to a puddle nearby"
+    ElseIf (Label1.Caption = 3328) Then
+Text1.Text = "Next puddle stepped in by caster throws him 1d20 yards"
+    ElseIf (Label1.Caption = 3329) Then
+Text1.Text = "Next puddle stepped in by caster turns to blood"
+    ElseIf (Label1.Caption = 3330) Then
+Text1.Text = "Next spell caster casts on himself also affects someone nearby"
+    ElseIf (Label1.Caption = 3331) Then
+Text1.Text = "Next spell caster casts on himself flares out of control"
+    ElseIf (Label1.Caption = 3332) Then
+Text1.Text = "Next spell caster casts on himself has the opposite effect"
+    ElseIf (Label1.Caption = 3333) Then
+Text1.Text = "Next spell caster casts on himself persists for 1d4 days"
+    ElseIf (Label1.Caption = 3334) Then
+Text1.Text = "Next spell caster casts on himself takes effect 1d4 days later"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
