@@ -1,29 +1,3 @@
-3365 No one now within 10 yards of caster can harm him until dawn
-3366 No one within 100 miles trusts caster enough to lend him money
-3367 Non-humanoid mammals are invisible to caster
-3368 Non-humanoid mammals react badly to the caster for 1d10 days
-3369 Non-magical blades inflict bludgeoning damage upon caster
-3370 Non-magical rodents are invisible to the caster
-3371 Objects are more resistant to fire while caster carries them
-3372 Objects handled by caster can’t be made invisible for one year
-3373 Objects placed in caster’s pockets freeze solid in minutes
-3374 On a successful attack roll, caster must Save or drop his weapon
-3375 On any given day, caster’s left foot is 50 percent likely to be ethereal
-3376 On any successful attack roll, caster is still 10 percent likely to fail
-3377 Once per day, caster can cause himself to age 1d10 years
-3378 Once per day, caster can cause his shoes or boots to vanish
-3379 Once per day, caster can cause his spellbook to ignite
-3380 Once per day, caster can cause one flash of lightning overhead
-3381 Once per day, caster can cause one person to lie to him
-3382 Once per day, caster can cause ten pounds of ice to melt rapidly
-3383 Once per day, caster can create one loosely-packed snowball
-3384 Once per day, caster can create up to one pound of cheese
-3385 Once per day, caster can discern True North with 100 percent accuracy
-3386 Once per day, caster can dry a soaking wet, shirt-sized garment 
-3387 Once per day, caster can eliminate rust from one sword or helmet
-3388 Once per day, caster can locate the most valuable jewel nearby
-3389 Once per day, caster can locate the nearest holy symbol
-
 3390 Once per day, caster can locate the nearest locked door
 3391 Once per day, caster can locate the nearest potable alcohol
 3392 Once per day, caster can locate the nearest unrefined iron ore
