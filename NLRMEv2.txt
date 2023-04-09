@@ -23,6 +23,7 @@
 3647 Tomorrow, caster wakes to find that 1d4 days have passed
 3648 Tomorrow, caster wakes unable to stand until he casts a spell
 3649 Tomorrow, caster wakes where he awoke this morning
+
 3650 Tomorrow, caster wakes with a mouthful of mud from a cemetery
 3651 Tomorrow, caster wakes with mysterious tattoos all over his body
 3652 Tomorrow, caster wakes with no memory of the previous day
@@ -48,6 +49,7 @@
 3672 When caster dies, he’s discovered to have died centuries ago
 3673 When caster dies, he’s found to have been remotely controlled
 3674 When caster dies, he’s quickly impersonated by a doppelganger
+
 3675 When caster dies, his allies deny that they ever knew him
 3676 When caster dies, his corpse appears riddled by gunfire
 3677 When caster dies, his corpse attacks the nearest Elf 
@@ -73,6 +75,7 @@
 3697 When caster dies, his veins are discovered to be filled with gold
 3698 When caster dies, some random person nearby dies as well
 3699 When caster dies, the first person to touch his corpse also dies 
+
 3700 When caster dies, the nearest town is evacuated
 3701 When caster dies, the nearest tree falls on his corpse
 3702 When caster dies, the sky turns blood red for 2d4-1 days
@@ -98,6 +101,7 @@
 3722 When caster next casts this spell, his clothing attacks him
 3723 When caster next casts this spell, his clothing freezes solid
 3724 When caster next casts this spell, his clothing turns to cheese
+
 3725 When caster next casts this spell, the winter solstice occurs
 3726 When caster next draws blood, a large pit opens beneath him
 3727 When caster next draws blood, he disgorges 1d10 gallons of blood
@@ -152,6 +156,7 @@
 3775 When caster next enters a lake, it drains dry in 1d4 rounds
 3776 When caster next enters a lake, it turns from fresh to salt-water
 3777 When caster next enters a lake, it’s covered by two inches of ice
+
 3778 When caster next enters a lake, it’s heavily stocked with trout
 3779 When caster next enters a lake, night falls immediately
 3780 When caster next enters a lake, someone nearby starts to drown
@@ -177,6 +182,7 @@
 3800 When caster next enters his home, 1d4 exterior walls vanish
 3801 When caster next enters his home, 1d4 weeks pass in 1d4 rounds
 3802 When caster next enters his home, a small hill rises beneath it
+
 3803 When caster next enters his home, any curses upon him are lifted
 3804 When caster next enters his home, he ages 1d10 years
 3805 When caster next enters his home, he ages 1d10 years
@@ -205,6 +211,7 @@
 3828 When caster next enters his home, he’s visited by three ghosts
 3829 When caster next enters his home, his age is reduced by 3d4 years
 3830 When caster next enters his home, his bed combusts violently
+
 3831 When caster next enters his home, his clothes burst into flame
 3832 When caster next enters his home, his clothes turn to stone
 3833 When caster next enters his home, it becomes indestructible
@@ -230,6 +237,7 @@
 3853 When caster next enters his home, someone’s eaten his porridge
 3854 When caster next enters his home, the doors and windows fuse shut
 3855 When caster next enters his home, the floor vanishes
+
 3856 When caster next enters his home, the magistrate condemns it
 3857 When caster next enters his home, the roof ignites
 3858 When caster next kills someone, he appears in that person’s home
@@ -286,6 +294,7 @@
 3908 When caster teleports, he arrives with half of his gear missing
 3909 When caster teleports, only 95 percent + 1d10 percent of his body is teleported
 3910 When caster tells a falsehood, he confesses it to everyone nearby
+
 3911 When caster uses Mirror Image, 10X the number of Images appear
 3912 When caster uses Mirror Image, he can’t tell which image is real
 3913 When caster uses Mirror Image, the Images look like demons
@@ -311,6 +320,7 @@
 3933 When reduced to one hit point, caster teleports 2d20 yards 
 3934 When reduced to one hit point, caster teleports to his home
 3935 When reduced to one hit point, caster turns invisible until dawn
+
 3936 When reduced to one hit point, caster turns to iron until sunset
 3937 When seen from behind, caster appears to be bleeding profusely
 3938 When seen from behind, caster appears to be on fire
@@ -336,6 +346,7 @@
 3958 Whenever caster casts a spell, he hears the laments of the damned 
 3959 Whenever caster casts a spell, he must Save or be knocked down
 3960 Whenever caster casts a spell, he must Save or shrink by 20 percent
+
 3961 Whenever caster casts a spell, he suffers crippling stage fright
 3962 Whenever caster casts a spell, he thinks that he ages 1d10 years 
 3963 Whenever caster casts a spell, he whistles like a teapot 
@@ -361,6 +372,7 @@
 3983 While caster sleeps, his head appears detached from his body 
 3984 While caster sleeps, his head retracts into his body 
 3985 While caster sleeps, his whole body contracts into a small ball 
+
 3986 While caster sleeps, luminous moths flutter over his body
 3987 While caster sleeps, mysterious runes hover over his head
 3988 While caster sleeps, rodents bring him sacrificial offerings
@@ -417,6 +429,7 @@
 4038 Any blade hitting target for maximum damage is briefly weightless
 4039 Any blade hitting target for maximum damage must Save or shatter
 4040 Any blade hitting target for maximum damage rapidly corrodes 
+
 4041 Any blade hitting target for maximum damage turns clear as glass
 4042 Any blade hitting target for maximum damage turns to gold
 4043 Any blade hitting target for maximum damage vanishes until sunset
@@ -441,6 +454,7 @@
 4062 Any gold now carried by target combusts like tinder
 4063 Any jewelry that target is wearing heats to 500 degrees
 4064 Any magic items carried by the target glow like embers until dawn
+
 4065 Any metal now in target’s possession becomes intensely magnetic
 4066 Any metal now in target’s possession heats to its melting point
 4067 Any metal now in target’s possession is as fragile as glass
@@ -466,6 +480,7 @@
 4087 Any missiles fired at target instantly sprout wings and fly away
 4088 Any missiles fired at target leave colorful trails in the air
 4089 Any missiles fired at target sound like thunder when they hit
+
 4090 Any missiles fired at target turn invisible if they hit him
 4091 Any missiles fired near target orbit him like satellites
 4092 Any missiles fired near target shriek as they fly through the air
@@ -492,6 +507,7 @@
 4113 Any part of target now covered by clothing is forever invisible
 4114 Any part of target now covered by clothing is hideously scarred
 4115 Any spells cast in target’s presence seem to originate from him
+
 4116 Any successful attack on target is  2 percent likely to kill him 
 4117 Any successful attack on target is 10 percent likely to fail outright
 4118 Any successful attack on target will leave hideous scars
