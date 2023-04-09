@@ -1,29 +1,3 @@
-3495 Powerful jets of air blow from the caster’s ears
-3496 Predators react to the caster as if he were a small rabbit
-3497 Railroad tracks run straight from here to the caster’s home
-3498 Rapturous shrieks fill the air when caster removes a hat
-3499 Raw meat is invisible to the caster
-3500 Right now, caster can teleport up to 1d10 miles one time
-3501 Rocks and boulders express a vague fondness for the caster
-3502 Rope breaks 2X as readily while the caster is using it
-3503 Rope is 2X as strong while the caster is using it
-3504 Scavengers and carrion birds react to caster as if he were dead
-3505 Short, bony spikes sprout from caster’s knuckles
-3506 Small objects carried by caster seem 10X as heavy to him
-3507 Smoke billows from the caster’s head as from a coal chimney
-3508 Some deity has a personal vendetta against the caster
-3509 Some deity takes a personal interest in the caster’s life
-3510 Some subterranean race annexes caster’s home 
-3511 Some subterranean race declares a holy war against the caster
-3512 Some subterranean race declares that the caster is one of them
-3513 Some subterranean race declares the caster its patron saint
-3514 Some unseen entity wipes the smile off of the caster’s face 
-3515 Someone nearby vanishes; in 2d6 rounds the caster disgorges him
-3516 Someone very dear to the caster doesn’t really exist
-3517 Someone very dear to the caster is discovered to be undead
-3518 Something about the caster makes people suspect that he’s dying
-3519 Something about the caster makes people unlikely to trust him
-
 3520 Sometime in the next turn, the caster punches an ally in the nose
 3521 Sometime in the next turn, the caster races into a nearby forest
 3522 Spell works normally, but caster loses 1d4 spells from memory
