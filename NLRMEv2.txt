@@ -1,32 +1,3 @@
-3545 The wreckage of a sunken warship appears in caster’s home
-3546 The wreckage of caster’s home is strewn across the countryside
-3547 Thick clouds of acrid steam issue from the ground near the caster
-3548 Thick clouds of steam constantly billow from the caster’s skin 
-3549 Thunder rumbles overhead whenever caster’s blood is spilled
-3550 To the caster, everyone appears to be sweating profusely
-3551 To the caster, everyone looks and sounds exactly like him
-3552 To the caster, everyone looks and sounds exactly like him
-3553 To the caster, everyone smells like a rotting corpse
-3554 To the caster, the weather always appears overcast and gloomy
-3555 To the caster, the weather always appears to be the same
-3556 Tomorrow, caster can speak all languages until noon
-3557 Tomorrow, caster can speak only a bizarre, esoteric language
-3558 Tomorrow, caster can’t be injured by magical weapons until sunset
-3559 Tomorrow, caster finds 1d100 statues of himself in hideous poses
-3560 Tomorrow, caster finds a book detailing his complete dissection
-3561 Tomorrow, caster finds a jar containing 1d20 tiny elephants
-3562 Tomorrow, caster finds a key to a lock that doesn’t yet exist
-3563 Tomorrow, caster finds a key to that mysterious door in his home
-3564 Tomorrow, caster finds a lab holding many lifeless clones of him
-3565 Tomorrow, caster finds a legendary sword and loses it the next day
-3566 Tomorrow, caster finds a piece of anachronistic technology
-3567 Tomorrow, caster finds a ruby as large as his head
-3568 Tomorrow, caster finds a secret Gate to the Astral Plane
-3569 Tomorrow, caster finds a small pouch full of counterfeit rubies
-3570 Tomorrow, caster finds a small pouch full of diamonds
-3571 Tomorrow, caster finds a small pouch full of scorpions
-3572 Tomorrow, caster finds a small pouch full of strong acid
-
 3573 Tomorrow, caster finds a small pouch full of teeth
 3574 Tomorrow, caster finds a tunnel that leads to his home
 3575 Tomorrow, caster finds a vial containing a viscous salve
