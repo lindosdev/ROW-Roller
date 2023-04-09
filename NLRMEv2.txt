@@ -1,29 +1,3 @@
-3520 Sometime in the next turn, the caster punches an ally in the nose
-3521 Sometime in the next turn, the caster races into a nearby forest
-3522 Spell works normally, but caster loses 1d4 spells from memory
-3523 Spell works normally; next casting automatically causes a Burst
-3524 The bones of caster’s arms and legs can’t be broken
-3525 The clothes caster is wearing makes him dangerous overconfident
-3526 The clothes caster is wearing makes him feel intensely cold
-3527 The Fireball spell won’t function within 100 yards of caster
-3528 The ground beneath caster’s feet flows like water for 1d4 rounds
-3529 The ground beneath caster’s feet is alive for 1d4 hours
-3530 The ground beneath caster’s feet sinks a depth 2X his height
-3531 The ground beneath caster’s feet swirls like a whirlpool 
-3532 The ground beneath caster’s feet turns to living human flesh
-3533 The left and right sides of caster’s body hate each other
-3534 The next spell used against caster automatically fails
-3535 The pages of caster’s spellbook are indestructible 
-3536 The pages of caster’s spellbook are invisible; ink on them is not
-3537 The pages of caster’s spellbook are replaced with gold leaf
-3538 The pages of caster’s spellbook flap as though in a strong breeze
-3539 The pages of caster’s spellbook turn to thin sheets of bacon
-3540 The pages of caster’s spellbook turn to thin sheets of steel
-3541 The presence of undead causes caster to giggle like a fool
-3542 The rear half of caster’s body appears to be made of glass
-3543 The rear half of caster’s body is invisible
-3544 The spell cast most recently upon caster is retroactively undone
-
 3545 The wreckage of a sunken warship appears in caster’s home
 3546 The wreckage of caster’s home is strewn across the countryside
 3547 Thick clouds of acrid steam issue from the ground near the caster
