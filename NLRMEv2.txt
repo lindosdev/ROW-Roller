@@ -1,29 +1,3 @@
-3573 Tomorrow, caster finds a small pouch full of teeth
-3574 Tomorrow, caster finds a tunnel that leads to his home
-3575 Tomorrow, caster finds a vial containing a viscous salve
-3576 Tomorrow, caster finds his own badly-decomposed corpse
-3577 Tomorrow, caster finds what looks like his own severed head 
-3578 Tomorrow, caster forms an alliance with a long-hated enemy
-3579 Tomorrow, caster has absolutely no desire to use magic
-3580 Tomorrow, caster is unable to cast magic before noon
-3581 Tomorrow, caster meets a priest who places a Geas upon him
-3582 Tomorrow, caster meets an immortal desperate and unable to die
-3583 Tomorrow, caster meets and insults the avatar of some deity
-3584 Tomorrow, caster meets his long-lost and malevolent twin
-3585 Tomorrow, caster meets his mentor, who expresses disapproval
-3586 Tomorrow, caster meets someone claiming to have sold the world
-3587 Tomorrow, caster meets someone claiming to own the caster’s soul
-3588 Tomorrow, caster meets someone convinced that he doesn’t exist
-3589 Tomorrow, caster meets someone desperate to be his bodyguard
-3590 Tomorrow, caster meets someone desperate to become the caster
-3591 Tomorrow, caster meets someone on the verge of becoming a god
-3592 Tomorrow, caster meets someone who calls humans a delicacy
-3593 Tomorrow, caster meets someone who can command demons
-3594 Tomorrow, caster meets someone who can remove his own heart
-3595 Tomorrow, caster meets someone who can remove his skin at will
-3596 Tomorrow, caster meets someone who claims the caster killed him
-3597 Tomorrow, caster meets someone who claims to be haunting him
-
 3598 Tomorrow, caster meets someone who claims to be him
 3599 Tomorrow, caster meets someone who claims to be his father
 3600 Tomorrow, caster meets someone who claims to be his grandchild
