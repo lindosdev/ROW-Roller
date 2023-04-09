@@ -1,31 +1,3 @@
-3598 Tomorrow, caster meets someone who claims to be him
-3599 Tomorrow, caster meets someone who claims to be his father
-3600 Tomorrow, caster meets someone who claims to be his grandchild
-3601 Tomorrow, caster meets someone who foretells a bleak fate for him
-3602 Tomorrow, caster meets someone who has vowed to murder him
-3603 Tomorrow, caster meets someone who names the caster his heir
-3604 Tomorrow, caster meets someone who offers him his firstborn son
-3605 Tomorrow, caster meets someone who offers to sell him an artifact
-3606 Tomorrow, caster meets someone who owes him a lot of money
-3607 Tomorrow, caster meets someone who tries to eat his eyes
-3608 Tomorrow, caster meets someone who wants to buy his pancreas
-3609 Tomorrow, caster meets someone who’s 100 percent immune to magic
-3610 Tomorrow, caster meets someone who’s plotting to kill the king
-3611 Tomorrow, caster meets someone whom caster knows to be dead
-3612 Tomorrow, caster meets someone whom he owes a lot of money
-3613 Tomorrow, caster meets someone whose existence is impossible
-3614 Tomorrow, caster meets someone with the secret of immortality
-3615 Tomorrow, caster meets the alchemist who created him
-3616 Tomorrow, caster must Save vs Will once per hour or combust
-3617 Tomorrow, caster saves the life of a notorious villain
-3618 Tomorrow, caster saves the life of someone important
-3619 Tomorrow, caster saves the life whom fate has decreed must die
-3620 Tomorrow, caster thinks he’s awakened from a centuries-long sleep
-3621 Tomorrow, caster thinks that magic no longer functions
-3622 Tomorrow, caster uncovers a well-funded plot against his life
-3623 Tomorrow, caster unknowingly snubs a powerful spellcaster
-3624 Tomorrow, caster vanishes at dawn and reappears at sunset
- 33
 3625 Tomorrow, caster wakes 2d10 miles from where he fell asleep
 3626 Tomorrow, caster wakes and gives apparently divine prophecy
 3627 Tomorrow, caster wakes as if he’s spent a month in the desert
