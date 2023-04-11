@@ -1,33 +1,3 @@
-3986 While caster sleeps, luminous moths flutter over his body
-3987 While caster sleeps, mysterious runes hover over his head
-3988 While caster sleeps, rodents bring him sacrificial offerings
-3989 While caster sleeps, thousands of insects swarm over his body 
-3990 While indoors, caster appears to be 5 percent larger
-3991 While indoors, caster feels as if he’s dragging heavy chains
-3992 While indoors, caster feels as if he’s in a blazing desert
-3993 While indoors, caster feels as if he’s on a ship’s deck
-3994 While indoors, caster feels as if he’s on windswept tundra
-3995 While standing on a riverbank, caster is invisible to amphibians
-3996 While walking, caster sounds as if he’s wearing full plate armor
-3997 Woodland creatures openly mock the caster and call him a coward 
-3998 Woodland creatures react to the caster as if he’s one of them
-3999 Woodland creatures react violently to the caster’s presence
-4000 Zombies can’t come within 10 feet of the caster for 1d4 days
-4001 1d8 of target’s fingers reappear elsewhere on his body
-4002 A handful of small glass marbles tumble from the target’s nose
-4003 A heavy chain runs the entire length of target’s alimentary canal
-4004 A nearby but invisible heckler pummels the target with tomatoes
-4005 A nearby tree animates and swears allegiance to the target
-4006 A nearby tree becomes ravenously carnivorous and attacks target
-4007 A nearby tree bends down and hurls the target like a catapult
-4008 A nearby tree sprays its bark at the target, briefly blinding him
-4009 A second, identical skeleton appears in the target’s body
-4010 A small fire blazes harmlessly in the target’s mouth
-4011 A tall picket fence encircles the target
-4012 A tentacle slithers from a nearby cave to grasp the target
-4013 A vital organ is ripped from target’s body for 1d100 damage
-4014 All of target’s belongings are compressed into a tiny cube nearby
- 36
 4015 All of target’s belongings are seized by the local magistrate
 4016 All of target’s belongings are transported beyond the horizon
 4017 All of target’s belongings were stolen by a vengeful wizard
