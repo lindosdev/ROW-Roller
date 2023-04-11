@@ -1,31 +1,3 @@
-3885 When caster next uses magic, he teleports 10d10 yards randomly
-3886 When caster next uses magic, he teleports into a nearby building
-3887 When caster next uses magic, he thinks that he’s at death’s door
-3888 When caster next uses magic, he’s  5 percent likely to lose one level
-3889 When caster next uses magic, he’s 10 percent likely to die outright
-3890 When caster next uses magic, he’s shunned by other magic users
-3891 When caster next uses magic, he’s thrown back to this moment
-3892 When caster next uses magic, his clone appears nearby
-3893 When caster next uses magic, his clone teleports to his home
-3894 When caster next uses magic, his clothes turn to paper
-3895 When caster next uses magic, his hands double in size
-3896 When caster next uses magic, his hands freeze solid 
-3897 When caster next uses magic, his nearest ally falls unconscious
-3898 When caster next wears a hat, he’s targeted for assassination
-3899 When caster opens his spellbook, he’s shrouded by darkness 
-3900 When caster opens his spellbook, thunder rumbles overhead 
-3901 When caster teleports, he arrives 1d4 miles from the destination
-3902 When caster teleports, he arrives 2d4 hours later than expected
-3903 When caster teleports, he arrives blinded for 1d6 rounds
-3904 When caster teleports, he arrives in an embarrassing posture
-3905 When caster teleports, he arrives invisible 
-3906 When caster teleports, he arrives ravenously hungry
-3907 When caster teleports, he arrives upside down
-3908 When caster teleports, he arrives with half of his gear missing
-3909 When caster teleports, only 95 percent + 1d10 percent of his body is teleported
-3910 When caster tells a falsehood, he confesses it to everyone nearby
-
-3911 When caster uses Mirror Image, 10X the number of Images appear
 3912 When caster uses Mirror Image, he can’t tell which image is real
 3913 When caster uses Mirror Image, the Images look like demons
 3914 When caster uses Mirror Image, the Images look like infants
