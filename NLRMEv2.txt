@@ -1,32 +1,3 @@
-3857 When caster next enters his home, the roof ignites
-3858 When caster next kills someone, he appears in that person’s home
-3859 When caster next kills someone, he must Save vs Fortitude or die
-3860 When caster next kills someone, that person quickly resurrects
-3861 When caster next opens his spellbook, he’s attacked by a shark 
-3862 When caster next says his name, 2d6 fish leap from his mouth
-3863 When caster next says his name, a bird flies into his mouth
-3864 When caster next says his name, he learns it’s not his real name
-3865 When caster next says his name, he promptly forgets his name
-3866 When caster next says his name, his mouth is sealed shut
-3867 When caster next teleports, he arrives bound and gagged
-3868 When caster next teleports, he arrives fully Healed
-3869 When caster next touches money, he triggers a Chaos Burst
-3870 When caster next triggers a Burst, he teleports to this location
-3871 When caster next triggers a Burst, its effect is irreversible
-3872 When caster next uses magic, 2d4 zombies appear and attack him
-3873 When caster next uses magic, all vegetation within 10 yards dies
-3874 When caster next uses magic, all within one mile know about it
-3875 When caster next uses magic, an ice statue of him appears nearby
-3876 When caster next uses magic, any gold he’s carrying vanishes
-3877 When caster next uses magic, cold water sprays from his ears
-3878 When caster next uses magic, he and his allies are drenched
-3879 When caster next uses magic, he becomes drunk for 1d4 hours
-3880 When caster next uses magic, he becomes invisible to his allies
-3881 When caster next uses magic, he disgorges 2d6 large clay bricks
-3882 When caster next uses magic, he loses 3d4 hit points
-3883 When caster next uses magic, he must Save or fall unconscious
-3884 When caster next uses magic, he reeks of sulfur for 1d10 hours 
- 35
 3885 When caster next uses magic, he teleports 10d10 yards randomly
 3886 When caster next uses magic, he teleports into a nearby building
 3887 When caster next uses magic, he thinks that he’s at death’s door
