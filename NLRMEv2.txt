@@ -1,29 +1,3 @@
-3936 When reduced to one hit point, caster turns to iron until sunset
-3937 When seen from behind, caster appears to be bleeding profusely
-3938 When seen from behind, caster appears to be on fire
-3939 When seen from behind, caster’s torso is riddled with large holes
-3940 When struck by magic, caster briefly appears to be made of chrome
-3941 When struck by magic, caster briefly appears to be made of wood
-3942 When struck by magic, caster feels the urge to reveal a secret
-3943 When struck by magic, caster flies into a berserker rage
-3944 When struck by magic, caster is 10 percent likely to be caked in grime
-3945 When struck by magic, caster is covered by ashes and soot
-3946 When struck by magic, caster sings raucous songs for 1d4 rounds
-3947 When struck by magic, caster temporarily inflates like a balloon
-3948 Whenever caster casts a spell, a spotlight illuminates him
-3949 Whenever caster casts a spell, an invisible bronze gong is rung 
-3950 Whenever caster casts a spell, electricity crackles in his hair 
-3951 Whenever caster casts a spell, ghostly laughter echoes in the air
-3952 Whenever caster casts a spell, he appears to explode 
-3953 Whenever caster casts a spell, he becomes light as a feather 
-3954 Whenever caster casts a spell, he experiences profound remorse 
-3955 Whenever caster casts a spell, he feels overwhelming euphoria
-3956 Whenever caster casts a spell, he hears glass breaking everywhere
-3957 Whenever caster casts a spell, he hears loud, discordant music 
-3958 Whenever caster casts a spell, he hears the laments of the damned 
-3959 Whenever caster casts a spell, he must Save or be knocked down
-3960 Whenever caster casts a spell, he must Save or shrink by 20 percent
-
 3961 Whenever caster casts a spell, he suffers crippling stage fright
 3962 Whenever caster casts a spell, he thinks that he ages 1d10 years 
 3963 Whenever caster casts a spell, he whistles like a teapot 
