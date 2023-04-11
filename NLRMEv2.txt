@@ -1,29 +1,3 @@
-3961 Whenever caster casts a spell, he suffers crippling stage fright
-3962 Whenever caster casts a spell, he thinks that he ages 1d10 years 
-3963 Whenever caster casts a spell, he whistles like a teapot 
-3964 Whenever caster casts a spell, he’s 10 percent likely to pass out 
-3965 Whenever caster casts a spell, he’s haunted by cryptic warnings
-3966 Whenever caster casts a spell, his bones glow visibly in his body
-3967 Whenever caster casts a spell, his clothes are glazed with frost
-3968 Whenever caster casts a spell, his ears shine like the sun 
-3969 Whenever caster casts a spell, his feet swell by 10 percent 
-3970 Whenever caster casts a spell, his spellbook must Save or combust
-3971 Whenever caster casts a spell, one of his hands grows by 25 percent 
-3972 Whenever caster casts a spell, someone far away vows to kill him
-3973 Wherever caster walks, he sounds like he’s on a squeaky floor
-3974 While caster is invisible, a faint outline can still be seen
-3975 While caster sleeps, he appears to be a perfect cube
-3976 While caster sleeps, he appears to melt like a wax dummy 
-3977 While caster sleeps, he freezes solid but thaws before waking
-3978 While caster sleeps, his allies must Save or forget who he is
-3979 While caster sleeps, his arms and legs retract into his torso 
-3980 While caster sleeps, his body is translucent 
-3981 While caster sleeps, his body retracts into his head 
-3982 While caster sleeps, his clothing and gear are invisible
-3983 While caster sleeps, his head appears detached from his body 
-3984 While caster sleeps, his head retracts into his body 
-3985 While caster sleeps, his whole body contracts into a small ball 
-
 3986 While caster sleeps, luminous moths flutter over his body
 3987 While caster sleeps, mysterious runes hover over his head
 3988 While caster sleeps, rodents bring him sacrificial offerings
