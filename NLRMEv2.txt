@@ -1,30 +1,3 @@
-3831 When caster next enters his home, his clothes burst into flame
-3832 When caster next enters his home, his clothes turn to stone
-3833 When caster next enters his home, it becomes indestructible
-3834 When caster next enters his home, it becomes steamy like a sauna
-3835 When caster next enters his home, it doubles its current size
-3836 When caster next enters his home, it drifts slowly out to sea
-3837 When caster next enters his home, it falls into a heap of sawdust
-3838 When caster next enters his home, it gains an additional level
-3839 When caster next enters his home, it migrates 1d20 miles
-3840 When caster next enters his home, it sinks into the ground
-3841 When caster next enters his home, it turns invisible from within
-3842 When caster next enters his home, it turns to glass
-3843 When caster next enters his home, it’s been thoroughly cleaned
-3844 When caster next enters his home, it’s buried by an avalanche
-3845 When caster next enters his home, it’s buried by volcanic ash
-3846 When caster next enters his home, it’s encircled by a deep moat
-3847 When caster next enters his home, it’s flattened by a meteor 
-3848 When caster next enters his home, it’s infested with vermin
-3849 When caster next enters his home, it’s swept away by a tidal wave
-3850 When caster next enters his home, it’s totally refurbished
-3851 When caster next enters his home, its doors and windows vanish
-3852 When caster next enters his home, monsters reside under the bed
-3853 When caster next enters his home, someone’s eaten his porridge
-3854 When caster next enters his home, the doors and windows fuse shut
-3855 When caster next enters his home, the floor vanishes
-
-3856 When caster next enters his home, the magistrate condemns it
 3857 When caster next enters his home, the roof ignites
 3858 When caster next kills someone, he appears in that person’s home
 3859 When caster next kills someone, he must Save vs Fortitude or die
