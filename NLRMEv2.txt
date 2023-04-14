@@ -1,29 +1,3 @@
-4170 Anyone nearby when target is wounded must Save or flee in panic
-4171 Anyone nearby when target is wounded must Save or pass out
-4172 Anyone nearby wielding a wooden weapon hits the target with it
-4173 Anyone nearby wielding a wooden weapon is invisible to the target
-4174 Anyone nearby wielding a wooden weapon offers it to the target
-4175 Anyone nearby wielding a wooden weapon throws it at the target
-4176 Anyone nearby with a drawn blade attacks target for 1d4 rounds
-4177 Anyone nearby with a drawn blade can’t use it against the target 
-4178 Anyone nearby with a drawn blade races away from the target
-4179 Anyone nearby with a drawn blade shouts the target’s name
-4180 Anyone slain by target’s weapon can never be resurrected
-4181 Anyone touching the target in the next turn adopts his name
-4182 Anyone touching the target in the next turn is briefly paralyzed
-4183 Anyone touching the target in the next turn loses 1d10 hit points
-4184 Anyone touching the target in the next turn suffers severe burns
-4185 Anyone who wounds the target is  5 percent likely to kill him outright
-4186 Anyone who wounds the target must Save or age 1d10 years
-4187 Anyone who wounds the target must Save or be equally wounded
-4188 Anyone who wounds the target must Save or disarm themselves
-4189 Anyone who wounds the target must Save or fall unconscious
-4190 Anyone who wounds the target must Save or sink into the ground
-4191 Anyone who wounds the target must Save or teleport 1d4 miles 
-4192 Anyone who wounds the target must Save or temporarily shrink 25 percent 
-4193 Armor is always invisible while worn by the target
-4194 As target is wounded more severely, he’s less likely to sense it
-
 4195 At any crossroads, target feels utterly lost
 4196 At any crossroads, target is inclined to turn back
 4197 At any crossroads, target is inclined to turn left
