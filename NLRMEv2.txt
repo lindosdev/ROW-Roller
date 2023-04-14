@@ -1,60 +1,3 @@
-4090 Any missiles fired at target turn invisible if they hit him
-4091 Any missiles fired near target orbit him like satellites
-4092 Any missiles fired near target shriek as they fly through the air
-4093 Any nearby undead attack the target exclusively for 1d10 rounds
-4094 Any nearby undead defend the target to the best of their ability
-4095 Any nearby undead howl wildly and race toward the target
-4096 Any nearby undead now look disturbingly like the target
-4097 Any nearby undead obey the target for 1d8 rounds
-4098 Any open wounds the target now has are welded closed like metal
-4099 Any packs, pouches, or bags carried by target are full of blood
-4100 Any packs, pouches, or bags carried by target are interconnected
-4101 Any packs, pouches, or bags carried by target double in volume
-4102 Any packs, pouches, or bags carried by target dump their contents
-4103 Any paper, parchment, etc. now carried by target combusts
-4104 Any paper, parchment, etc. now carried by target is fireproof
-4105 Any paper, parchment, etc. now carried by target is rain-soaked
-4106 Any paper, parchment, etc. now carried by target turns to steel
-4107 Any part of target not covered by clothing appears to be skeletal
-4108 Any part of target not covered by clothing is badly sunburned
-4109 Any part of target not covered by clothing is forever invisible
-4110 Any part of target not covered by clothing turns bright orange
-4111 Any part of target now covered by clothing is covered in blisters
-4112 Any part of target now covered by clothing is fireproof 
-4113 Any part of target now covered by clothing is forever invisible
-4114 Any part of target now covered by clothing is hideously scarred
-4115 Any spells cast in target’s presence seem to originate from him
-
-4116 Any successful attack on target is  2 percent likely to kill him 
-4117 Any successful attack on target is 10 percent likely to fail outright
-4118 Any successful attack on target will leave hideous scars
-4119 Any undead now within 10 yards of target attack him until slain
-4120 Any undead now within 10 yards of target combust
-4121 Any undead now within 10 yards of target gain an extra hit die
-4122 Any undead now within 10 yards of target vanish or are destroyed
-4123 Any water elemental touching or touched by target freezes solid
-4124 Any water elemental touching or touched by target heats to 200 degrees
-4125 Any water elemental touching or touched by target is set ablaze
-4126 Any water elemental touching or touched by target splits in two
-4127 Any water now in contact with target’s body freezes solid
-4128 Any water now in contact with target’s body is poisonous to him
-4129 Any water now in contact with target’s body turns to glue
-4130 Any water now in contact with target’s body turns to lamp oil
-4131 Any water now in contact with target’s body turns to mud
-4132 Any water now in contact with target’s body turns to stone
-4133 Any wooden weapons that wound the target are invisible until dawn
-4134 Any wooden weapons that wound the target become heavy as lead
-4135 Any wooden weapons that wound the target burst into flame
-4136 Any wooden weapons that wound the target must Save or shatter
-4137 Any wooden weapons that wound the target turn to steel until dawn
-4138 Any wooden weapons that wound the target vanish until he’s dead
-4139 Anyone cutting target with a blade ages 1d10 years until sunset
-4140 Anyone cutting target with a blade briefly turns orange
-4141 Anyone cutting target with a blade can’t sleep for 1d4 days
-4142 Anyone cutting target with a blade can’t speak to him until dawn
-4143 Anyone cutting target with a blade feels heartwarming glee
-4144 Anyone cutting target with a blade feels incredible hunger
- 37
 4145 Anyone cutting target with a blade feels momentarily dizzy
 4146 Anyone cutting target with a blade feels overwhelming dread
 4147 Anyone cutting target with a blade feels the same amount of pain
@@ -80,6 +23,7 @@
 4167 Anyone looking into the target’s ear suffers intense vertigo
 4168 Anyone nearby when target is wounded applauds for 1d4 rounds
 4169 Anyone nearby when target is wounded must Save or begin weeping
+
 4170 Anyone nearby when target is wounded must Save or flee in panic
 4171 Anyone nearby when target is wounded must Save or pass out
 4172 Anyone nearby wielding a wooden weapon hits the target with it
@@ -105,6 +49,7 @@
 4192 Anyone who wounds the target must Save or temporarily shrink 25 percent 
 4193 Armor is always invisible while worn by the target
 4194 As target is wounded more severely, he’s less likely to sense it
+
 4195 At any crossroads, target feels utterly lost
 4196 At any crossroads, target is inclined to turn back
 4197 At any crossroads, target is inclined to turn left
@@ -130,6 +75,7 @@
 4217 Bright flames consume the target’s clothing for 1d10 rounds
 4218 Bright flames dance harmlessly over target’s body for 1d10 rounds
 4219 Bright flames ripple harmlessly along target’s limbs for 1d4 days
+
 4220 Bright flames surround the target harmlessly for 2d10 rounds
 4221 Colored streamers shoot from target’s ears for 2d6 rounds
 4222 Colored streamers shoot from target’s nostrils
@@ -155,6 +101,7 @@
 4242 During any combat round, target is  3 percent likely to die outright
 4243 During any combat round, target is  5 percent likely to flee in panic
 4244 During any combat round, target is 10 percent likely to be invisible
+
 4245 During any combat round, target is 50 percent likely to be very drunk
 4246 During battle, target experiences distracting hallucinations 
 4247 During battle, target hears overpoweringly loud calliope music 
