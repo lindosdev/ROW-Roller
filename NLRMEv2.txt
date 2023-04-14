@@ -1,29 +1,3 @@
-4145 Anyone cutting target with a blade feels momentarily dizzy
-4146 Anyone cutting target with a blade feels overwhelming dread
-4147 Anyone cutting target with a blade feels the same amount of pain
-4148 Anyone cutting target with a blade feels unsettling déjà vu
-4149 Anyone cutting target with a blade gets an electric shock
-4150 Anyone cutting target with a blade has awful dreams for one week
-4151 Anyone cutting target with a blade immediately apologizes for it
-4152 Anyone cutting target with a blade is briefly blinded
-4153 Anyone cutting target with a blade is briefly invisible 
-4154 Anyone cutting target with a blade is briefly rendered mute
-4155 Anyone cutting target with a blade is paralyzed for 1d4 rounds
-4156 Anyone cutting target with a blade is soaked with goat’s milk
-4157 Anyone cutting target with a blade is soaked with his own blood
-4158 Anyone cutting target with a blade loses one hit point
-4159 Anyone cutting target with a blade suffers visions of damnation
-4160 Anyone cutting target with a blade teleports 1d6 feet
-4161 Anyone cutting target with a blade thinks he’s an ally 
-4162 Anyone cutting target with a blade thinks the target is immortal
-4163 Anyone cutting target with a blade vanishes for 1d4 rounds
-4164 Anyone looking into the target’s ear has visions of debauchery 
-4165 Anyone looking into the target’s ear has visions of his own death
-4166 Anyone looking into the target’s ear has visions of the hereafter
-4167 Anyone looking into the target’s ear suffers intense vertigo
-4168 Anyone nearby when target is wounded applauds for 1d4 rounds
-4169 Anyone nearby when target is wounded must Save or begin weeping
-
 4170 Anyone nearby when target is wounded must Save or flee in panic
 4171 Anyone nearby when target is wounded must Save or pass out
 4172 Anyone nearby wielding a wooden weapon hits the target with it
