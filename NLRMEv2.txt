@@ -1,112 +1,3 @@
-4246 During battle, target experiences distracting hallucinations 
-4247 During battle, target hears overpoweringly loud calliope music 
-4248 During battle, target perceives thick, acrid smoke all around him 
-4249 During battle, target quacks like an enormous duck 
-4250 During battle, target repeatedly chants a naughty limerick
-4251 During battle, target’s allies are invisible to him 
-4252 During battle, target’s allies can’t speak to him 
-4253 During battle, target’s allies don’t recognize him 
-4254 During battle, target’s clothes and gear are invisible 
-4255 During battle, target’s clothes appear to burst into flame 
-4256 During battle, target’s clothes billow with foul smoke 
-4257 During battle, target’s clothes moan like ghosts 
-4258 During battle, target’s ears flap like a bird’s wings 
-4259 During battle, target’s flesh, hair, and gear turn white as snow 
-4260 During battle, target’s hands appear to be shrouded in flame 
-4261 During battle, target’s head is henceforth invisible 
-4262 During battle, target’s heartbeat is audible to all nearby
-4263 Each day, target can become an illusion for 1d4 rounds
-4264 Each day, target can command 1d4 non-magical bears 
-4265 Each day, target can see through the caster’s eyes for 1d4 turns 
-4266 Each day, target can turn his skin invisible for up to one hour 
-4267 Each day, target can turn into a horse for up to 1d4 hours
-4268 Each day, target can walk on water up to 100 yards 
-4269 Each day, target is 10 percent likely to lose one finger or toe 
-4270 Each day, target is immune to one electrical attack
-4271 Each day, target is struck by lightning but is basically unharmed
-4272 Each day, target must eat at least one medium-sized candle 
-4273 Each day, target must eat at least one sheet of parchment 
-4274 Each day, target’s body varies from 10 percent to 80 percent transparency 
- 38
-4275 Each day, target’s skin is a different vibrant color 
-4276 Each of target’s feet acquires argumentative intelligence
-4277 Each of target’s feet is chained to his neck
-4278 Each of target’s feet tries to race away in a different direction
-4279 Each of target’s feet weighs as much as the rest of his body
-4280 Each of target’s hands fuses to the opposite elbow
-4281 Each time target is injured, a gold coin appears in his mouth
-4282 Each time target is injured, he must Save or fall unconscious
-4283 Each time target is injured, he must Save or go blind
-4284 Each time target is injured, howls like a wolf
-4285 Each time target opens his mouth, a small toad leaps out of it
-4286 Each time target opens his mouth, another tooth turns invisible
-4287 Each time target opens his mouth, he hears eerie music nearby
-4288 Each time target opens his mouth, nearby birds fall silent
-4289 Electricity crackles in target’s clothing when he’s angry
-4290 Electricity crackles in target’s skin as he makes an attack
-4291 Electricity crackles in the air around the target for 1d4 days
-4292 Electricity crackles in the ground wherever the target steps
-4293 Electricity crackles in the target’s hair for 1d8 hours
-4294 Electricity crackles in the target’s hair when he uses magic
-4295 Electricity crackles through the target’s body for 1d8 rounds
-4296 Electricity crackles visibly along target’s weapon during combat
-4297 Every few rounds a spider crawls from target’s mouth 
-4298 Every other day, the target is 20 percent likely to shrink by 10 percent
-4299 Every other day, the target is 30 percent likely to be mute
-4300 Every other day, the target is 5d10 years older than his true age
-4301 Every other day, the target radiates strongly of alteration magic
-4302 Every rat in the kingdom follows the target for 2d6 days
-4303 Every spell cast nearby in the next 1d6 rounds strikes the target
-4304 Every spell cast nearby is immediately obvious to the target
-4305 Everyone knows that the target has no real martial prowess
-4306 Everyone knows that the target is a powerful demon in disguise
-4307 Everyone knows that the target’s head is completely hollow
-4308 Everyone knows that the target’s skeleton is made of gold
-4309 Everyone now within 10 yards of target attacks him for 1d4 rounds
-4310 Everyone now within 10 yards of target ignores him for 1d4 hours
-4311 Everyone now within 10 yards of target is disarmed
-4312 Everyone now within 10 yards of target is invisible to him
-4313 Everyone now within 10 yards of target is knocked down
-4314 Everyone now within 10 yards of target is stricken bald
-4315 Everyone now within 10 yards of target must Save or pass out
-4316 Everyone now within 10 yards of target shouts his name
-4317 Everyone who knows the target’s name fears him for 3d10 rounds
-4318 Everyone who knows the target’s name forgets what he looks like
-4319 Everyone who knows the target’s name owes him 1d4 gold pieces
-4320 Everyone who knows the target’s name thinks his name is Twinkles
-4321 Everyone whom target owes money demands repayment in full, now
-4322 Everyone within 100 yards adopts the target’s name
-4323 Everyone within 100 yards feels intense hatred toward the target 
-4324 Everyone within 100 yards gives a gold piece to the target
-4325 Everyone within 100 yards is invisible to the target until sunset
-4326 Everyone within 100 yards races toward the target at top speed
-4327 Everyone within 100 yards teleports 10d10 yards away from target
-4328 Everyone within 100 yards teleports to the target’s home
-4329 Everyone within 100 yards thinks the target is about to explode
-4330 Everyone within 100 yards thinks the target is undead
-4331 Everything now worn or carried by target becomes sickly green
-4332 Everything now worn or carried by target is strewn about the area
-4333 Everything that target is now carrying is imperfectly duplicated
-4334 Exertion makes target exhale black smoke like a steam engine 
-4335 Fire is intensely beautiful and attractive to the target
-4336 Fire is invisible to the target
-4337 Foliage grows wildly beneath the target’s feet, entangling him
-4338 For 1d10 rounds, magic doesn’t work within 100 yards of target
-4339 For 1d10 rounds, ordinary wood smoke is highly toxic to target
-4340 For 1d10 rounds, target can’t be affected by any magic items
-4341 For 1d4 days, target can’t speak to anyone now within 10 yards
-4342 For 1d4 days, target can’t speak to anyone who knows his name
-4343 For one week, target can’t be healed by any magical means
-4344 For one week, target can’t be injured by members of his species 
-4345 Glowing coals appear to be moving within the target’s skin
-4346 Half of target’s body begins aging backwards, one year per day
-4347 Half of target’s body is affected by Reverse Gravity
-4348 Half of target’s body is badly burned, the other half frostbitten
-4349 Half of target’s body is indestructible for 2d4 days
-4350 Half of target’s body is infected with lycanthropy
-4351 Half of target’s body polymorphs into some kind of animal
-4352 Half of target’s body resembles half of the caster’s body
-4353 Half of target’s body shrinks by 25 percent
 4354 Half of target’s body suffers from advanced leprosy
 4355 Half of target’s body turns invisible while in direct sunlight
 4356 Half of target’s fingers are permanently invisible
@@ -131,6 +22,7 @@
 4375 If next attack on target causes maximum damage, his attacker dies
 4376 If next attack on target causes maximum damage, the moon vanishes
 4377 If next attack on target causes maximum damage, winter begins now
+
 4378 If reduced to exactly zero hit points, target becomes an undead
 4379 If reduced to exactly zero hit points, target combusts violently
 4380 If reduced to exactly zero hit points, target is fully healed
@@ -182,6 +74,7 @@
 4425 If target is beheaded, a spectacular lightshow ensues
 4426 If target is beheaded, a winged horse springs from his neck-stump
 4427 If target is beheaded, anyone nearby is stricken blind for 1 turn
+
 4428 If target is beheaded, he grows a new head facing backwards
 4429 If target is beheaded, he grows a new head just like the caster’s
 4430 If target is beheaded, he’s 10 percent likely to possess his slayer
@@ -203,6 +96,7 @@
 4446 If target is beheaded, his slayer disgorges 1d6 gallons of blood
 4447 If target is beheaded, his slayer is Stunned for 1d4 hours
 4448 If target is beheaded, his slayer must Save vs Will or go insane
+
 4449 If target is beheaded, his slayer receives 10d1000 gold pieces
 4450 If target is beheaded, his slayer then tries to behead himself
 4451 If target is beheaded, lightning bolts discharge from his neck
@@ -227,6 +121,7 @@
 4470 If target is carrying any wood, it turns to sawdust
 4471 If target is carrying rope, he ties himself to a nearby tree
 4472 If target is carrying rope, he winds it tightly about his neck
+
 4473 If target is carrying rope, it can’t be cut by non-magical means
 4474 If target is carrying rope, it threads itself through his flesh
 4475 If target is currently injured he begins aging one year per round
@@ -251,6 +146,7 @@
 4494 If target is now wet, he suffers sudden heat exhaustion
 4495 If target is slain by a blade, he can never be resurrected
 4496 If target is slain by fire, he explodes as a 20HD fireball
+
 4497 If target is slain by fire, he resurrects in 1d4 days
 4498 If target is slain by fire, his ashes are scattered over the sea
 4499 If target is slain by fire, the nearest forest is also set ablaze
