@@ -1,28 +1,3 @@
-4354 Half of target’s body suffers from advanced leprosy
-4355 Half of target’s body turns invisible while in direct sunlight
-4356 Half of target’s fingers are permanently invisible
-4357 Half of target’s head appears to be made of crystal
-4358 Half of target’s head appears to be made of metal
-4359 Half of target’s head appears to be stripped of flesh
-4360 Half of target’s head explodes, killing him messily
-4361 Half of target’s head is covered in fine gold scales
-4362 Half of target’s head is covered in fragrant blue moss
-4363 Half of target’s head vanishes, but he’s basically unharmed
-4364 Half of target’s limbs become donkey’s limbs
-4365 Hundreds of blood-red worms course from the target’s nostrils
-4366 Hundreds of small ice chips tumble from target’s ears
-4367 Hundreds of wasps swarm the target whenever he draws a weapon
-4368 If an ally kills target today, he’ll resurrect at dawn tomorrow
-4369 If an ally kills target today, target explodes as a 50HD fireball
-4370 If an arrow hits the target in the next 1d3 rounds, he explodes
-4371 If an arrow hits the target in the next round, he doubles in size
-4372 If an arrow hits the target in the next round, he turns to glass
-4373 If an arrow hits the target in the next round, he’s fully healed
-4374 If next attack on target causes maximum damage, he dies
-4375 If next attack on target causes maximum damage, his attacker dies
-4376 If next attack on target causes maximum damage, the moon vanishes
-4377 If next attack on target causes maximum damage, winter begins now
-
 4378 If reduced to exactly zero hit points, target becomes an undead
 4379 If reduced to exactly zero hit points, target combusts violently
 4380 If reduced to exactly zero hit points, target is fully healed
