@@ -1,28 +1,3 @@
-4473 If target is carrying rope, it can’t be cut by non-magical means
-4474 If target is carrying rope, it threads itself through his flesh
-4475 If target is currently injured he begins aging one year per round
-4476 If target is cut by a metal weapon, he loses 2d10 gold pieces
-4477 If target is cut by a metal weapon, he won’t heal naturally
-4478 If target is cut by a metal weapon, his limbs turn invisible
-4479 If target is cut by a metal weapon, it sizzles violently
-4480 If target is cut by a metal weapon, that injury quickly rusts 
-4481 If target is cut by a metal weapon, that weapon quickly rusts
-4482 If target is now bleeding, fire can’t harm him for 2d4 days
-4483 If target is now bleeding, he begins to drown as though submerged
-4484 If target is now bleeding, he’s hereafter susceptible to rust
-4485 If target is now bleeding, his weapon is +4 for 2d4 hours
-4486 If target is now bleeding, the ground at his feet heats to 500 degrees
-4487 If target is now carrying any food, he contracts advanced leprosy
-4488 If target is now carrying any food, he loses 1d100 hit points
-4489 If target is now carrying any food, he teleports 2d10 miles
-4490 If target is now standing, he can’t sit or lie down for 8d6 hours
-4491 If target is now standing, he levitates helplessly for 2d8 rounds
-4492 If target is now standing, he’s now standing on tall stilts
-4493 If target is now standing, his legs double in length
-4494 If target is now wet, he suffers sudden heat exhaustion
-4495 If target is slain by a blade, he can never be resurrected
-4496 If target is slain by fire, he explodes as a 20HD fireball
-
 4497 If target is slain by fire, he resurrects in 1d4 days
 4498 If target is slain by fire, his ashes are scattered over the sea
 4499 If target is slain by fire, the nearest forest is also set ablaze
@@ -47,6 +22,7 @@
 4518 If target is slain, the caster is under a Geas to resurrect him
 4519 If target is slain, the caster must inform his next of kin
 4520 If target is wearing animal hide, he becomes an animal until dawn
+
 4521 If target is wearing animal hide, he hides like an animal
 4522 If target is wearing animal hide, he thinks that he’s that animal
 4523 If target is wearing animal hide, he tries to eat it
