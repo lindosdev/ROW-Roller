@@ -1,31 +1,3 @@
-4378 If reduced to exactly zero hit points, target becomes an undead
-4379 If reduced to exactly zero hit points, target combusts violently
-4380 If reduced to exactly zero hit points, target is fully healed
-4381 If reduced to exactly zero hit points, target melts like butter
-4382 If reduced to exactly zero hit points, target shatters like glass
-4383 If reduced to exactly zero hit points, target shrinks by 75 percent
-4384 If reduced to exactly zero hit points, target turns invisible
-4385 If reduced to exactly zero hit points, target turns to steam
-4386 If reduced to five or fewer hit points, target attacks himself
-4387 If reduced to five or fewer hit points, target goes berserk
-4388 If reduced to one hit point, target becomes a lich
-4389 If reduced to one hit point, target is Healed but loses one level
-4390 If struck by Dispel Magic, target ceases to exist for 1d10 rounds
-4391 If struck by Dispel Magic, target is rendered squeaky clean
-4392 If struck by Dispel Magic, target loses 1d100 hit points
-4393 If struck by Dispel Magic, target’s skeleton disintegrates
-4394 If target attempts to teleport, his nervous system stays behind
-4395 If target disembowels himself, he’s 10 percent likely to become a god
-4396 If target draws a weapon, he can’t sheathe it again for 4d6 hours
-4397 If target draws a weapon, he can’t sheathe it until he’s wounded 
-4398 If target draws a weapon, he can’t use it for 1d4 rounds
-4399 If target draws a weapon, it’s  5 percent likely to shatter outright
-4400 If target eats raw meat, he bleeds from the ears for 4d4 rounds
-4401 If target eats raw meat, he has visions of a possible future
-4402 If target eats raw meat, he has visions of his own death
-4403 If target eats raw meat, he succumbs to voracious bloodlust
-4404 If target eats raw meat, he’s thrown into the nearest river
- 39
 4405 If target eats raw meat, it increases in volume by a factor of 10
 4406 If target eats raw meat, it turns to hot ashes in his stomach
 4407 If target has a shield, it becomes fused to his arm
