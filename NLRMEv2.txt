@@ -1,28 +1,3 @@
-4497 If target is slain by fire, he resurrects in 1d4 days
-4498 If target is slain by fire, his ashes are scattered over the sea
-4499 If target is slain by fire, the nearest forest is also set ablaze
-4500 If target is slain in the next 24 hours, he becomes a god
-4501 If target is slain in the next 24 hours, he can’t be resurrected
-4502 If target is slain in the next 24 hours, he resurrects at sunrise
-4503 If target is slain in the next 24 hours, winter begins at once
-4504 If target is slain, a spring bubbles up from beneath his corpse
-4505 If target is slain, a virulent plague breaks out in a nearby city
-4506 If target is slain, all trees within 10 miles vanish
-4507 If target is slain, all within 10 miles are overcome by grief
-4508 If target is slain, he becomes an undead servant for his slayer
-4509 If target is slain, he forever haunts the dreams of his slayer
-4510 If target is slain, his allies all attack his slayer
-4511 If target is slain, his allies quickly forget him and move on
-4512 If target is slain, his corpse completely decays in 1d4 rounds
-4513 If target is slain, his corpse embraces his slayer and combusts
-4514 If target is slain, his corpse turns to wax within 1d10 rounds
-4515 If target is slain, his slayer must Save or die along with him
-4516 If target is slain, his soul can’t leave his body
-4517 If target is slain, his soul is sent to the wrong plane
-4518 If target is slain, the caster is under a Geas to resurrect him
-4519 If target is slain, the caster must inform his next of kin
-4520 If target is wearing animal hide, he becomes an animal until dawn
-
 4521 If target is wearing animal hide, he hides like an animal
 4522 If target is wearing animal hide, he thinks that he’s that animal
 4523 If target is wearing animal hide, he tries to eat it
