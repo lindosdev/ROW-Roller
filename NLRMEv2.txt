@@ -1,17 +1,3 @@
-4548 If target is wearing armor, the ground beneath him gives way
-4549 If target is wearing shoes, his feet become chicken’s feet
-4550 If target is wielding a weapon, he suffers severe frostbite
-4551 If target kills an ally within one turn, he’ll be fully Healed
-4552 If target kills anyone in the next hour, he vanishes for 2d4 days
-4553 If target lights a fire, he feels an urge to put his hands in it
-4554 If target lights a fire, he is overwhelmingly afraid of it
-4555 If target lights a fire, he perceives omens in its burning embers
-4556 If target lights a fire, his clothing ignites
-4557 If target loses a finger, he deliberately cuts off another one
-4558 If target loses a finger, that hand shrivels and dies
-4559 If target moves more than 10 yards from this spot, he dies
-4560 If target now has fewer than 1d100 hit points, he’s fully Healed
-
 4561 If target now has more than 20 hit points, he loses 1d100 
 4562 If target sees an open pit, he tries to bury himself in it
 4563 If target sees an open pit, he’s attacked by something in it
