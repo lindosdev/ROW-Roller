@@ -1,31 +1,3 @@
-4521 If target is wearing animal hide, he hides like an animal
-4522 If target is wearing animal hide, he thinks that he’s that animal
-4523 If target is wearing animal hide, he tries to eat it
-4524 If target is wearing animal hide, it animates and attacks him
-4525 If target is wearing any rings, he has a spiritual revelation
-4526 If target is wearing any rings, he’s immune to magic until sunset
-4527 If target is wearing any rings, his hands retract into his wrists
-4528 If target is wearing any rings, they ignite on his fingers
-4529 If target is wearing armor, he is unable to remove it
-4530 If target is wearing armor, he teleports into the nearest town
-4531 If target is wearing armor, he thinks it’s part of his body
-4532 If target is wearing armor, he’s attacked by 1d4 alligators
-4533 If target is wearing armor, he’s blinded until he removes it
-4534 If target is wearing armor, he’s hurled into the nearest river
- 40
-4535 If target is wearing armor, he’s soaked with lamp oil
-4536 If target is wearing armor, he’s struck by lightning
-4537 If target is wearing armor, it clatters noisily in the dark
-4538 If target is wearing armor, it constricts painfully about him
-4539 If target is wearing armor, it has a +2 AC bonus until sunrise
-4540 If target is wearing armor, it heats to 500 degrees
-4541 If target is wearing armor, it rattles violently for 1d10 hours
-4542 If target is wearing armor, it teleports 2d6 yards 
-4543 If target is wearing armor, it turns invisible
-4544 If target is wearing armor, it vanishes for 1d10 rounds
-4545 If target is wearing armor, it’s as supple as silk until sunset
-4546 If target is wearing armor, it’s restored to brand-new condition
-4547 If target is wearing armor, rain falls heavily for 1d10 days
 4548 If target is wearing armor, the ground beneath him gives way
 4549 If target is wearing shoes, his feet become chicken’s feet
 4550 If target is wielding a weapon, he suffers severe frostbite
@@ -39,6 +11,7 @@
 4558 If target loses a finger, that hand shrivels and dies
 4559 If target moves more than 10 yards from this spot, he dies
 4560 If target now has fewer than 1d100 hit points, he’s fully Healed
+
 4561 If target now has more than 20 hit points, he loses 1d100 
 4562 If target sees an open pit, he tries to bury himself in it
 4563 If target sees an open pit, he’s attacked by something in it
@@ -62,6 +35,7 @@
 4581 If target’s weapon is metal, it turns to glass for 1d4 rounds
 4582 If target’s weapon is metal, it turns to wood and vice versa
 4583 If target’s weapon is metal, it’s now indestructible
+
 4584 Innumerable bats flutter around the target each day at twilight
 4585 Insects constantly swarm around the target from now on
 4586 Magic items are unreliable for the target for 2d4-1 days
@@ -86,6 +60,7 @@
 4605 Nearest pine tree sprays the target with boiling, caustic sap 
 4606 Nearest zombie appears in the area under the target’s command
 4607 Nearest zombie attacks the target until one is destroyed
+
 4608 Nearest zombie follows the target everywhere
 4609 Nearest zombie steals something precious to target, then flees
 4610 Next 1d10 attacks upon target have a +4 bonus to damage
@@ -110,6 +85,7 @@
 4629 Next horse touched by target can never again be ridden by mortals
 4630 Next horse touched by target shrinks by 75 percent
 4631 Next horse touched by target turns into a small dinosaur
+
 4632 Next magic item handled by target appears as supple as clay
 4633 Next magic item handled by target can again never be used by him
 4634 Next magic item handled by target can’t be used by anyone else
@@ -168,6 +144,7 @@
 4686 Next person wounded by target must Save or contract leprosy
 4687 Next person wounded by target must Save or drop to one hit point
 4688 Next person wounded by target must Save or flee panic-stricken
+
 4689 Next person wounded by target must Save or shrink by 5d10 percent
 4690 Next person wounded by target must Save or teleport 1d4 miles
 4691 Next puddle stepped in by target absolves him of sin
@@ -192,6 +169,7 @@
 4710 Next weapon to wound target afflicts its wielder with narcolepsy
 4711 Next weapon to wound target appears as porous as a sponge
 4712 Next weapon to wound target appears to be made of diamond
+
 4713 Next weapon to wound target becomes as black as coal forever
 4714 Next weapon to wound target begins aging 1d100 years per round
 4715 Next weapon to wound target burns like magnesium for 1d10 rounds
@@ -216,6 +194,7 @@
 4734 Next weapon to wound target is frozen in a large block of ice
 4735 Next weapon to wound target is intensely magnetic
 4736 Next weapon to wound target is invisible to him forever after
+
 4737 Next weapon to wound target is jealously sought by collectors
 4738 Next weapon to wound target is older than the entire universe
 4739 Next weapon to wound target is pinned beneath a nearby boulder
@@ -240,6 +219,7 @@
 4758 No one speaks to target until he spills his own blood
 4759 Non-magical animals react to the target as if he were a salt lick
 4760 Non-magical animals react to the target as if he were food
+
 4761 Non-magical animals react to the target as if he were one of them
 4762 Non-magical animals react to the target as if he were undead
 4763 Normal voices seem deafeningly loud to the target
