@@ -9365,8 +9365,10 @@ Text1.Text = "Next horse touched by target becomes ravenously carnivorous"
 Text1.Text = "Next horse touched by target can never again be ridden by mortals"
     ElseIf (Label1.Caption = 4630) Then
 Text1.Text = "Next horse touched by target shrinks by 75 percent"
-    ElseIf (Label1.Caption = 4630) Then
+    ElseIf (Label1.Caption = 4631) Then
 Text1.Text = "Next horse touched by target turns into a small dinosaur"
+    ElseIf (Label1.Caption = 4632) Then
+Text1.Text = "Next magic item handled by target appears as supple as clay"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
