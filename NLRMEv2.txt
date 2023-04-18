@@ -1,37 +1,3 @@
-4632 Next magic item handled by target appears as supple as clay
-4633 Next magic item handled by target can again never be used by him
-4634 Next magic item handled by target can’t be used by anyone else
-4635 Next magic item handled by target drains 1d10 hit points from him
-4636 Next magic item handled by target expresses deep hatred for him
-4637 Next magic item handled by target expresses deep love for him
-4638 Next magic item handled by target is etched with his fingerprints
-4639 Next magic item handled by target is invisible while he uses it
-4640 Next magic item handled by target leaves colorful trails of light
-4641 Next magic item handled by target leaves weird scars on his hands
-4642 Next magic item handled by target makes him think he’s drowning
-4643 Next magic item handled by target makes his hands go numb
-4644 Next magic item handled by target restores 1d10 hit points
-4645 Next magic item handled by target seems to him to be 1,000 degrees
-4646 Next magic item handled by target seems to him to be 10X heavier
-4647 Next magic item handled by target shines like a beacon to undead
-4648 Next magic item handled by target smells like manure for 3d8 days
-4649 Next magic item handled by target tries to control his mind
-4650 Next magic item handled by target works at 2X normal power
-4651 Next magic item handled by target works contrary to his wishes
-4652 Next person to wound the target absorbs half of the damage
-4653 Next person to wound the target can harm no one else until sunset
-4654 Next person to wound the target hallucinates wildly for one turn
-4655 Next person to wound the target inflicts maximum damage
-4656 Next person to wound the target is attacked by vermin
-4657 Next person to wound the target is immediately chained to him
-4658 Next person to wound the target is paralyzed for 1d10 rounds
-4659 Next person to wound the target is splattered with fish guts
-4660 Next person to wound the target is stricken blind until sunset
-4661 Next person to wound the target is swarmed by aggressive bees
-4662 Next person to wound the target is thrown into the nearest well
-4663 Next person to wound the target is worshipped by vermin
-4664 Next person to wound the target must Save or fall unconscious
- 41
 4665 Next person to wound the target races to the nearest graveyard
 4666 Next person to wound the target resembles him for 1d20 hours 
 4667 Next person to wound the target sees fires blazing all around him
