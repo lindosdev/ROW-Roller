@@ -1,138 +1,3 @@
-4665 Next person to wound the target races to the nearest graveyard
-4666 Next person to wound the target resembles him for 1d20 hours 
-4667 Next person to wound the target sees fires blazing all around him
-4668 Next person to wound the target suffers 2X the damage inflicted
-4669 Next person to wound the target suffers equal damage
-4670 Next person to wound the target suffers overpowering vertigo
-4671 Next person to wound the target suffers the damage instead 
-4672 Next person to wound the target teleports 1d4 miles away
-4673 Next person to wound the target teleports 4d8 yards straight up
-4674 Next person to wound the target then attacks the caster
-4675 Next person to wound the target then flees to the nearest forest
-4676 Next person to wound the target thinks he’ll die before nightfall
-4677 Next person to wound the target thinks he’s drowning for one turn
-4678 Next person to wound the target thinks that he’s slain the target
-4679 Next person to wound the target totally disarms himself
-4680 Next person to wound the target will soon be abducted by undead 
-4681 Next person wounded by target must Save or age 1d6 years
-4682 Next person wounded by target must Save or be attacked by vermin
-4683 Next person wounded by target must Save or be Charmed by him
-4684 Next person wounded by target must Save or be poisoned
-4685 Next person wounded by target must Save or be stricken mute
-4686 Next person wounded by target must Save or contract leprosy
-4687 Next person wounded by target must Save or drop to one hit point
-4688 Next person wounded by target must Save or flee panic-stricken
-
-4689 Next person wounded by target must Save or shrink by 5d10 percent
-4690 Next person wounded by target must Save or teleport 1d4 miles
-4691 Next puddle stepped in by target absolves him of sin
-4692 Next puddle stepped in by target causes him to hallucinate
-4693 Next puddle stepped in by target changes his alignment until dawn 
-4694 Next puddle stepped in by target contains a small sea monster
-4695 Next puddle stepped in by target drenches him from head to toe
-4696 Next puddle stepped in by target explodes as a 6HD fireball
-4697 Next puddle stepped in by target hardens like cement
-4698 Next puddle stepped in by target inspires him to megalomania
-4699 Next puddle stepped in by target is a 16HD water elemental
-4700 Next puddle stepped in by target is highly concentrated acid
-4701 Next puddle stepped in by target sends him to Elemental Water
-4702 Next puddle stepped in by target teleports him to a nearby lake
-4703 Next puddle stepped in by target throws him 3d10 yards in the air
-4704 Next puddle stepped in by target turns to glass
-4705 Next time target touches a tree, he must Save or turn to wood
-4706 Next time target touches a tree, he’s attacked by 1d100 squirrels
-4707 Next time target touches a tree, he’s buried in a heap of sawdust
-4708 Next time target touches a tree, he’s overgrown with stiff bark
-4709 Next weapon to wound target absorbs water like a sponge
-4710 Next weapon to wound target afflicts its wielder with narcolepsy
-4711 Next weapon to wound target appears as porous as a sponge
-4712 Next weapon to wound target appears to be made of diamond
-
-4713 Next weapon to wound target becomes as black as coal forever
-4714 Next weapon to wound target begins aging 1d100 years per round
-4715 Next weapon to wound target burns like magnesium for 1d10 rounds
-4716 Next weapon to wound target can never wound him again thereafter
-4717 Next weapon to wound target can’t harm him for 1d8 days
-4718 Next weapon to wound target disintegrates if it wounds him again
-4719 Next weapon to wound target embeds itself in a nearby tree
-4720 Next weapon to wound target exudes acrid steam for 1d4 weeks
-4721 Next weapon to wound target heals him if it wounds him again
-4722 Next weapon to wound target heals its wielder by an equal amount
-4723 Next weapon to wound target identifies him as its rightful owner
-4724 Next weapon to wound target inflicts 10X the rolled damage
-4725 Next weapon to wound target is  5 percent likely to change his sex
-4726 Next weapon to wound target is +1 until he’s wounded again
-4727 Next weapon to wound target is 10 percent likely to change his alignment
-4728 Next weapon to wound target is 10 percent likely to destroy his soul
-4729 Next weapon to wound target is 60 percent likely to shatter
-4730 Next weapon to wound target is believed to be a mighty artifact
-4731 Next weapon to wound target is crushed into a small cube
-4732 Next weapon to wound target is engraved with his name
-4733 Next weapon to wound target is forever after -1 ToHit
-4734 Next weapon to wound target is frozen in a large block of ice
-4735 Next weapon to wound target is intensely magnetic
-4736 Next weapon to wound target is invisible to him forever after
-
-4737 Next weapon to wound target is jealously sought by collectors
-4738 Next weapon to wound target is older than the entire universe
-4739 Next weapon to wound target is pinned beneath a nearby boulder
-4740 Next weapon to wound target is replaced by a nearly exact replica
-4741 Next weapon to wound target is soon confiscated by demons
-4742 Next weapon to wound target is thereafter +1 to hit him
-4743 Next weapon to wound target is thereafter +4 ToHit him
-4744 Next weapon to wound target is thereafter indestructible
-4745 Next weapon to wound target is thereafter terribly afraid of him
-4746 Next weapon to wound target leaps 1d100 rounds into the future
-4747 Next weapon to wound target likewise wounds his attacker
-4748 Next weapon to wound target makes him suffer apocalyptic visions
-4749 Next weapon to wound target must Save or melt like a candle
-4750 Next weapon to wound target must Save or shrink by 5d10 + 45 percent
-4751 Next weapon to wound target penalizes its wielder’s AC by 5
-4752 Next weapon to wound target turns out to be a mighty artifact 
-4753 Next weapon to wound target turns to stone
-4754 Next weapon to wound target vanishes for 1d10 rounds
-4755 Next weapon to wound target was forged from his own bones
-4756 Next weapon to wound target was forged on a distant world
-4757 No one speaks to target for 2d4-1 days
-4758 No one speaks to target until he spills his own blood
-4759 Non-magical animals react to the target as if he were a salt lick
-4760 Non-magical animals react to the target as if he were food
-
-4761 Non-magical animals react to the target as if he were one of them
-4762 Non-magical animals react to the target as if he were undead
-4763 Normal voices seem deafeningly loud to the target
-4764 Normal voices seem ghostly and haunting to the target
-4765 Normal voices seem to echo imperiously to the target
-4766 Normal voices seem to resonate in the target’s bones
-4767 On target’s back is a button that, if pushed, lights up his head
-4768 On target’s back is a button that, if pushed, makes him giggle
-4769 On target’s back is a button that, if pushed, makes him glow blue
-4770 On target’s back is a button that, if pushed, makes him sweat
-4771 Once per day, target can make a sound like a cannon 
-4772 Once per day, target can turn all wheels nearby invisible
-4773 One of target’s allies thinks that target is an avatar of his god
-4774 One of target’s arms becomes as supple as rope during combat
-4775 One of target’s arms can bend in 1d4 additional places
-4776 One of target’s arms is as durable as steel, but only when wet
-4777 One of target’s arms is bent like a corkscrew
-4778 One of target’s arms is bent like a shepherd’s crook
-4779 One of target’s arms is replaced by a duplicate of his head
-4780 One of target’s arms is stripped to the bone but works normally
-4781 One of target’s arms loses all bone but functions like a tentacle
-4782 One of target’s arms turns into a small replica of his leg
-4783 One of target’s arms turns to a lion’s foreleg
-4784 One of target’s eyes migrates to the back of his head
-4785 One of target’s feet is fused into an anvil
-4786 One of target’s feet rotates 180 degrees at the ankle
-4787 One of target’s hands appears to have been flattened by a hammer
-4788 One of target’s hands becomes hideously contorted and deformed
-4789 One of target’s hands can pass through solid steel
-4790 One of target’s hands can pass through stone
-4791 One of target’s hands can’t be cut by non-magical metal
-4792 One of target’s hands dissolves in water like a sand castle
-4793 One of target’s hands figures prominently in the apocalypse
-4794 One of target’s hands glows brightly in the presence of magic
- 42
 4795 One of target’s hands is fireproof, but he never knows which one
 4796 One of target’s hands is fireproof; the other hand vanishes
 4797 One of target’s hands is immune to bludgeoning weapons
@@ -155,6 +20,7 @@
 4814 One of target’s limbs acquires intelligence hostile to him
 4815 One of target’s limbs always seems to be soaked with milk
 4816 One of target’s limbs appears to be made of diamond
+
 4817 One of target’s limbs becomes wildly disobedient during combat
 4818 One of target’s limbs can appear identical to his other limbs
 4819 One of target’s limbs can be Dispelled as an illusion
@@ -178,6 +44,7 @@
 4837 One of target’s limbs is wanted for murder
 4838 One of target’s limbs now juts from the center of his back
 4839 One of target’s limbs regenerates in 1d4 rounds if severed
+
 4840 One of target’s limbs retracts into his torso when not in use
 4841 One of target’s limbs seems to belong to a different species
 4842 One of target’s limbs shrinks by 1d4 percent per day
@@ -200,6 +67,7 @@
 4859 People who meet target for the first time are intimidated by him
 4860 People who meet target for the first time are intimidating to him
 4861 People who meet target for the first time become violently ill
+
 4862 People who meet target for the first time feel insulted by him
 4863 People who meet target for the first time ignore him if he speaks
 4864 People who meet target for the first time laugh at him derisively
@@ -222,6 +90,7 @@
 4881 Phosphorescent beetles teem over target’s skin for 2d12 hours
 4882 Printed text appears hopelessly garbled while target is nearby
 4883 Rope hisses like a snake while target uses it
+
 4884 Rope tends to become hopelessly tangled when target uses it
 4885 Seltzer water sprays from the target’s nose for 1d10 rounds
 4886 Shimmering lights play over the target’s skin during combat
