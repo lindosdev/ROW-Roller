@@ -1,54 +1,3 @@
-4925 Target acts as though his head and body are two separate beings
-4926 Target acts generally like a jerk toward his friends and allies
-4927 Target acts like a child for 10d10 rounds
-4928 Target acts like a horse for 1d4 turns
-4929 Target adds 1d4 to each attribute score for 2d12 hours
-4930 Target affects an air of ostentatious wealth even if he’s poor
-4931 Target ages 1d10 years per day for the next 1d4 weeks
-4932 Target ages 1d1000 years; if he lives, he’s not subject to aging
-4933 Target ages 1d4 years each time he says his name
-4934 Target ages 1d4 years each time he’s cut by a claw or fang
-4935 Target ages 1d4 years each time he’s cut by a metal blade
-4936 Target ages 1d4 years each time his weapon injures someone 
-4937 Target ages at 2X normal rate unless he has a coin in his mouth
-4938 Target ages at 2X normal rate while not in direct sunlight
-4939 Target ages one year for each hit point of fire damage he suffers
-4940 Target ages one year per round spent in the caster’s presence
-4941 Target ages plus or minus 1d10 years each hour
-4942 Target always attacks the foe he’s least likely to defeat
-4943 Target always fails to consider the consequences
-4944 Target always knows the location of the nearest giraffe
-4945 Target and his possessions are stripped of any enchantments
-4946 Target and nearest zombie are chained together nearby
-4947 Target and nearest zombie are often mistaken for each other
-4948 Target and nearest zombie exchange bodies
-4949 Target and nearest zombie form an unholy alliance
-4950 Target and the nearest horse exchange bodies
-4951 Target and the nearest horse exchange clothing
-4952 Target and the next person he attacks are invisible to each other
-4953 Target and the next person he attacks are soaked with icy brine
-4954 Target and the next person he attacks both shrink by 5d10 percent
-4955 Target and the next person he attacks each lose 2d8 hit points
-4956 Target and the next person he attacks fall unconscious until dawn
-4957 Target and the next person he attacks freeze solid
-4958 Target and the next person he attacks teleport 1d4 miles away
-4959 Target and the next person he attacks vanish for 10d10 rounds
-4960 Target appears to be 1d100 years older than he really is
-4961 Target appears to be 1d20 inches taller than he really is
-4962 Target appears to be a hideous corpse until dawn tomorrow
-4963 Target appears to be far more menacing than he really is
-4964 Target appears to be in the middle of a terrible rainstorm
-4965 Target appears to be made of chocolate until dawn tomorrow
-4966 Target appears to be soaked in his own blood until dawn tomorrow
-4967 Target appears to be wearing a cloak of shimmering fire 
-4968 Target appears to have been assembled out of bamboo
-4969 Target appears to have been burned beyond recognition 
-4970 Target appears to have been turned inside-out and then restored
-4971 Target asserts that a great catastrophe is about to occur
-4972 Target asserts that a nearby ally is really an illusion
-4973 Target asserts that a nearby ally is trying to Charm him
-4974 Target asserts that a vast conspiracy is out to get him
-4975 Target asserts that all contracts are null and void
 4976 Target asserts that all gold within 10 miles is counterfeit
 4977 Target asserts that anyone who bleeds in his presence is a coward
 4978 Target asserts that anyone who drinks his blood will live forever
@@ -71,6 +20,7 @@
 4995 Target asserts that he can travel between planes at will
 4996 Target asserts that he can travel freely through time
 4997 Target asserts that he can turn diamonds into coal by eating them
+
 4998 Target asserts that he died 1d4 rounds ago
 4999 Target asserts that he died 1d4 years ago
 5000 Target asserts that he has a key that unlocks his skull
@@ -95,6 +45,7 @@
 5019 Target asserts that he’ll combust if he draws his weapon too fast
 5020 Target asserts that he’ll combust if he gets wet
 5021 Target asserts that he’ll combust if he reads a map
+
 5022 Target asserts that he’ll combust if he’s outdoors at sunset
 5023 Target asserts that he’ll combust if his blood is spilled
 5024 Target asserts that he’ll die before he sees another winter
@@ -152,6 +103,7 @@
 5075 Target asserts that he’ll die unless the caster kills himself
 5076 Target asserts that he’ll die when the caster casts another spell
 5077 Target asserts that he’ll drown in a picture of a lake
+
 5078 Target asserts that he’ll drown in a small puddle nearby
 5079 Target asserts that he’ll explode if anyone eats food near him
 5080 Target asserts that he’ll go mad if anyone touches him
@@ -173,6 +125,7 @@
 5096 Target asserts that he’s been replaced by a doppelganger
 5097 Target asserts that he’s brother to dragons and companion to owls 
 5098 Target asserts that he’s come to deliver his people from bondage
+
 5099 Target asserts that he’s eager to exterminate his species
 5100 Target asserts that he’s found a plot to wipe out his species
 5101 Target asserts that he’s hunting a monster from the distant past
@@ -197,6 +150,7 @@
 5120 Target asserts that his actions shape the destiny of the world
 5121 Target asserts that his allies have forsaken him
 5122 Target asserts that his birth occurred under odd circumstances
+
 5123 Target asserts that his blood is worth more than gold
 5124 Target asserts that his body and head are two symbiotic organisms
 5125 Target asserts that his clothes are writhing with snakes
@@ -221,6 +175,7 @@
 5144 Target asserts that the caster is a fraud and a charlatan
 5145 Target asserts that the caster is an avatar of his deity
 5146 Target asserts that the caster’s spell functioned as intended
+
 5147 Target asserts that the king owes him a huge favor
 5148 Target asserts that the wages of sin aren’t really death
 5149 Target asserts that the world will end the moment that he dies
