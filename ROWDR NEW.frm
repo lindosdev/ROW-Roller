@@ -22,7 +22,7 @@
 ' Test "
 ' Test ( and )
 ' Fix About Box
-' After Resuklt 4569: Found another duplicate result. Numbers are 1 number below text reference
+' After Result 4569: Found 2 duplicate result. Numbers are 2 below text reference
 
 VERSION 5.00
 Begin VB.Form Form1 
@@ -10209,6 +10209,52 @@ Text1.Text = "Target asserts that he’ll die if he’s cut by a magical blade"
 Text1.Text = "Target asserts that he’ll die if someone tells him to die"
     ElseIf (Label1.Caption = 5052) Then
 Text1.Text = "Target asserts that he’ll die in 1d4 rounds"
+    ElseIf (Label1.Caption = 5053) Then
+Text1.Text = "Target asserts that he’ll die of biliousness"
+    ElseIf (Label1.Caption = 5054) Then
+Text1.Text = "Target asserts that he’ll die the next time he eats"
+    ElseIf (Label1.Caption = 5055) Then
+Text1.Text = "Target asserts that he’ll die the next time he receives first aid"
+    ElseIf (Label1.Caption = 5056) Then
+Text1.Text = "Target asserts that he’ll die the next time he sleeps"
+    ElseIf (Label1.Caption = 5057) Then
+Text1.Text = "Target asserts that he’ll die unless he burns all of his clothing"
+    ElseIf (Label1.Caption = 5058) Then
+Text1.Text = "Target asserts that he’ll die unless he cuts his own throat"
+    ElseIf (Label1.Caption = 5059) Then
+Text1.Text = "Target asserts that he’ll die unless he cuts off his own hand"
+    ElseIf (Label1.Caption = 5060) Then
+Text1.Text = "Target asserts that he’ll die unless he destroys his magic items"
+    ElseIf (Label1.Caption = 5061) Then
+Text1.Text = "Target asserts that he’ll die unless he destroys his weapon"
+    ElseIf (Label1.Caption = 5062) Then
+Text1.Text = "Target asserts that he’ll die unless he drains all of his blood"
+    ElseIf (Label1.Caption = 5063) Then
+Text1.Text = "Target asserts that he’ll die unless he drinks strong poison"
+    ElseIf (Label1.Caption = 5064) Then
+Text1.Text = "Target asserts that he’ll die unless he eats a special mushroom"
+    ElseIf (Label1.Caption = 5065) Then
+Text1.Text = "Target asserts that he’ll die unless he kills the caster"
+    ElseIf (Label1.Caption = 5066) Then
+Text1.Text = "Target asserts that he’ll die unless he receives 500 gold pieces"
+    ElseIf (Label1.Caption = 5067) Then
+Text1.Text = "Target asserts that he’ll die unless he receives 500 gold pieces"
+    ElseIf (Label1.Caption = 5068) Then
+Text1.Text = "Target asserts that he’ll die unless he stays awake for 2d6 weeks"
+    ElseIf (Label1.Caption = 5069) Then
+Text1.Text = "Target asserts that he’ll die unless he swallows a magic ring"
+    ElseIf (Label1.Caption = 5070) Then
+Text1.Text = "Target asserts that he’ll die unless he takes a vow of pacifism"
+    ElseIf (Label1.Caption = 5071) Then
+Text1.Text = "Target asserts that he’ll die unless his demands are met"
+    ElseIf (Label1.Caption = 5072) Then
+Text1.Text = "Target asserts that he’ll die unless someone beheads him"
+    ElseIf (Label1.Caption = 5073) Then
+Text1.Text = "Target asserts that he’ll die unless the caster kills himself"
+    ElseIf (Label1.Caption = 5074) Then
+Text1.Text = "Target asserts that he’ll die when the caster casts another spell"
+    ElseIf (Label1.Caption = 5075) Then
+Text1.Text = "Target asserts that he’ll drown in a picture of a lake"
     Else
 Text1.Text = "Roll result not yet programmed"
     End If
