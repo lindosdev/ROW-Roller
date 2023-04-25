@@ -1,79 +1,3 @@
-5135 Target asserts that his worst injuries are just a flesh wound
-5136 Target asserts that no one nearby really exists
-5137 Target asserts that one of his allies will betray him in a garden
-5138 Target asserts that poultices of manure can heal any wound
-5139 Target asserts that puns and rhymes are painful to him
-5140 Target asserts that secret entities are plotting his downfall
-5141 Target asserts that someone nearby is the avatar of his god
-5142 Target asserts that that all food within 10 miles is poisonous
-5143 Target asserts that the answer to every riddle is "time"
-5144 Target asserts that the caster is a fraud and a charlatan
-5145 Target asserts that the caster is an avatar of his deity
-5146 Target asserts that the caster’s spell functioned as intended
-
-5147 Target asserts that the king owes him a huge favor
-5148 Target asserts that the wages of sin aren’t really death
-5149 Target asserts that the world will end the moment that he dies
-5150 Target asserts that time is an illusion, lunchtime doubly so
-5151 Target asserts that whoever kills him will become a god
-5152 Target asserts that whoever slays him will win incredible riches
-5153 Target attacks anyone he sees using a magic item
-5154 Target attacks anyone who attacks the caster
-5155 Target attacks anyone who sees him using a magic item
-5156 Target attacks anyone who speaks ill of the caster
-5157 Target attacks anyone who uses magic upon the caster
-5158 Target attacks the nearest herd animal until he or it is dead
-5159 Target attacks the next person nearby who says his own name 
-5160 Target attacks the next person nearby who spends money
-5161 Target attacks the next person who address him by name
-5162 Target attacks the next person who draws a weapon nearby
-5163 Target attacks the toughest, most dangerous creature he can see
-5164 Target attempts to acquire the caster’s spellbook
-5165 Target attempts to disembowel himself with his bare hands
-5166 Target attempts to ingest any ink he sees 
-5167 Target attempts to mimic the caster’s every more
-5168 Target attempts to strangle all trees within 100 yards
-5169 Target attempts to strangle himself with his bare hands
-5170 Target attracts all manner of mutants and abominations
-5171 Target attracts leeches, maggots, slugs, and snails
-5172 Target babbles incoherently for 2d10 rounds
-5173 Target barks like a dog when he thinks he sees magic
-5174 Target becomes a devoted acolyte of some fringe religion
-5175 Target becomes an albino
-5176 Target becomes ethereal if wounded by a weapon made of gold
-5177 Target becomes giddy and mirthful when he’s next hit by a weapon
-5178 Target becomes intensely covetous of any magic item he sees
-5179 Target becomes intensely hungry following each battle
-5180 Target becomes nearly insane with rage whenever he says his name
-5181 Target becomes the caster’s most trusted and faithful friend
-5182 Target becomes violently ill if he eats while in daylight
-5183 Target becomes violently ill if he eats while sitting
-5184 Target becomes wildly drunk when he’s next hit by a weapon
- 45
-5185 Target befouls any food or water that he and his allies now carry
-5186 Target befriends a statue and carries it with him everywhere
-5187 Target befriends a statue and thinks it gives him good advice
-5188 Target befriends one of the caster’s allies
-5189 Target befriends the toughest, most dangerous creature he can see
-5190 Target begs someone to bite off 1d10 of his fingers
-5191 Target begs someone to set him ablaze
-5192 Target believes anything the caster says to him
-5193 Target believes everything that he says
-5194 Target believes no factual statement he hears uttered in sunlight
-5195 Target believes that 1d10 of his fingers are intensely magical
-5196 Target believes that he can’t be harmed by a fall from any height
-5197 Target believes that he can’t be slain by metal weapons
-5198 Target believes that his allies are conspiring to rob him
-5199 Target believes that nearly everyone is lying to him
-5200 Target believes that whatever he last ate gave him eternal life
-5201 Target believes that whatever he last ate is still alive
-5202 Target believes that whatever he last ate was a powerful toxin
-5203 Target believes that whatever he last ate was hallucinogenic
-5204 Target believes that whatever he last ate was his last meal
-5205 Target believes that whatever he last ate was worth a fortune
-5206 Target belongs to a cult that requires him to perform horrid acts
-5207 Target belongs to a cult that will remove his heart within a week
-5208 Target bleeds from every orifice for 1d6 rounds but is unharmed
 5209 Target bleeds profusely during combat, even if not wounded
 5210 Target blows bright blue until he’s wounded by a magical weapon
 5211 Target briefly appears to be undead to anyone who wounds him
@@ -98,6 +22,7 @@
 5230 Target can become invisible by drinking a quart of Elf’s blood
 5231 Target can bend his spine 120 degrees midway along its length
 5232 Target can brachiate like an ape but adopts an ape’s proportions 
+
 5233 Target can Call Lightning daily but it’s 70 percent likely to strike him
 5234 Target can cast one Wish spell but permanently dies as a result
 5235 Target can cause one nearby tree to become invisible for 2d6 days
@@ -122,6 +47,7 @@
 5254 Target can divine the caster’s exact location 1d4 times per day
 5255 Target can do nothing but scream for 1d8 rounds
 5256 Target can easily be persuaded to disarm himself
+
 5257 Target can erect a four foot high wall of snow once per week
 5258 Target can exhale fire but is 10 percent likely to combust and die
 5259 Target can exhale fire but suffers as much damage as he inflicts
@@ -145,6 +71,7 @@
 5277 Target can ingest and digest small quantities of lamp oil
 5278 Target can ingest and digest small quantities of lead
 5279 Target can ingest and digest small quantities of poison
+
 5280 Target can ingest and digest small quantities of stone
 5281 Target can ingest and digest small quantities of wood 
 5282 Target can issue Commands but is 20 percent likely to die each time
@@ -204,6 +131,7 @@
 5335 Target can see no farther than 20 yards while in sunlight
 5336 Target can see secret doors but can’t see normal ones
 5337 Target can see secret doors if he drinks concentrated poison
+
 5338 Target can see secret doors if he sacrifices 1d6 hit points
 5339 Target can see secret doors while yelling and hopping on one foot
 5340 Target can shine heatless torchlight from his palm at will
@@ -228,6 +156,7 @@
 5359 Target can subsist on only 10 percent of the normal amount of food
 5360 Target can subsist on water alone while he’s at full hit points
 5361 Target can subsist on water but must drink ten gallons per day
+
 5362 Target can Summon and Command an 8HD Earth Elemental 1d6 times
 5363 Target can teleport 1d4 miles per day but ages 8d8 years per mile
 5364 Target can teleport 1d4 miles randomly, once per day
@@ -252,6 +181,7 @@
 5383 Target can’t attack the caster until at least sunset
 5384 Target can’t attack the caster with any weapons containing metal
 5385 Target can’t attack the caster with any weapons containing wood
+
 5386 Target can’t attack until he drops his weapons, gear, and clothes
 5387 Target can’t be affected by the caster’s magic for 1d6 turns
 5388 Target can’t be affected by the intended spell for 1d4 years
@@ -275,6 +205,7 @@
 5406 Target can’t be harmed by magical fire while indoors
 5407 Target can’t be harmed by magical fire while standing in a bucket
 5408 Target can’t be harmed by magical fire while underwater
+
 5409 Target can’t be harmed by natural lightning
 5410 Target can’t be injured by wooden weapons while naked
 5411 Target can’t be injured by wooden weapons while sleeping
